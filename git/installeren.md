@@ -13,7 +13,7 @@ Om samen te werken op 1 project folder moet een een centrale service worden opge
 
 Wij werken met GitHub. Deze zal bij ons dus functioneren als GIT server.
 
-Maak een account aan op GitHub via <a target="_blank" href="https://www.github.com">https://www.github.com</a>
+Maak een GitHub account aan via <a target="_blank" href="https://www.github.com">https://www.github.com</a>
 
 ### GIT client
 
