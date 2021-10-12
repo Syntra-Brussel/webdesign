@@ -26,6 +26,8 @@ Bestanden klaar zetten voor een <em>commit</em>
 Aanpassingen aan verschillende bestanden worden samen goedgekeurd voor publicatie. Een commit krijgt een gepaste omschrijving.
 
 <img src="{{ '/git/images/commit_2.png' | relative_url}}" />
+
+Na de commit:
 <img src="{{ '/git/images/na_commit.png' | relative_url}}" />
 <img src="{{ '/git/images/voor_push.png' | relative_url}}" />
 
