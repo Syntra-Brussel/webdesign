@@ -142,7 +142,7 @@ ul.nav ul ul ul {
 }
 
 .published-no {
-    display: none;
+    display: none!important;
 }
 
 /* On small screens, set height to 'auto' for sidenav and grid */
