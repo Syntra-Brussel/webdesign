@@ -6,7 +6,7 @@ filename: index
 
 ## {{ page.title }}
 
-category: {{ page.url.params.category }}
+{{ site.logo }}
 
 Welkom bij de cursus "Webdesign" van Syntra Brussel.
 
