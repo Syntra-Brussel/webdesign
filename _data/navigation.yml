@@ -1,96 +1,89 @@
 items:
   - url: /git  
-    available: 1
+    published: yes
     collection: git  
     title: 'GIT'
     topics:
       - url: /git/installeren
-        available: 1
+        published: yes
         collection: git_installeren
         title: 'GIT installeren'
-        subjects:
-          - url: /git/installeren/github_service   
-            available: 0    
-            title: 'Github service'
-          - url: /git/installeren/github_client
-            available: 0   
-            title: 'Github client'  
       - url: /git/hoe_werkt_git
-        available: 1     
+        published: yes   
         title: 'Hoe werkt GIT?'
       - url: /git/repository_clonen   
-        available: 1  
+        published: yes
         collection: werken_met_repository
         title: 'Repository clonen'           
       - url: /git/stappen
-        available: 1
+        published: yes
         title: 'Bestanden synchroniseren'
       - url: /git/conflicten
-        available: 0
+        published: no
         title: 'Conflicten'
   - url: /html
-    available: 1
+    published: yes
     collection: html
     title: 'HTML'
     topics:
       - url: /html/introductie
-        available: 1
+        published: yes
         title: Introductie
       - url: /html/elementen    
-        available: 1  
+        published: yes  
         collection: elementen
         title: Elementen
         subjects:
           - url: /html/elementen/openen_sluiten
-            available: 1
+            published: yes
             title: 'Elementen openen en weer sluiten'
           - url: /html/elementen/attributen
-            available: 1
+            published: yes
             title: 'Elementen hebben attributen'
           - url: /html/elementen/meta_elementen
-            available: 1
+            published: yes
             title: 'Meta elementen'            
           - url: /html/elementen/basis_elementen
-            available: 1
+            published: yes
             title: 'Basis elementen voor inhoud'
           - url: /html/elementen/oefening_1
-            available: 1
+            published: yes
             title: 'OEFENING 1: basis elementen'            
           - url: /html/elementen/tabel_element
-            available: 1
+            published: yes
             title: 'Tabel element'
           - url: /html/elementen/oefening_2
-            available: 1
+            published: yes
             title: 'OEFENING 2: Factuur'
           - url: /html/elementen/formulier_elementen
-            available: 1
+            published: yes
             title: 'Formulier elementen'
           - url: /html/elementen/oefening_3
-            available: 1
+            published: yes
             title: 'OEFENING 3: Sollicitatieformulier'            
           - url: /html/elementen/semantisch_vs_niet_semantisch
-            available: 0
+            published: no
             title: 'Niet-semantische vs. semantische elementen'
           - url: /html/elementen/semantische_elementen
-            available: 0
+            published: no
             title: 'Semantische elementen'  
           - url: /html/elementen/block_vs_inline_block
-            available: 0
+            published: no
             title: 'Block elementen vs. inline-block elementen'
           - url: /html/elementen/oefening_4
-            available: 0
+            published: no
             title: 'OEFENING 4: Obelisk startpagina'                                 
       - url: /html/samenvatting
-        available: 0
+        published: no
         title: Samenvatting
       - url: /html/extra_oefening
-        available: 0
+        published: no
         title: Extra oefening
         collection: extra_oefeningen
         subjects:
           - url: /html/extra_oefeningen/extra_oefening_1
-            available: 0
+            published: no
             title: 'EXTRA OEFENING 1: formulier'     
           - url: /html/extra_oefeningen/extra_oefening_2
-            available: 0
+            published: no
             title: 'EXTRA OEFENING 2: Business as Usual'              
