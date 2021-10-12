@@ -24,7 +24,7 @@ items:
         title: 'Werken met een repository'
         subjects:
           - url: /git/werken_met_repository/bestaande  
-            available: 0      
+            available: 0     
             title: 'Bestaande repository'
           - url: /git/werken_met_repository/nieuwe
             available: 0
