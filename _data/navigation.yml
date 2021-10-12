@@ -16,7 +16,7 @@ items:
             available: 0   
             title: 'Github client'  
       - url: /git/hoe_werkt_git
-        available: 0     
+        available: 1     
         title: 'Hoe werkt GIT?'
       - url: /git/repository_clonen   
         available: 1  
