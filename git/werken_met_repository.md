@@ -5,4 +5,4 @@ url: /git/werken_met_repository
 collection: [git, werken_met_repository]
 ---
 
-## Werken met een repository
+## {{ page.title }}

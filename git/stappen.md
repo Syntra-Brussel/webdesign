@@ -5,25 +5,27 @@ url: /git/stappen
 collection: git
 ---
 
-## De stappen in het GIT proces
+## {{ page.title }}
 
-Een bestand toevoegen / wijzigen en zichtbaar maken voor de anderen gebeurt in 3 stappen:
+<img src="{{ '/git/images/push_pull_clone.png' | relative_url}}" />
 
-stage / klaar zetten
-commit / bevestig
-push / duw
-pull / trek
+Een bestand toevoegen / wijzigen en zichtbaar maken voor de anderen teamleden gebeurt in 3 stappen:
 
-### 1. stage / klaar zetten
-Het bestaand klaar gezet voor een commit
+<ol>
+<li><strong>stage</strong>: bestanden klaar zetten</li>
+<li><strong>commit</strong>: bestanden bevestigen</li>
+<li><strong>push</strong>: bestanden duwen naar de GIT server</li>
+<li><strong>pull</strong>: bestanden ophalen van de GIT server</li>
+</ol>
 
-### 2. Commit / bevestig
+### 1. stage
+Het bestaand klaar gezet voor een <em>commit</em>
+
+### 2. commit
 Aanpassingen aan verschillende bestanden worden samen goedgekeurd voor publicatie. Een commit krijgt een gepaste omschrijving.
 
-### 3. Push / duw
+### 3. push
 Een commit die werd gedaan kan nu naar de GIT server worden verstuurd.
 
-### 4. Pull / trekken
+### 4. pull
 De aanpassingen kunnen nu door de andere op hun eigen computer worden gesynchroniseerd.
-
-<iframe loading="lazy" title="GIT &quot;stage&quot;, &quot;commit&quot;, &quot;push&quot;" width="1200" height="900" src="https://www.youtube.com/embed/gkefaguO19w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

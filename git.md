@@ -18,9 +18,3 @@ Op de computer van elke ontwikkelaar worden de aanpassingen aan bestanden bijgeh
 Het is oorspronkelijk door Linux ontwikkeld voor de Open Source gemeenschap maar wordt ondertussen door de grootste tech spelers als dienst aangeboden: BitBucket, GitHub, GoogleCloud, GitLab, …
 
 Wij werken in deze cursus via <strong>GitHub</strong>.
-
-<img src="{{ '/git/images/push_pull_clone.png' | relative_url}}" />
-
-GIT kan aangestuurd worden door commando’s via de terminal (CLI - Command Line Interface) maar er zijn ook al tal programma’s die het werken met GIT eenvoudiger maken (GUI - Graphical Uuser Interface).
-
-Wij werken in deze cursus via Github Desktop die zowel een Windows als een Mac versie heeft.

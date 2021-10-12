@@ -16,7 +16,7 @@ items:
             available: 0   
             title: 'Github client'  
       - url: /git/belangrijkste_termen
-        available: 1     
+        available: 0     
         title: 'Belangrijkste termen'
       - url: /git/werken_met_repository   
         available: 1  
@@ -33,7 +33,7 @@ items:
         available: 1
         title: 'De stappen in het GIT proces'
       - url: /git/conflicten
-        available: 1
+        available: 0
         title: 'Conflicten'
   - url: /html
     available: 1
