@@ -20,56 +20,10 @@
         <div class="row content">
             <div class="col-sm-3 sidenav">
                 <div class="logo">
-                    <a href="index"><img src="{{ site.logo | relative_url}}" /></a>
+                    <a href="{{ '/' | relative_url}}"><img src="{{ site.logo | relative_url}}" /></a>
                 </div>
                 <nav>	
-                    <ul class="nav nav-list">
-                        {% for item in site.data.navigation.items %} 
-                            {% if item.available == 1 %}
-                                {% assign item_url = item.url | append: '.html' %}
-                                {% if page.url == item_url %}
-                                    <li class="active"><a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                                {% else %} 
-                                    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                                {% endif %}
-                                {% if page.collection contains item.collection %}
-                                    {% if item.topics %}
-                                        <ul class="nav nav-list">
-                                        {% for topic in item.topics %}
-                                            {% if topic.available == 1 %}
-                                                {% assign topic_url = topic.url | append: '.html' %}
-                                                {% if page.url == topic_url %}
-                                                    <li class="active"><a href="{{ topic.url | relative_url }}">{{ topic.title }}</a>
-                                                {% else %} 
-                                                    <li><a href="{{ topic.url | relative_url }}">{{ topic.title }}</a>
-                                                {% endif %}                                 
-                                                {% if page.collection contains topic.collection %}
-                                                    {% if topic.subjects %}
-                                                        <ul class="nav nav-list">
-                                                        {% for subject in topic.subjects %}
-                                                            {% if subject.available == 1 %}
-                                                                {% assign subject_url = subject.url | append: '.html' %}
-                                                                {% if page.url == subject_url %}
-                                                                    <li class="active"><a href="{{ subject.url | relative_url }}">{{ subject.title }}</a>
-                                                                {% else %} 
-                                                                    <li><a href="{{ subject.url | relative_url }}">{{ subject.title }}</a>
-                                                                {% endif %}
-                                                                </li>
-                                                            {% endif %}
-                                                        {% endfor %}
-                                                        </ul>
-                                                    {% endif %}
-                                                {% endif %}
-                                                </li>
-                                            {% endif %}
-                                        {% endfor %}
-                                        </ul>
-                                    {% endif %}
-                                {% endif %}
-                                </li>
-                            {% endif %}
-                        {% endfor %}            
-                    </ul>
+                    {% include navigation.html %}
                 </nav>   
             </div>
 
