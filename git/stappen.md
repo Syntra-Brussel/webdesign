@@ -1,13 +1,11 @@
 ---
 layout: template
-title: De stappen in het GIT proces
+title: Bestanden synchroniseren
 url: /git/stappen
 collection: git
 ---
 
 ## {{ page.title }}
-
-<img src="{{ '/git/images/push_pull_clone.png' | relative_url}}" />
 
 Een bestand toevoegen / wijzigen en zichtbaar maken voor de anderen teamleden gebeurt in 3 stappen:
 

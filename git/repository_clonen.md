@@ -1,8 +1,8 @@
 ---
 layout: template
-title: Werken met een repository
-url: /git/werken_met_repository
-collection: [git, werken_met_repository]
+title: Repository clonen
+url: /git/repository_clonen
+collection: git
 ---
 
 ## {{ page.title }}

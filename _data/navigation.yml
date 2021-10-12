@@ -15,23 +15,16 @@ items:
           - url: /git/installeren/github_client
             available: 0   
             title: 'Github client'  
-      - url: /git/belangrijkste_termen
+      - url: /git/hoe_werkt_git
         available: 0     
-        title: 'Belangrijkste termen'
-      - url: /git/werken_met_repository   
+        title: 'Hoe werkt GIT?'
+      - url: /git/repository_clonen   
         available: 1  
         collection: werken_met_repository
-        title: 'Werken met een repository'
-        subjects:
-          - url: /git/werken_met_repository/bestaande  
-            available: 0     
-            title: 'Bestaande repository'
-          - url: /git/werken_met_repository/nieuwe
-            available: 0
-            title: 'Nieuwe repository'            
+        title: 'Repository clonen'           
       - url: /git/stappen
         available: 1
-        title: 'De stappen in het GIT proces'
+        title: 'Bestanden synchroniseren'
       - url: /git/conflicten
         available: 0
         title: 'Conflicten'
