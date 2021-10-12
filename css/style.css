@@ -141,6 +141,9 @@ ul.nav ul ul ul {
     border-left: #C0C0C0 1px solid!important;
 }
 
+.published-no {
+    display: none;
+}
 
 /* On small screens, set height to 'auto' for sidenav and grid */
 @media screen and (max-width: 767px) {
