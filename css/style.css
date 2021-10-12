@@ -79,7 +79,7 @@ quote {
     padding-bottom: 30px;
 }
 
-.content-right *:first-child {
+.content-right > *:first-child {
     margin-bottom: 3rem;
 }
 
