@@ -35,4 +35,4 @@ Een commit die werd gedaan kan nu naar de GIT server worden verstuurd.
 <img src="{{ '/git/images/na_push.png' | relative_url}}" />
 
 ### 4. pull
-De aanpassingen kunnen nu door de andere team leden op hun computer worden gesynchroniseerd.
+De aanpassingen kunnen nu door de andere team leden op hun computer worden gesynchroniseerd. 
