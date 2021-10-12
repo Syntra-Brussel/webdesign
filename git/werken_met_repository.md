@@ -12,7 +12,7 @@ collection: [git, werken_met_repository]
 <img src="{{ '/git/images/clone_url_github.png' | relative_url}}" />
 </li>
 <li>
-Plak de <em>clone URL<em> van de repository in GitHub Desktop.
+Plak de <em>clone URL</em> van de repository in GitHub Desktop.
 <img src="{{ '/git/images/clone_url_desktop.png' | relative_url}}" />
 </li>
 </ol>
