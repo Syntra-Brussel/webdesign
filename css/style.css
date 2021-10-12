@@ -79,6 +79,10 @@ quote {
     padding-bottom: 30px;
 }
 
+.content-right *:first-child {
+    margin-bottom: 3rem;
+}
+
 .sidenav {
     padding-right: 30px;
     padding-left: 15px;
