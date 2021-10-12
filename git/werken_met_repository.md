@@ -9,7 +9,7 @@ collection: [git, werken_met_repository]
 
 <ol>
     <li>
-    Kopieer de <em>>clone URL</em> van de repository op GitHub.
+    Kopieer de <em>clone URL</em> van de repository op GitHub.
     <img src="{{ '/git/images/clone_url_github.png' | relative_url}}" />
     </li>
     <li>
