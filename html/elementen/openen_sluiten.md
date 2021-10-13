@@ -17,7 +17,7 @@ Het <span style="color: red">&lt;head&gt;</span> element staat rond de niet zich
 
 Het <span style="color: red">&lt;body&gt;</span> element bevat de de zichtbare inhoud.
 
-<img src="{{ '/html/elementen/images/html_zichtbaar.png' | relative_url}}" />
+<img class="shadow" src="{{ '/html/elementen/images/html_zichtbaar.png' | relative_url}}" />
 
 ### Elementen zonder inhoud
 
