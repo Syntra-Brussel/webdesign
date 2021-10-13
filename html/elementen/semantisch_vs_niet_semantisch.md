@@ -10,7 +10,7 @@ collection: [html, elementen]
 ### Niet semantische elementen
 Historisch gezien zijn de elementen in een HTML-document altijd al belangrijk geweest voor de opmaak en de interactie. Gaandeweg zijn die elementen ook belangrijker geworden om de doorzoekbaarheid door zoekmotoren als Google te verbeteren. 
 
-De belangrijkste niet-semantische elementen zijn het <code><div></code> element en het <code><span></code> element. 
+De belangrijkste niet-semantische elementen zijn het <code>&lt;div&gt;</code> element en het <code>&lt;span&gt;</code> element. 
 
 De naam van de elementen hebben geen betekenis en ze hebben ook geen basis opmaak in browser maar ze maken opmaak en interactie mogelijk. Daar gaan we zeker nog verder op in verder in deze cursus.
 
