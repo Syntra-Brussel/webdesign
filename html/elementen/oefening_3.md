@@ -10,7 +10,7 @@ collection: [html, elementen]
 <div class="highlight">
     <h3>instructies</h3>
     <ul>
-        <li>maak in de html folder een bestand met de naam oefening_3_sollicitatieformulier.html aan</li>
+        <li>maak in de html "folder" een bestand met de naam "oefening_3_sollicitatieformulier.html" aan</li>
         <li>Schrijf de HTML code voor het sollicitatie formulier</li>
         <li>Opgelet: gebruik géén table element. Het opmaken (via class of style attribuut) is nog niet nodig</li>
         <li>Schrijf enkel HTML code: gebruik geen class of style attribuut</li>
