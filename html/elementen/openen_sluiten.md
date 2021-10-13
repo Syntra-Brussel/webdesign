@@ -7,7 +7,7 @@ collection: [html, elementen]
 
 ## {{ page.title }}
 
-
+### Elementen met inhoud
 <img src="{{ '/html/elementen/images/html.png' | relative_url}}" />
 
 Elementen staan rond de inhoud waarop ze betrekking hebben. Het <span style="color: green">&lt;html&gt;</span> element heeft betrekking op de volledige inhoud en staat dus rond alle inhoud.
@@ -18,6 +18,13 @@ Het <span style="color: red">&lt;body&gt;</span> element bevat de de zichtbare i
 
 <img src="{{ '/html/elementen/images/html_zichtbaar.png' | relative_url}}" />
 
-Sommige tags bevatten geen inhoud. Ze worden dan niet geopend en terug gesloten maar meteen gesloten:
+### Elementen zonder inhoud
 
-Het <span style="color: blue">&lt;br /&gt;</span> element zorgt voor een “soft”-enter. De inhoud die volgt gaat op een nieuwe lijn verder.
+Sommige elementen hebben geen inhoud. Ze kunnen dus niet "klassiek" geopend en gesloten worden maar worden "meteen" gesloten.
+
+Voorbeelden van elementen:
+<ul>
+    <li><code>&lt;img&gt;</code>: het tonen van een beeld</li>
+    <li><code>&lt;br&gt;</code>: het tonen van een "soft"-enter</li>
+    <li><code>&lt;hr&gt;</code>: het tonen van een horizontale</li>
+</ul> 
