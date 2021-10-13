@@ -141,6 +141,7 @@ ul.nav ul ul ul {
     border-left: #C0C0C0 1px solid!important;
 }
 
+.nav>li.published-no,
 .published-no {
     display: none;
 }
