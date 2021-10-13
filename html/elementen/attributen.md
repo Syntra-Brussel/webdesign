@@ -28,7 +28,7 @@ In dit voorbeeld wordt een beeld (“image”) getoond. Het attribuut <code>src<
 ### Het <code>class</code> attribuut
 Je kan een <code>class</code> gebruiken voor het opmaken van eender welk HTML element.
 
-<img src="{{ '/html/elementen/images/attributen_4.png' | relative_url}}" />.
+<img src="{{ '/html/elementen/images/attributen_4.png?v=1' | relative_url}}" />.
 
 Een <code>class</code> is vooral nuttig wanneer je meerdere elementen een zelfde opmaak wil geven.
 
@@ -38,7 +38,7 @@ We zullen dit nog uitvoerig bekijken wanneer we over "CSS" leren.
 
 Je kan een <code>id</code> gebruiken om een element <strong>specifiek</strong> te benaderen. 
 
-<img src="{{ '/html/elementen/images/attributen_5.png' | relative_url}}" />
+<img src="{{ '/html/elementen/images/attributen_5.png?v=1' | relative_url}}" />
 
 In dit geval mag er dus geen ander element binnen de webpagina voorkomen met <code>id</code> "logo".
 
