@@ -13,6 +13,7 @@ Elementen hebben doorgaans attributen om extra eigenschappen aan het element toe
 
 Een attribuut bestaat uit een <span style="color: green">naam</span>, een <span style="color: red">=</span> en vervolgens een <span style="color: blue">waarde</span> tussen dubbele quotes.
 
+#### <code>href</code> en <code>target</code> attributen bij een link element (<code>&lt;a&gt;</code>).
 <img src="{{ '/html/elementen/images/attributen_1.png' | relative_url}}" />
 
 In dit voorbeeld wordt een link getoond (een “<strong>a</strong>nchor”). De waarde van het <code>href</code> attribuut is de URL die wordt geopend als je er klikt.
@@ -21,9 +22,10 @@ In dit voorbeeld wordt een link getoond (een “<strong>a</strong>nchor”). De 
 
 Standaard wordt een link geopend in het zelfde venster. Het <code>target</code> attribuut geeft aan dat de link wordt geopend in een nieuw venster.
 
+#### <code>src</code> attribuut bij een beeld element (<code>&lt;img&gt;</code>).
 <img src="{{ '/html/elementen/images/attributen_3.png' | relative_url}}" />
 
-In dit voorbeeld wordt een beeld (“image”) getoond. Het attribuut <code>src</code> bevat de URL naar het beeld. Een <code>&lt;img&gt;</code> element heeft geen inhoud dus wordt het meteen gesloten.
+In dit voorbeeld wordt een beeld getoond. Het attribuut <code>src</code> bevat de URL naar het beeld. 
 
 ### Het <code>class</code> attribuut
 Je kan een <code>class</code> gebruiken voor het opmaken van eender welk HTML element.
