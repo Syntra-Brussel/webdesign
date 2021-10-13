@@ -26,23 +26,23 @@ Standaard wordt een link geopend in het zelfde venster. Het <code>target</code> 
 In dit voorbeeld wordt een beeld (“image”) getoond. Het attribuut <code>src</code> bevat de URL naar het beeld. Een <code>&lt;img&gt;</code> element heeft geen inhoud dus wordt het meteen gesloten.
 
 ### Het <code>class</code> attribuut
-Een belangrijk attribuut voor het opmaken van HTML elementen is het <code>class</code> attribuut.
+Een belangrijk attribuut voor het opmaken van eender welk HTML element is het <code>class</code> attribuut.
 
 <img src="{{ '/html/elementen/images/attributen_4.png' | relative_url}}" />
 
-Via een bepaalde <code>class</code> attribuut toe te kennen aan of meerdere elementen kan je specifieke opmaak toepassen.
+Door een bepaalde <code>class</code> toe te kennen aan of meerdere elementen kan je specifieke opmaak toepassen op die elementen.
 
 We zullen dit nog uitvoerig bekijken wanneer we over "CSS" leren.
 
 ### Het <code>id</code> attribuut
 
-Een ander belangrijk attribuut is het <code>id</code> attribuut. 
+Je kan een <code>id<code> gebruiken om een element <strong>specifiek</strong> te benaderen. 
 
 <img src="{{ '/html/elementen/images/attributen_5.png' | relative_url}}" />
 
-Je kan een <code>id<code> bepalen om een element <strong>uniek</strong> te benaderen. In dit geval mag er dus geen ander element binnen de webpagina voorkomen met <code>id</code>.
+In dit geval mag er dus geen ander element binnen de webpagina voorkomen met <code>id</code> "logo".
 
-Het <code>id<code> attribuut wordt vaak gebruikt om een element vanuit JavaScript te benaderen. Bijvoorbeeld bij het valideren van formulier invoer.
+Het <code>id<code> attribuut wordt vaak gebruikt om een element vanuit JavaScript te benaderen. Bijvoorbeeld voor het valideren van formulier invoer of het manipuleren van de HTML elementen.
 
 
 
