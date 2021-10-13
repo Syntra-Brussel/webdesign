@@ -7,8 +7,9 @@ collection: [html, elementen]
 
 ## {{ page.title }}
 
-### Elementen met inhoud
 <img src="{{ '/html/elementen/images/html.png' | relative_url}}" />
+
+### Elementen met inhoud
 
 Elementen staan rond de inhoud waarop ze betrekking hebben. Het <span style="color: green">&lt;html&gt;</span> element heeft betrekking op de volledige inhoud en staat dus rond alle inhoud.
 
