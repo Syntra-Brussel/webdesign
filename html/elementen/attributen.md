@@ -26,11 +26,11 @@ Standaard wordt een link geopend in het zelfde venster. Het <code>target</code> 
 In dit voorbeeld wordt een beeld (“image”) getoond. Het attribuut <code>src</code> bevat de URL naar het beeld. Een <code>&lt;img&gt;</code> element heeft geen inhoud dus wordt het meteen gesloten.
 
 ### Het <code>class</code> attribuut
-Een belangrijk attribuut voor het opmaken van eender welk HTML element is het <code>class</code> attribuut.
+Je kan een <code>class</code> gebruiken voor het opmaken van eender welk HTML element.
 
-<img src="{{ '/html/elementen/images/attributen_4.png' | relative_url}}" />
+<img src="{{ '/html/elementen/images/attributen_4.png' | relative_url}}" />.
 
-Door een bepaalde <code>class</code> toe te kennen aan of meerdere elementen kan je specifieke opmaak toepassen op die elementen.
+Een <code>class</code> is vooral nuttig wanneer je meerdere elementen een zelfde opmaak wil geven.
 
 We zullen dit nog uitvoerig bekijken wanneer we over "CSS" leren.
 
