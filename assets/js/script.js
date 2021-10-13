@@ -1,7 +1,7 @@
 $(document).ready(function() {
     const params = new URLSearchParams(window.location.search)
     if (params.has('all')) {
-        console.log(params.getAll());
+        console.log(params.getAll("all"));
         all = params.get("all");
         if (all == "") {
             all = 1;
