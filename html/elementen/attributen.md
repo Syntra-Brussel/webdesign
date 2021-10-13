@@ -30,7 +30,7 @@ In dit voorbeeld wordt een beeld getoond. Het attribuut <code>src</code> bevat d
 ### Het <code>class</code> attribuut
 Je kan een <code>class</code> gebruiken voor het opmaken van eender welk HTML element.
 
-<img src="{{ '/html/elementen/images/attributen_4.png?v=1' | relative_url}}" />.
+<img src="{{ '/html/elementen/images/attributen_4.png?v=1' | relative_url}}" />
 
 Een <code>class</code> is vooral nuttig wanneer je <strong>meerdere elementen</strong> een zelfde opmaak wil geven.
 
