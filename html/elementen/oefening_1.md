@@ -1,6 +1,6 @@
 ---
 layout: template
-title: Oefening 1
+title: 'Oefening 1: Basis elementen'
 url: /html/elementen/oefening_1
 collection: [html, elementen]
 ---
