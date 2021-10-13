@@ -25,7 +25,7 @@ Sommige elementen hebben geen inhoud. Ze kunnen dus niet "klassiek" geopend en g
 
 Voorbeelden van elementen:
 <ul>
-    <li><code>&lt;img&gt;</code>: het tonen van een beeld</li>
-    <li><code>&lt;br&gt;</code>: het tonen van een "soft"-enter</li>
-    <li><code>&lt;hr&gt;</code>: het tonen van een horizontale</li>
+    <li><code>&lt;img /&gt;</code>: het tonen van een beeld</li>
+    <li><code>&lt;br /&gt;</code>: het tonen van een "soft"-enter</li>
+    <li><code>&lt;hr /&gt;</code>: het tonen van een horizontale</li>
 </ul> 
