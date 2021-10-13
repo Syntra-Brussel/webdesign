@@ -37,7 +37,7 @@ Van belangrijk naar minder belangrijk:
 </pre>
 Weinig opmaak, enkele een verschil in grootte.
 
-<img src="{{ '/html/elementen/images/h1-h5.png' | relative_url}}" />
+<img class="shadow" src="{{ '/html/elementen/images/h1-h5.png' | relative_url}}" />
 
 ### Vette tekst
 <pre data-enlighter-language="html">
