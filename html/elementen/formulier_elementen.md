@@ -143,5 +143,5 @@ Een verzend knop verzend de inhoud van het formulier naar de de URL die in het <
 
 #### Bestand opladen
 <pre data-enlighter-language="html">
-&lt;input type=&quot;file&quot; name=&quot;bestand&quot;&gt;
+&lt;input type=&quot;file&quot; name=&quot;bestand&quot; /&gt;
 </pre>
