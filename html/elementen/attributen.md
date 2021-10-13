@@ -36,13 +36,13 @@ We zullen dit nog uitvoerig bekijken wanneer we over "CSS" leren.
 
 ### Het <code>id</code> attribuut
 
-Je kan een <code>id<code> gebruiken om een element <strong>specifiek</strong> te benaderen. 
+Je kan een <code>id</code> gebruiken om een element <strong>specifiek</strong> te benaderen. 
 
 <img src="{{ '/html/elementen/images/attributen_5.png' | relative_url}}" />
 
 In dit geval mag er dus geen ander element binnen de webpagina voorkomen met <code>id</code> "logo".
 
-Het <code>id<code> attribuut wordt vaak gebruikt om een element vanuit JavaScript te benaderen. Bijvoorbeeld voor het valideren van formulier invoer of het manipuleren van de HTML elementen.
+Het <code>id</code> attribuut wordt vaak gebruikt om een element vanuit JavaScript te benaderen. Bijvoorbeeld voor het valideren van formulier invoer of het manipuleren van de HTML elementen.
 
 
 
