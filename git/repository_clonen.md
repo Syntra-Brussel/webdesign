@@ -17,7 +17,7 @@ collection: git
     <img src="{{ '/git/images/clone_url_desktop.png' | relative_url}}" />
     </li> 
     <li>
-    Je kan nu de gecloonde folder in Visual Studio Code openen via "File" > "Open Workspace".
+    Je kan nu de gecloonde folder in Visual Studio Code openen via "File" > "Open Folder".
     </li>
 </ol>
 
