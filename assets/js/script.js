@@ -1,7 +1,7 @@
 $(document).ready(function() {
     const params = new URLSearchParams(window.location.search)
     if (params.has('all')) {
-        all = params.getAll("all");
+        let all = params.getAll("all");
         if (all == "") {
             all = 1;
         }
@@ -9,6 +9,7 @@ $(document).ready(function() {
     }
 
     let all = sessionStorage.getItem('all');
+    console.log(all);
     if (all == 1) {
         $(".published-no").css("display", "block");
     }
