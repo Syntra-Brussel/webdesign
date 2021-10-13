@@ -8,8 +8,7 @@ $(document).ready(function() {
         sessionStorage.setItem('all', all);
     }
 
-    let all = sessionStorage.getItem('all');
-    console.log(all);
+    let all = parseInt(sessionStorage.getItem('all'));
     if (all == 1) {
         $(".published-no").css("display", "block");
     }
