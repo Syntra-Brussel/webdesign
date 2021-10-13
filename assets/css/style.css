@@ -31,7 +31,7 @@ h3, h4 {
 }
  
 h1, h2 {
-    color: #930201;
+    color: #FF3521;
 }
 
 img {
@@ -140,7 +140,7 @@ footer {
 .nav>li.active>a, .nav>li.active>a:focus, .nav>li.active>a:hover {
     background-color: #E0E0E0;
     border-left: #FF3521 2px solid;
-    color: #930201!important;
+    color: #000!important;
     font-weight: bold;
 } 
 
