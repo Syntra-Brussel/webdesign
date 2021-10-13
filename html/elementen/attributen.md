@@ -30,13 +30,13 @@ Je kan een <code>class</code> gebruiken voor het opmaken van eender welk HTML el
 
 <img src="{{ '/html/elementen/images/attributen_4.png?v=1' | relative_url}}" />.
 
-Een <code>class</code> is vooral nuttig wanneer je meerdere elementen een zelfde opmaak wil geven.
+Een <code>class</code> is vooral nuttig wanneer je <strong>meerdere elementen</strong> een zelfde opmaak wil geven.
 
 We zullen dit nog uitvoerig bekijken wanneer we over "CSS" leren.
 
 ### Het <code>id</code> attribuut
 
-Je kan een <code>id</code> gebruiken om een element <strong>specifiek</strong> te benaderen. 
+Je kan een <code>id</code> gebruiken om een <strong>specifiek element</strong> te benaderen. 
 
 <img src="{{ '/html/elementen/images/attributen_5.png?v=1' | relative_url}}" />
 
