@@ -29,7 +29,7 @@ collection: [html, elementen]
     <td>12u00</td><td>130u00</td><td>Broodjes maaltijd</td><td>12u00</td><td>130u00</td><td>Broodjes maaltijd</td>
 <tr>
 <tr>
-    <td>13u00</td><td>14u30</td><td>Sessie 1</td><td rowspan="3">13u00</td><td>16u30</td><td>Oefeningen maken</td>
+    <td>13u00</td><td>14u30</td><td>Sessie 1</td><td rowspan="4">13u00</td><td rowspan="4">16u30</td><td rowspan="4">Oefeningen maken</td>
 <tr>
 <tr>
     <td>14u30</td><td>14u45</td><td>Koffie pauze</td>
@@ -38,7 +38,7 @@ collection: [html, elementen]
     <td>14u45</td><td>15u45</td><td>Sessie 2</td>
 <tr>
 <tr>
-    <td>15u45</td><td>16u30</td><td>Q&A</td>
+    <td>15u45</td><td>16u00</td><td>Q&A</td>
 <tr>
 <tr>
     <td colspan="3"></td><td>16u00</td><td>17u00</td><td>Receptie</td>
