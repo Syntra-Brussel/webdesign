@@ -21,7 +21,7 @@ collection: [html, elementen]
     <tr>
         <th colspan="3">Maandag 18 oktober 2021</th>
         <th colspan="3">Dinsdag 19 oktober 2021</th>
-    <tr>
+    </tr>
     <tr>
         <td>Start</td>
         <td>Einde</td>
