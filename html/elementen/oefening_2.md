@@ -1,6 +1,6 @@
 ---
 layout: template
-title: 'Oefening 2: Tijd schema'
+title: 'Oefening 2: Tijdschema'
 url: /html/elementen/oefening_2
 collection: [html, elementen]
 ---
@@ -19,7 +19,7 @@ collection: [html, elementen]
 
 <table>
 <tr>
-    <td colspan="3">Maandag 18 oktober 2021</td>
+    <th colspan="3">Maandag 18 oktober 2021</th>
 <tr>
 <tr>
     <td>Start</td><td>Einde</td><td>Event</td>
@@ -42,4 +42,4 @@ collection: [html, elementen]
 <tr>
     <td>16u00</td><td>17u00</td><td>Receptie</td>
 <tr>
-</td>
+</table>
