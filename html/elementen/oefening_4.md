@@ -1,6 +1,6 @@
 ---
 layout: template
-title: Oefening 4
+title: 'Oefening 4: Obelisk'
 url: /html/elementen/oefening_4
 collection: [html, elementen]
 ---
@@ -10,7 +10,7 @@ collection: [html, elementen]
 <div class="highlight">
     <h3>instructies</h3>
     <ul>
-        <li>maak in de folder "html" een bestand met de naam "oefening_4_obelisk.html"</li>
+        <li>maak in de folder "html" een bestand met de naam "oefening_4.html"</li>
         <li>Schrijf de HTML code voor het pagina hieronder</li>
         <li>Structuur met de correcte (semantische) elementen</li>
         <li>Opgelet: gebruik géén table element. Het opmaken (via class of style attribuut) is nog niet nodig</li>
