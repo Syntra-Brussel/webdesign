@@ -17,7 +17,7 @@ collection: [html, elementen]
     </ul>
 </div>
 
-<table>
+<table border="1" cellpadding="10">
 <tr>
     <th colspan="3">Maandag 18 oktober 2021</th>
     <th colspan="3">Dinsdag 19 oktober 2021</th>
