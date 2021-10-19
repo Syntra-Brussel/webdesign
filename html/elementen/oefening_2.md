@@ -17,6 +17,8 @@ collection: [html, elementen]
     </ul>
 </div>
 
+<img class="shadow center" src="{{ '/html/elementen/images/oefening_2_tabel.png' | relative_url}}" />
+
 <table border="1" cellpadding="10">
     <tr>
         <th colspan="3">Maandag 18 oktober 2021</th>
