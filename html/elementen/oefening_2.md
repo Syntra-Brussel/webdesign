@@ -1,6 +1,6 @@
 ---
 layout: template
-title: 'Oefening 2: Factuur'
+title: 'Oefening 2: Tijd schema'
 url: /html/elementen/oefening_2
 collection: [html, elementen]
 ---
@@ -17,4 +17,29 @@ collection: [html, elementen]
     </ul>
 </div>
 
-<img class="shadow center" src="{{ '/html/elementen/images/oefening_2.png' | relative_url}}" />
+<table>
+<tr>
+    <td colspan="3">Maandag 18 oktober 2021</td>
+<tr>
+<tr>
+    <td>Start</td><td>Einde</td><td>Event</td>
+<tr>
+<tr>
+    <td>12u00</td><td>130u00</td><td>Broodjes maaltijd</td>
+<tr>
+<tr>
+    <td>13u00</td><td>14u30</td><td>Sessie 1</td>
+<tr>
+<tr>
+    <td>14u30</td><td>14u45</td><td>Koffie pauze</td>
+<tr>
+<tr>
+    <td>14u45</td><td>15u45</td><td>Sessie 2</td>
+<tr>
+<tr>
+    <td>15u45</td><td>16u30</td><td>Q&A</td>
+<tr>
+<tr>
+    <td>16u00</td><td>17u00</td><td>Receptie</td>
+<tr>
+</td>

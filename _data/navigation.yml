@@ -54,7 +54,7 @@ items:
             title: 'Tabel element'
           - url: /html/elementen/oefening_2
             published: 'yes'
-            title: 'OEFENING 2: Factuur'
+            title: 'OEFENING 2: Tijdschema'
           - url: /html/elementen/formulier_elementen
             published: 'yes'
             title: 'Formulier elementen'
@@ -86,4 +86,7 @@ items:
             title: 'EXTRA OEFENING 1: formulier'     
           - url: /html/extra_oefeningen/extra_oefening_2
             published: 'no'
-            title: 'EXTRA OEFENING 2: Business as Usual'              
+            title: 'EXTRA OEFENING 2: Business as Usual'     
+          - url: /html/extra_oefeningen/extra_oefening_3
+            published: 'no'
+            title: 'EXTRA OEFENING 3: Factuur'                          
