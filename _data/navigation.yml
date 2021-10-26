@@ -62,16 +62,16 @@ items:
             published: 'yes'
             title: 'OEFENING 3: Sollicitatieformulier'            
           - url: /html/elementen/semantisch_vs_niet_semantisch
-            published: 'no'
+            published: 'yes'
             title: 'Niet-semantische vs. semantische elementen'
           - url: /html/elementen/semantische_elementen
-            published: 'no'
+            published: 'yes'
             title: 'Semantische elementen'  
           - url: /html/elementen/block_vs_inline_block
-            published: 'no'
+            published: 'yes'
             title: 'Block elementen vs. inline-block elementen'
           - url: /html/elementen/oefening_4
-            published: 'no'
+            published: 'yes'
             title: 'OEFENING 4: Hondenhoekje'                                 
       - url: /html/samenvatting
         published: 'no'
