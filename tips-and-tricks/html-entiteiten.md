@@ -16,7 +16,7 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
       <th>Teken</th>
       <th>Omschrijving</th>
       <th>Entiteit naam</th>
-      <th>Entiteit (hex) nummer</th> 
+      <th>Entiteit (hexa) code</th> 
     </tr>
     <tr>
       <td style="height: 29px"></td>
