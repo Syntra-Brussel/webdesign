@@ -6,7 +6,7 @@ collection: tricks
 ---
 ## {{ page.title }}
 
-Om niet teveel tijd te verliezen aan een tijdelijke beeld kan je <em>placeholder<em> beeld gebruiken. 
+Om niet teveel tijd te verliezen aan een tijdelijke beeld kan je een <em>placeholder<em> beeld gebruiken. 
  
 Hier moet je zijn:
 <a target="_blank" href="https://placeholder.com">https://placeholder.com</a>
