@@ -27,7 +27,10 @@ Enkele elementen die belangrijk zijn (en die we verderop on dit hoofdstuk nog ve
     </li>    
     <li>
         <code>&lt;footer&gt;</code>
-    </li>         
+    </li>     
+    <li>
+        <code>&lt;main&gt;</code>
+    </li>     
     <li>
         <code>&lt;section&gt;</code>
     </li>         
