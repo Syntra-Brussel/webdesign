@@ -26,6 +26,21 @@ Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met
 
 <img src="{{ '/html/elementen/images/basis_structuur.jpg' | relative_url}}" />
 
+<pre data-enlighter-language="html">
+&lt;html&gt;
+  &lt;head&gt;&lt;/head&gt;
+  &lt;body&gt;
+    &lt;header&gt;&lt;/header&gt;
+    &lt;nav&gt;&lt;/nav>
+    &lt;section&gt;
+      &lt;main&gt;&lt;/main>
+      &lt;aside&gt;&lt;/aside>
+    &lt;/section&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+
+
 ### Semantische elementen combineren
 <pre data-enlighter-language="html">
 &lt;article&gt; 
