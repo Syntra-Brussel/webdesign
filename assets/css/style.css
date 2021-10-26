@@ -80,8 +80,14 @@ quote {
 
 .highlight h3 {
     color: #FF3521;
-    margin-top: 0;
     border-left: none;
+}
+
+.highlight h3,
+.links h3
+.highlight h4,
+.links h4 {
+    margin-top: 0;
     padding-left: 0;
 }
 
