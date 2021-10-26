@@ -106,3 +106,7 @@ items:
         published: 'yes'
         collection: tricks
         title: 'E-mail adres maskeren'
+      - url: /tips-and-tricks/lorem-ipsum
+        published: 'yes'
+        collection: tricks
+        title: 'Lorem Ipsum'
