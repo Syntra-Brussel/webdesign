@@ -93,3 +93,12 @@ items:
           - url: /html/extra_oefeningen/extra_oefening_4
             published: 'no'
             title: 'EXTRA OEFENING 4: Obelisk'
+  - url: /tips-and-tricks  
+    published: 'yes'
+    collection: tricks  
+    title: 'Tips & tricks'
+    topics:
+      - url: /tips-and-tricks/html-entiteiten            
+        published: 'yes'
+        collection: tricks
+        title: 'HTML entiteiten'      
