@@ -20,4 +20,4 @@ De beelden kan je vinden op mijn GIT repository: https://github.com/VDAB-VSA/vsa
 </div>
 
 
-<img class="shadow center" src="{{ '/html/extra_oefeningen/images/extra_oefening_2.png' | relative_url}}" />
+<img class="shadow center" src="{{ '/html/extra_oefeningen/images/extra_oefening_2_business_as_usual.png' | relative_url}}" />
