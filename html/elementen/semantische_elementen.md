@@ -15,6 +15,8 @@ Bijvoorbeeld: forum post, blog post, nieuws artikel
 
 Het <code><header></code> element slaat op de inhoud in de hoofding.
 
+Het <code><main></code> element bevat de belangrijkste inhoud van de pagina.
+
 Het <code><aside></code> element heeft inhoud die los staat van de hoofd elementen maar er wel aan gerelateerd is.
 
 Het <code><footer></code> element bevat de inhoud onderaan een pagina. 
