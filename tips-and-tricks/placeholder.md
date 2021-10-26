@@ -4,7 +4,7 @@ title: 'Placeholder'
 url: /tips-and-tricks/placeholder
 collection: tricks
 ---
-## title
+## {{ page.title }}
 
 Om niet teveel tijd te verliezen aan een tijdelijke beeld kan je <em>placeholder<em> beeld gebruiken. 
  
