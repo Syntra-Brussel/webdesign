@@ -6,3 +6,5 @@ collection: tricks
 ---
 
 ## {{ page.title }}
+
+De titel zegt het helemaal 😀
