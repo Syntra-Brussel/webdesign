@@ -9,18 +9,14 @@ collection: tricks
 
 Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inhoud dus zowel opbouwen via de invoer van het toetsenbord als via de specifieke code.
 
-<div class="highlight">
-    Door het gebruik van <code>&lt;meta charset="utf-8"&gt;</code> kan je elk character ook zonder die <em>entity code</em> of <em>entity name</em> tonen.
-</div>
-
 ### Enkele veel voorkomende symbolen &#62;
 
 <table class="table">
     <tbody><tr>
-      <th>Result</th>
-      <th>Description</th>
-      <th>Entity Name</th>
-      <th>Entity Number</th> 
+      <th>Teken</th>
+      <th>Omschrijving</th>
+      <th>Entiteit naam</th>
+      <th>Entiteit (hex) nummer</th> 
     </tr>
     <tr>
       <td style="height: 29px"></td>
@@ -97,6 +93,9 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
     </tbody>
 </table>
 
+<div class="highlight">
+    Door het gebruik van <code>&lt;meta charset="utf-8"&gt;</code> kan je elk character ook zonder die <em>entiteit nummer</em> of <em>entiteit naam</em> tonen.
+</div>
 
 Nog veel meer over HTML entiteiten: <a href="https://www.w3schools.com/html/html_entities.asp" target="_blank">https://www.w3schools.com/html/html_entities.asp</a>
 
