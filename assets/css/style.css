@@ -64,7 +64,7 @@ quote {
 
 .links {
     border: 2px solid #000;
-    background-color:rgba(0,0,0, .3);
+    background-color:rgba(0,0,0, .05);
     padding: 1.5rem;
     margin-bottom: 3rem;
 }
@@ -81,6 +81,7 @@ quote {
 .highlight h3 {
     color: #FF3521;
     border-left: none;
+    padding-left: 0;
 }
 
 .highlight h3,
@@ -88,7 +89,11 @@ quote {
 .highlight h4,
 .links h4 {
     margin-top: 0;
-    padding-left: 0;
+}
+
+.highlight p:last-child, 
+.links p:last-child {
+    margin-bottom: 0;
 }
 
 .content-right {

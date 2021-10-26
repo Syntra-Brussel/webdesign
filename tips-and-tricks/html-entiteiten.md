@@ -99,10 +99,12 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
 
 <div class="links">
     <h4>Hier moet je zijn</h4>
-    <p>
-    Nog veel meer over HTML entiteiten: <a href="https://www.w3schools.com/html/html_entities.asp" target="_blank">https://www.w3schools.com/html/html_entities.asp</a>
-    </p>
-    <p> 
-    Ook emoji's worden met UTF-8 ondersteund: <a href="https://nl.piliapp.com/emoji/list/smileys-people/" target="_blank">https://nl.piliapp.com/emoji/list/smileys-people/</a>
-    </p>
+    <ul>
+      <li>
+      Nog veel meer over HTML entiteiten: <a href="https://www.w3schools.com/html/html_entities.asp" target="_blank">https://www.w3schools.com/html/html_entities.asp</a>
+      </li>
+      <li> 
+      Ook emoji's worden met UTF-8 ondersteund: <a href="https://nl.piliapp.com/emoji/list/smileys-people/" target="_blank">https://nl.piliapp.com/emoji/list/smileys-people/</a>
+      </li>
+    </ul>
 </div>
