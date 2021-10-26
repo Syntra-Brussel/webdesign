@@ -97,7 +97,7 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
     Door het gebruik van <code>&lt;meta charset="utf-8"&gt;</code> kan je elk character ook zonder die <em>entiteit nummer</em> of <em>entiteit naam</em> tonen.
 </div>
 
-<div class="highlight">
+<div class="links">
     <h4>Hier moet je zijn</h4>
     <p>
     Nog veel meer over HTML entiteiten: <a href="https://www.w3schools.com/html/html_entities.asp" target="_blank">https://www.w3schools.com/html/html_entities.asp</a>
