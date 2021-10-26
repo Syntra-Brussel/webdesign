@@ -4,7 +4,7 @@ title: 'HTML entiteiten'
 url: /tips-and-tricks/html-entiteiten
 collection: tricks
 ---
-
+ 
 ## {{ page.title }}
 
 Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inhoud dus zowel opbouwen via de invoer van het toetsenbord als via de specifieke code.
