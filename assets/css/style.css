@@ -90,7 +90,9 @@ quote {
 .links h4 {
     margin-top: 0;
 }
-
+ 
+.highlight ul,
+.links ul,
 .highlight p:last-child, 
 .links p:last-child {
     margin-bottom: 0;
