@@ -52,3 +52,7 @@ Enkele elementen die belangrijk zijn (en die we verderop on dit hoofdstuk nog ve
 de zoekmachine kan de inhoud van een HTML-document beter indexeren en de zoekresultaten rijker maken.
 
 <img src="{{ '/html/elementen/images/semantisch.png' | relative_url}}" />
+
+Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met deze elementen:
+
+<img src="{{ '/html/elementen/images/basis_structuur.jpg' | relative_url}}" />
