@@ -97,6 +97,12 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
     Door het gebruik van <code>&lt;meta charset="utf-8"&gt;</code> kan je elk character ook zonder die <em>entiteit nummer</em> of <em>entiteit naam</em> tonen.
 </div>
 
-Nog veel meer over HTML entiteiten: <a href="https://www.w3schools.com/html/html_entities.asp" target="_blank">https://www.w3schools.com/html/html_entities.asp</a>
-
-Ook emoji's worden met UTF-8 ondersteund: <a href="https://nl.piliapp.com/emoji/list/smileys-people/" target="_blank">https://nl.piliapp.com/emoji/list/smileys-people/</a>
+<div class="highlight">
+    <h3>Hier moet je zijn</h3>
+    <p>
+    Nog veel meer over HTML entiteiten: <a href="https://www.w3schools.com/html/html_entities.asp" target="_blank">https://www.w3schools.com/html/html_entities.asp</a>
+    </p>
+    <p> 
+    Ook emoji's worden met UTF-8 ondersteund: <a href="https://nl.piliapp.com/emoji/list/smileys-people/" target="_blank">https://nl.piliapp.com/emoji/list/smileys-people/</a>
+    </p>
+</div>

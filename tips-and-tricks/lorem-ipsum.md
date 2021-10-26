@@ -8,4 +8,7 @@ collection: tricks
 
 Om niet teveel tijd te verliezen aan een tijdelijke tekst kan je <em>lorem ipsum<em> tekst gebruiken. 
 
-Hier moet je zijn: <a target="_blank" href="https://loremipsum.io/">https://loremipsum.io/</a>
+<div class="highlight">
+    <h3>Hier moet je zijn</h3>
+    <p><a target="_blank" href="https://loremipsum.io/">https://loremipsum.io/</a></p>
+</div>
