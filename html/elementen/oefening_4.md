@@ -16,7 +16,7 @@ collection: [html, elementen]
         <li>Opgelet: gebruik géén table element. Het opmaken (via class of style attribuut) is nog niet nodig</li>
         <li>Schrijf enkel HTML code: gebruik geen class of style attribuut</li>
         <li>De zones met rechthoek en kruis zijn plaatsen waar een beeld (= image) moet komen.
-        Je kan <a href="{{ '/oefeningen/assets_hondenhoekje.jpg' | relative_url}}">hier</a> beelden downloaden die je kan gebruiken.
+        Je kan <a href="{{ '/oefeningen/assets_hondenhoekje.zip' | relative_url}}">hier</a> beelden downloaden die je kan gebruiken.
         </li>
     </ul>
 </div>            
