@@ -23,4 +23,9 @@ Je kan het de SPAM bots moeilijker maken door bijvoorbeeld een stukje Javascript
 
 Het is niet heiligmakend maar je maakt het de SPAM bots moeilijker.
 
-Hier moet je zijn: <a target="_blank" href="http://www.email-obfuscator.com">http://www.email-obfuscator.com</a>
+<div class="highlight">
+    <h4>Hier moet je zijn</h4>
+    <p>
+        <a target="_blank" href="http://www.email-obfuscator.com">http://www.email-obfuscator.com</a>
+    </p>
+</div>

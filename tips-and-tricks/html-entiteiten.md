@@ -98,7 +98,7 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
 </div>
 
 <div class="highlight">
-    <h3>Hier moet je zijn</h3>
+    <h4>Hier moet je zijn</h4>
     <p>
     Nog veel meer over HTML entiteiten: <a href="https://www.w3schools.com/html/html_entities.asp" target="_blank">https://www.w3schools.com/html/html_entities.asp</a>
     </p>
