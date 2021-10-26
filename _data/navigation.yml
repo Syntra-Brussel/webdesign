@@ -96,7 +96,7 @@ items:
   - url: /tips-and-tricks  
     published: 'yes'
     collection: tricks  
-    title: 'Tips & tricks'
+    title: 'Tips & Tricks'
     topics:
       - url: /tips-and-tricks/html-entiteiten            
         published: 'yes'
