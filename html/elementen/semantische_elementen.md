@@ -20,6 +20,12 @@ Het <code><aside></code> element heeft inhoud die los staat van de hoofd element
 Het <code><footer></code> element bevat de inhoud onderaan een pagina. 
 Bijvoorbeeld:  auteur van het document, copyright informatie, privacy informatie, contact informatie
 
+### Basis structuur 
+
+Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met deze elementen:
+
+<img src="{{ '/html/elementen/images/basis_structuur.jpg' | relative_url}}" />
+
 ### Semantische elementen combineren
 <pre data-enlighter-language="html">
 &lt;article&gt; 
