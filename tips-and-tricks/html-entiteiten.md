@@ -13,7 +13,7 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
     Door het gebruik van <code>&lt;meta charset="utf-8"&gt;</code> kan je elk character ook zonder die <em>entity code</em> of <em>entity name</em> tonen.
 </div>
 
-### Enkele veel voorkomende symbolen
+### Enkele veel voorkomende symbolen &#62;
 
 <table class="table">
     <tbody><tr>
