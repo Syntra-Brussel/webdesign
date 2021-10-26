@@ -15,7 +15,7 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
 
 ## Enkele veel voorkomende symbolen
 
-<table class="ws-table-all notranslate">
+<table class="table">
     <tbody><tr>
       <th>Result</th>
       <th>Description</th>
@@ -96,6 +96,7 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
     </tr>
     </tbody>
 </table>
+
 
 Nog veel meer over HTML entiteiten: <a href="https://www.w3schools.com/html/html_entities.asp" target="_blank">https://www.w3schools.com/html/html_entities.asp</a>
 
