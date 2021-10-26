@@ -98,7 +98,7 @@ items:
     collection: tricks  
     title: 'Tips & Tricks'
     topics:
-      - url: /tips-and-tricks/html-entiteiten            
+      - url: /tips-and-tricks/html-entiteiten
         published: 'yes'
         collection: tricks
-        title: 'HTML entiteiten'      
+        title: 'HTML entiteiten'
