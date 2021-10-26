@@ -17,4 +17,4 @@ collection: [html, extra_oefeningen]
     </ul>
 </div>
 
-<img class="shadow center" src="{{ '/html/extra_oefeningen/images/extra_oefening_3_factuur.png' | relative_url}}" />
+<img class="shadow center" src="{{ '/oefeningen/factuur.png' | relative_url}}" />

@@ -15,7 +15,9 @@ collection: [html, elementen]
         <li>Structuur met de correcte (semantische) elementen</li>
         <li>Opgelet: gebruik géén table element. Het opmaken (via class of style attribuut) is nog niet nodig</li>
         <li>Schrijf enkel HTML code: gebruik geen class of style attribuut</li>
-        <li>De zones met rechthoek en kruis zijn plaatsen waar een beeld (= image) moet komen. Je kan bijvoorbeeld beelden zoeken via Google.</li>
+        <li>De zones met rechthoek en kruis zijn plaatsen waar een beeld (= image) moet komen.
+        Je kan <a href="{{ '/oefeningen/assets_hondenhoekje.jpg' | relative_url}}">hier</a> beelden downloaden die je kan gebruiken.
+        </li>
     </ul>
 </div>            
-<img class="shadow center" src="{{ '/html/elementen/images/oefening_4_hondenhoekje.jpg' | relative_url}}" />
+<img class="shadow center" src="{{ '/oefeningen/hondenhoekje.jpg' | relative_url}}" />

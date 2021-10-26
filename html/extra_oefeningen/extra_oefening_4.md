@@ -18,4 +18,4 @@ collection: [html, elementen]
         <li>De zones met rechthoek en kruis zijn plaatsen waar een beeld (= image) moet komen. Je kan bijvoorbeeld beelden zoeken via Google.</li>
     </ul>
 </div>            
-<img class="shadow center" src="{{ '/html/extra_oefeningen/images/extra_oefening_4_obelisk.png' | relative_url}}" />
+<img class="shadow center" src="{{ '/oefeningen/obelisk.png' | relative_url}}" />
