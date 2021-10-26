@@ -102,3 +102,7 @@ items:
         published: 'yes'
         collection: tricks
         title: 'HTML entiteiten'
+      - url: /tips-and-tricks/e-mail-maskeren
+        published: 'yes'
+        collection: tricks
+        title: 'E-mail adres maskeren'
