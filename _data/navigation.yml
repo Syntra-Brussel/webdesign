@@ -72,7 +72,7 @@ items:
             title: 'Block elementen vs. inline-block elementen'
           - url: /html/elementen/oefening_4
             published: 'no'
-            title: 'OEFENING 4: Obelisk startpagina'                                 
+            title: 'OEFENING 4: Hondenhoekje'                                 
       - url: /html/samenvatting
         published: 'no'
         title: Samenvatting
@@ -89,4 +89,7 @@ items:
             title: 'EXTRA OEFENING 2: Business as Usual'     
           - url: /html/extra_oefeningen/extra_oefening_3
             published: 'no'
-            title: 'EXTRA OEFENING 3: Factuur'                          
+            title: 'EXTRA OEFENING 3: Factuur'       
+          - url: /html/extra_oefeningen/extra_oefening_4
+            published: 'no'
+            title: 'EXTRA OEFENING 4: Obelisk'
