@@ -3,12 +3,20 @@ xxx
     <div class="links">
     {% if page.links.size == 1 %} 
         <p>
+            {% if page.links.first.label != "" %}
+                {{ page.links.first.label }}: 
+            {% endif %}
             <a target="_blank" href="{{ page.links.first }}">{{ page.links.first }}</a>
         </p>
     {% else %}
         <ul>
         {% for link in page.links %}
-            <li><a target="_blank" href="{{ link.url }}">{{ link.url }}</a></li>
+            <li>
+                {% if link.label != "" %}
+                    {{ link.label }}: 
+                {% endif %}
+                <a target="_blank" href="{{ link.url }}">{{ link.url }}</a>
+            </li>
         {% endfor %}
         </ul>
     {% endif %}

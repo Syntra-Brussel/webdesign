@@ -6,8 +6,6 @@ collection: tricks
 links:
   - url: http://www.email-obfuscator.com
     label: xxx
-  - url: http://www.google.com
-    label: yyy
 ---
  
 ## {{ page.title }}
