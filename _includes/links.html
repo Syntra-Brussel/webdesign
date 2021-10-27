@@ -1,24 +1,25 @@
 xxx
 {% if page.links %}
     <div class="links">
-    {% if page.links.size == 1 %} 
-        <p>
-            {% if page.links.first.label != "" %}
-                {{ page.links.first.label }}: 
-            {% endif %}
-            <a target="_blank" href="{{ page.links.first.link }}">{{ page.links.first.link }}</a>
-        </p>
-    {% else %}
-        <ul>
-        {% for link in page.links %}
-            <li>
-                {% if link.label != "" %}
-                    {{ link.label }}: 
+        <h4>Hier moet je (ook) zijn:</h4>
+        {% if page.links.size == 1 %} 
+            <p>
+                {% if page.links.first.label != "" %}
+                    {{ page.links.first.label }}: 
                 {% endif %}
-                <a target="_blank" href="{{ link.url }}">{{ link.url }}</a>
-            </li>
-        {% endfor %}
-        </ul>
-    {% endif %}
+                <a target="_blank" href="{{ page.links.first.link }}">{{ page.links.first.link }}</a>
+            </p>
+        {% else %}
+            <ul>
+            {% for link in page.links %}
+                <li>
+                    {% if link.label != "" %}
+                        {{ link.label }}: 
+                    {% endif %}
+                    <a target="_blank" href="{{ link.url }}">{{ link.url }}</a>
+                </li>
+            {% endfor %}
+            </ul>
+        {% endif %}
     </div>
 {% endif %}
