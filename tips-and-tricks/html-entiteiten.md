@@ -3,6 +3,11 @@ layout: template
 title: 'HTML entiteiten'
 url: /tips-and-tricks/html-entiteiten
 collection: tricks
+links:
+  - url: https://www.w3schools.com/html/html_entities.asp
+    label: Nog veel meer over HTML entiteiten
+  - url: https://nl.piliapp.com/emoji/list/smileys-people/
+    label: Ook emoji's worden met UTF-8 ondersteund
 ---
  
 ## {{ page.title }}
@@ -95,16 +100,4 @@ Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inh
 
 <div class="highlight">
     Door het gebruik van <code>&lt;meta charset="utf-8"&gt;</code> kan je elk character ook zonder die <em>entiteit nummer</em> of <em>entiteit naam</em> tonen.
-</div>
-
-<div class="links">
-    <h4>Hier moet je zijn</h4>
-    <ul>
-      <li>
-      Nog veel meer over HTML entiteiten: <a href="https://www.w3schools.com/html/html_entities.asp" target="_blank">https://www.w3schools.com/html/html_entities.asp</a>
-      </li>
-      <li> 
-      Ook emoji's worden met UTF-8 ondersteund: <a href="https://nl.piliapp.com/emoji/list/smileys-people/" target="_blank">https://nl.piliapp.com/emoji/list/smileys-people/</a>
-      </li>
-    </ul>
 </div>

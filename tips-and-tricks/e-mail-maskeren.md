@@ -5,7 +5,6 @@ url: /tips-and-tricks/e-mail-maskeren
 collection: tricks
 links:
   - url: http://www.email-obfuscator.com
-    label: xxx
 ---
  
 ## {{ page.title }}
