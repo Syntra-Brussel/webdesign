@@ -6,7 +6,7 @@ xxx
             {% if page.links.first.label != "" %}
                 {{ page.links.first.label }}: 
             {% endif %}
-            <a target="_blank" href="{{ page.links.first }}">{{ page.links.first }}</a>
+            <a target="_blank" href="{{ page.links.first.link }}">{{ page.links.first.link }}</a>
         </p>
     {% else %}
         <ul>
