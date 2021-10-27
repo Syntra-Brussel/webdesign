@@ -3,7 +3,6 @@
         <h4>Hier moet je (ook) zijn:</h4>
         {% if page.links.size == 1 %} 
             {% assign link = page.links.first %}
-            {{ link }}
             <p> 
                 {% if link.label %}
                     {{ link.label }}: 
