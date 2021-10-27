@@ -109,7 +109,8 @@ quote {
     font-family: 'FontAwesome';
     content: "\f25a";
     margin-right: 10px;
-}
+    color: #FF3521;
+} 
 
 .content-right {
     max-width: 1000px;
