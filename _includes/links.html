@@ -3,10 +3,10 @@
         <h4>Hier moet je (ook) zijn:</h4>
         {% if page.links.size == 1 %} 
             <p>
-                {% if page.links.first.label != "" %}
-                    {{ page.links.first.label }}: 
+                {% if page.links.0.label != "" %}
+                    {{ page.links.0.label }}: 
                 {% endif %}
-                <a target="_blank" href="{{ page.links.first.link }}">{{ page.links.first.link }}</a>
+                <a target="_blank" href="{{ page.links.0.link }}">{{ page.links.0.link }}</a>
             </p>
         {% else %}
             <ul>
