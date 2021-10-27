@@ -4,8 +4,8 @@ title: 'E-mail adres maskeren'
 url: /tips-and-tricks/e-mail-maskeren
 collection: tricks
 links:
-  - http://www.email-obfuscator.com
-  - http://www.google.com
+  http://www.email-obfuscator.com
+  http://www.google.com
 ---
  
 ## {{ page.title }}
