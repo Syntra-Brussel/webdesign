@@ -2,11 +2,12 @@
     <div class="links">
         <h4>Hier moet je (ook) zijn:</h4>
         {% if page.links.size == 1 %} 
+            {% var link = page.links.first %}
             <p>
-                {% if page.links.0.label != "" %}
-                    {{ page.links.0.label }}: 
+                {% if link.label != "" %}
+                    {{ link.label }}: 
                 {% endif %}
-                <a target="_blank" href="{{ page.links.0.link }}">{{ page.links.0.link }}</a>
+                <a target="_blank" href="{{ link.url }}">{{ link.rul }}</a>
             </p>
         {% else %}
             <ul>
