@@ -1,0 +1,15 @@
+{% if page.links %}
+    <div class="links">
+    {% if page.links.size == 1 %} 
+        <p>
+            <a target="_blank" href="{{ page.links.first }}">{{ page.links.first }}</a>
+        </p>
+    {% else %}
+        <ul>
+        {% for link in page.links %}
+            <li><a target="_blank" href="{{ link }}">{{ link }}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+    </div>
+{% endif }
