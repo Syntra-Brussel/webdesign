@@ -98,6 +98,17 @@ quote {
     margin-bottom: 0;
 }
 
+.links h3,
+.links h4 {
+    border-left: none;
+}
+
+.links h3:before,
+.links h4:before {
+    font-family: 'FontAwesome';
+    content: " \f8cc";
+}
+
 .content-right {
     max-width: 1000px;
 }
