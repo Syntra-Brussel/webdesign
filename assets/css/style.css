@@ -101,12 +101,14 @@ quote {
 .links h3,
 .links h4 {
     border-left: none;
-}
+    padding-left: 0;
+} 
 
 .links h3:before,
 .links h4:before {
     font-family: 'FontAwesome';
-    content: " \f8cc";
+    content: " \f245";
+    margin-right: 10px;
 }
 
 .content-right {
