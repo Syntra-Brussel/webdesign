@@ -107,7 +107,7 @@ quote {
 .links h3:before,
 .links h4:before {
     font-family: 'FontAwesome';
-    content: " \f25a";
+    content: "\f25a";
     margin-right: 10px;
 }
 
