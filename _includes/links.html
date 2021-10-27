@@ -4,12 +4,12 @@
         {% if page.links.size == 1 %} 
             {% assign link = page.links.first %}
             {{ link }}
-            <p>
-                {% if link.label != "" %}
+            <p> 
+                {% if link.label %}
                     {{ link.label }}: 
                 {% endif %}
-                <a target="_blank" href="{{ link.url }}">{{ link.rul }}</a>
-            </p>
+                <a target="_blank" href="{{ link.url }}">{{ link.url }}</a>
+            </p> 
         {% else %}
             <ul>
             {% for link in page.links %}
