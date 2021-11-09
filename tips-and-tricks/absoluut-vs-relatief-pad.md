@@ -18,19 +18,19 @@ De referentie naar zo een bestand is een pad en een pad kan <strong>relatief</st
 &lt;img src=&quot;https://syntra-brussel.github.io/webdesign/images/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 
-Het beeld wordt in dit voorbeeld van https://syntra-brussel.github.io gehaald. Op die webhosting zoekt de browser in de <code>webdesign/images</code> folder.
+Het beeld wordt in dit voorbeeld van https://syntra-brussel.github.io gehaald. Op die webhosting wordt het beeld in de <code>webdesign/images</code> folder gezocht.
 
 <pre data-enlighter-language="html">
 &lt;img src=&quot;/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 
-Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML bestand staat. De eerste <code>/</code> zorgt ervoor dat de browser in de start folder begint te zoeken.
+Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML bestand staat. De eerste <code>/</code> zorgt ervoor dat in de start folder wordt gezocht.
 
 <pre data-enlighter-language="html">
 &lt;img src=&quot;/images/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 
-Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML bestand staat. De eerste <code>/</code> zorgt ervoor dat de browser in de start folder begint te zoeken. Vervolgens zoekt hij in het beeld in de <code>images</code> folder.
+Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML bestand staat. De eerste <code>/</code> zorgt ervoor dat in de start folder wordt begonnen met zoeken. Vervolgens wordt het beeld gezocht in de in de <code>images</code> folder.
 
 ### Relatief pad
 
@@ -38,7 +38,7 @@ Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML best
 &lt;img src=&quot;logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 
-Het beeld wordt gezocht in de folder waarin ook het HTML bestand staat.
+Het beeld wordt gezocht in de folder waarin ook het HTML bestand zich bevindt.
 
 ### Relatief pad
 
@@ -46,7 +46,7 @@ Het beeld wordt gezocht in de folder waarin ook het HTML bestand staat.
 &lt;img src=&quot;images/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 
-Het beeld wordt gezocht in de <code>images</code> folder binnen de folder waarin ook het HTML bestand staat.
+Het beeld wordt gezocht in de <code>images</code> folder binnen de folder waarin ook het HTML zich bevindt.
 
 <div class="highlight">
 Zorg ervoor dat bestanden van een zelfde type samen staan in een aparte folder. Dat zorgt voor een overzichtelijke bestandsstructuur.
