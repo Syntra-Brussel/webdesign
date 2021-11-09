@@ -57,3 +57,9 @@ Zorg ervoor dat bestanden van een zelfde type samen staan in een aparte folder. 
 Plaats de beelden bijvoorbeeld in de <code>images</code> folder.
 </p>
 </div>
+<div class="highlight">
+<h3>Vermijd absolute paden</h3>
+<p>
+Bij het gebruik van een absoluut pad is de kans veel groter dat een bestand niet meer gevonden zal worden wanneer de mappen structuur wijzigt.
+</p>
+</div>
