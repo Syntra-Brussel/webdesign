@@ -40,8 +40,6 @@ Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML best
 
 Het beeld wordt gezocht in de folder waarin ook het HTML bestand zich bevindt.
 
-### Relatief pad
-
 <pre data-enlighter-language="html">
 &lt;img src=&quot;images/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
