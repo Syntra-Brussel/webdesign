@@ -77,21 +77,21 @@ items:
         published: 'no'
         title: Samenvatting
       - url: /html/extra_oefening
-        published: 'no'
+        published: 'yes'
         title: Extra oefening
         collection: extra_oefeningen
         subjects:
           - url: /html/extra_oefeningen/extra_oefening_1
-            published: 'no'
+            published: 'yes'
             title: 'EXTRA OEFENING 1: formulier'     
           - url: /html/extra_oefeningen/extra_oefening_2
-            published: 'no'
+            published: 'yes'
             title: 'EXTRA OEFENING 2: Business as Usual'     
           - url: /html/extra_oefeningen/extra_oefening_3
-            published: 'no'
+            published: 'yes'
             title: 'EXTRA OEFENING 3: Factuur'       
           - url: /html/extra_oefeningen/extra_oefening_4
-            published: 'no'
+            published: 'yes'
             title: 'EXTRA OEFENING 4: Obelisk'
   - url: /tips-and-tricks  
     published: 'yes'
