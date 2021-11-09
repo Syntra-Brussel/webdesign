@@ -49,7 +49,11 @@ Het beeld wordt gezocht in de folder waarin ook het HTML bestand zich bevindt.
 Het beeld wordt gezocht in de <code>images</code> folder binnen de folder waarin ook het HTML zich bevindt.
 
 <div class="highlight">
+<h3>Hou het overzichtelijk</h3>
+<p>
 Zorg ervoor dat bestanden van een zelfde type samen staan in een aparte folder. Dat zorgt voor een overzichtelijke bestandsstructuur.
-
+</p>
+<p>
 Plaats de beelden bijvoorbeeld in de <code>images</code> folder.
+</p>
 </div>
