@@ -5,7 +5,7 @@ url: /tips-and-tricks/absoluut-vs-relatief-pad
 collection: tricks
 links:
   - url: https://www.hostinginnederland.nl/help/vragen/wat-is-verschil-tussen-absoluut-relatief-pad-171
----
+--- 
 ## {{ page.title }}
 
 Een webpagina bevat heelwat links naar externe bestanden. Dat zijn voorbeeld CSS bestanden (voor opmaak), JS script bestanden (voor programmatie) en beelden.
