@@ -1,6 +1,6 @@
 ---
 layout: template
-title: 'Extra eefening 3: Factuur'
+title: 'Extra oefening 3: Factuur'
 url: /html/extra_oefeningen/extra_oefening_3
 collection: [html, extra_oefeningen]
 ---

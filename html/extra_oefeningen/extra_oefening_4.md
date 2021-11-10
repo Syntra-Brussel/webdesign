@@ -2,7 +2,7 @@
 layout: template
 title: 'Extra oefening 4: Obelisk'
 url: /html/extra_oefeningen/extra_oefening_4
-collection: [html, elementen]
+collection: [html, extra_oefeningen]
 ---
 
 ## {{ page.title }}
