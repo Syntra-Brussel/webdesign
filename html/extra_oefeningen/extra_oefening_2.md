@@ -1,6 +1,6 @@
 ---
 layout: template
-title: 'Extra eefening 2: Business as Usual'
+title: 'Extra oefening 2: Business as Usual'
 url: /html/extra_oefeningen/extra_oefening_2
 collection: [html, extra_oefeningen]
 ---
