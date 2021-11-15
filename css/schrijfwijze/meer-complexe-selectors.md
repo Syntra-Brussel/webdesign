@@ -1,8 +1,8 @@
 ---
 layout: template
 title: Meer complexe CSS selectors
-url: /css/css-schrijfwijze/meer-complexe-selectors
-collection: [css, css-schrijfwijze]
+url: /css/schrijfwijze/meer-complexe-selectors
+collection: [css, schrijfwijze]
 ---
 					
 <blockquote><p>The Sky is the Limit</p></blockquote>

@@ -2,7 +2,7 @@
 layout: template
 title: Opmaak via element naam selector
 url: /css/css-schrijfwijze/opmaak-via-naam-selector
-collection: [css, css-schrijfwijze]
+collection: [css, schrijfwijze]
 ---
 
 <p><span style="text-decoration: underline">HTM code:</span></p>

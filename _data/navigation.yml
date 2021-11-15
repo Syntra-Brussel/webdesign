@@ -123,29 +123,30 @@ items:
     collection: css
     title: 'CSS'
     topics:
-      - url: /css/css-schrijfwijze
+      - url: /css/schrijfwijze
         published: 'yes'
         title: CSS schrijfwijze
-        collection: css-schrijfwijze
+        collection: schrijfwijze
         subjects:
-          - url: /css/css-schrijfwijze/opmaak-via-naam-selector
+          - url: /css/schrijfwijze/commentaar
+            published: 'yes'
+            title: Commentaar         
+          - url: /css/schrijfwijze/opmaak-via-naam-selector
             published: 'yes'
             title: 'Opmaak via element naam selector'
-          - url: /css/css-schrijfwijze/opmaak-via-class-selector
+          - url: /css/schrijfwijze/opmaak-via-class-selector
             published: 'yes'
             title: 'Opmaak via class selector'
-          - url: /css/css-schrijfwijze/opmaak-via-id-selector
+          - url: /css/schrijfwijze/opmaak-via-id-selector
             published: 'yes'
             title: 'Opmaak via id selector'
-          - url: /css/css-schrijfwijze/meer-complexe-selectors
+          - url: /css/schrijfwijze/meer-complexe-selectors
             published: 'yes'
             title: 'Meer complexe CSS selectors'                                    
       - url: /css/cascading
         published: 'yes'
         title: De C van CSS staat voor Cascading                    
-      - url: /css/commentaar
-        published: 'yes'
-        title: Commentaar                 
+                
       - url: /css/block-inline-block
         published: 'yes'
         title: Block, inline-block                                 

@@ -2,7 +2,7 @@
 layout: template
 title: Opmaak via id selector
 url: /css/opmaak-via-id-selector
-collection: [css, css-schrijfwijze]
+collection: [css, schrijfwijze]
 ---
 
 								

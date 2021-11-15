@@ -1,8 +1,8 @@
 ---
 layout: template
 title: CSS schrijfwijze (selector, eigenschap, waarde)
-url: /css/css-schrijfwijze
-collection: [css, css-schrijfwijze]
+url: /css/schrijfwijze
+collection: [css, schrijfwijze]
 ---
 <div class="gray-code">
     <font color="blue">h1</font> {<br>
