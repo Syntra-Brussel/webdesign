@@ -10,8 +10,8 @@ collection: [css, css-schrijfwijze]
 
 
 
-<code class="gray-code">
-&lt;label for="naam"&gt;Naam:&lt;/label&gt;<br>&lt;input type="text" <font color="blue">id="naam"</font> name="naam" /&gt;</code>
+<div class="gray-code">
+&lt;label for="naam"&gt;Naam:&lt;/label&gt;<br>&lt;input type="text" <font color="blue">id="naam"</font> name="naam" /&gt;</div>
 
 
 
