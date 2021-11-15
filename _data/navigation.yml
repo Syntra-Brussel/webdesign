@@ -149,8 +149,7 @@ items:
             title: 'Meer complexe CSS selectors'                                    
       - url: /css/cascading
         published: 'yes'
-        title: De C van CSS staat voor Cascading                    
-                      
+        title: De C van CSS staat voor Cascading                                          
       - url: /css/block-inline-block
         published: 'yes'
         title: Block, inline-block   
@@ -160,6 +159,7 @@ items:
       - url: /css/ruimte
         published: 'yes'
         title: Ruimte tussen elementen
+        collection: ruimte
         subjects: 
           - url: /css/ruimte/marge-padding
             published: 'yes'
