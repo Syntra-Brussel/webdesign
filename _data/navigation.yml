@@ -150,21 +150,13 @@ items:
       - url: /css/cascading
         published: 'yes'
         title: De C van CSS staat voor Cascading                    
-      - url: /css/floating
-        published: 'yes'
-        title: Floating                           
+                      
       - url: /css/block-inline-block
         published: 'yes'
         title: Block, inline-block   
       - url: /css/breedte-hoogte
         published: 'yes'
-        title: 'Breedte, hoogte'   
-      - url: /css/omlijnen
-        published: 'yes'
-        title: 'Omlijnen'                          
-      - url: /css/flexbox
-        published: 'yes'
-        title: Flexbox                                   
+        title: 'Breedte, hoogte'  
       - url: /css/ruimte
         published: 'yes'
         title: Ruimte
@@ -175,5 +167,13 @@ items:
             title: 'Marge, padding'        
           - url: /css/ruimte/content-box-vs-border-box
             published: 'yes'
-            title: 'Content box vs Border box'        
-                                               
+            title: 'Content box vs Border box'                                
+      - url: /css/floating
+        published: 'yes'
+        title: Floating             
+      - url: /css/flexbox
+        published: 'yes'
+        title: Flexbox                                   
+      - url: /css/omlijnen
+        published: 'yes'
+        title: 'Omlijnen'

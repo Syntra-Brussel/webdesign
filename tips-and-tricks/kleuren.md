@@ -5,7 +5,7 @@ url: /tips-and-tricks/kleuren
 collection: tricks
 links:
   - url: https://www.w3schools.com/colors/colors_picker.asp
-    label: Color picket
+    label: Color picker
   - url: https://www.color-hex.com
     label: Populaire kleuren en kleuren die mooi samen passen
 ---
@@ -16,7 +16,7 @@ Een <strong style="color: green">G</strong>roen waarde tussen 0 en 255.
 Een <strong style="color: blue">B</strong>lauw waarde tussen 0 en 255.
 
 Zwart heeft 0 (R), 0 (G), 0 (B) = #000000
-Wit heet 255 (R), 255 (G), 255 (B) = #FFFFFF
+Wit heet 255 (R), 255 (G), 255 (B) = #ffffff
 
 Elke andere kleur heeft een waarde die tussen deze twee uitersten valt.
 
