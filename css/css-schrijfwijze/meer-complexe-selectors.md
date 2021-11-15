@@ -5,11 +5,11 @@ url: /css/css-schrijfwijze/meer-complexe-selectors
 collection: [css, css-schrijfwijze]
 ---
 					
-<quote><p>The Sky is the Limit</p></quote>
+<blockquote><p>The Sky is the Limit</p></blockquote>
 
 
 
-<pre data-enlighter-language="css">p strong {
+<pre data-enlighter-theme="classic" data-enlighter-language="css">p strong {
   ...
 }</pre>
 
