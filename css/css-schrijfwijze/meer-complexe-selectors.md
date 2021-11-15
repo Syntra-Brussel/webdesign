@@ -11,7 +11,7 @@ collection: [css, css-schrijfwijze]
 
 <pre data-enlighter-theme="classic" data-enlighter-language="css">p strong {
   ...
-}</pre>
+}</pre> 
 
 
 
@@ -19,8 +19,8 @@ collection: [css, css-schrijfwijze]
 
 
 
-<pre data-enlighter-language="css">.container article {
- ...
+<pre data-enlighter-theme="atomic" data-enlighter-language="css">.container article {
+ ... 
 }</pre>
 
 
@@ -29,7 +29,7 @@ collection: [css, css-schrijfwijze]
 
 
 
-<pre data-enlighter-language="css">/* toegepast op alle div elementen in .container */
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">/* toegepast op alle div elementen in .container */
 .container div {
   ...
 }
@@ -45,7 +45,7 @@ collection: [css, css-schrijfwijze]
 
 
 
-<pre data-enlighter-language="css">p strong.blue {
+<pre data-enlighter-theme="eclipse" data-enlighter-language="css">p strong.blue {
   ...
 }</pre>
 
@@ -55,7 +55,7 @@ collection: [css, css-schrijfwijze]
 
 
 
-<pre data-enlighter-language="css">
+<pre data-enlighter-theme="minimal" data-enlighter-language="css">
 p.blue strong {
   ...
 }</pre>
