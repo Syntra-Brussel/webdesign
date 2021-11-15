@@ -118,3 +118,24 @@ items:
         published: 'yes'
         collection: tricks
         title: 'Absoluut vs. relatief pad'
+  - url: /css
+    published: 'yes'
+    collection: css
+    title: 'CSS'
+    topics:
+      - url: /css/css-schrijfwijze
+        published: 'yes'
+        title: CSS schrijfwijze
+        subjects:
+          - url: /css/css-schrijfwijze/opmaak-via-een-element-naam-selector
+            published: 'yes'
+            title: 'Opmaak via een element naam selector'
+          - url: /css/css-schrijfwijze/opmaak-via-een-class-selector
+            published: 'yes'
+            title: 'Opmaak via een class selector'
+          - url: /css/css-schrijfwijze/opmaak-via-een-id-selector
+            published: 'yes'
+            title: 'Opmaak via een id selector'
+          - url: /css/css-schrijfwijze/meer-complexe-selectords
+            published: 'yes'
+            title: 'Meer complexe CSS selectors'                                    
