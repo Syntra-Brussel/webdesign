@@ -4,8 +4,8 @@ title: Omlijnen
 url: /css/omlijnen
 collection: [css]
 links:
-  - url: /tips-and-tricks/kleuren
-  - label: Alles over kleuren
+  - url: /webdesign/tips-and-tricks/kleuren
+    label: Alles over kleuren
 ---							
 <p>Elk element kan een omlijnd worden via de&nbsp;<code>border</code>&nbsp;eigenschap.</p>
 
