@@ -11,7 +11,7 @@ links:
 ---
 Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inhoud dus zowel opbouwen via de invoer van het toetsenbord als via de specifieke code.
 
-### Enkele veel voorkomende symbolen
+## Enkele veel voorkomende symbolen
 
 <table class="table">
     <tbody><tr>

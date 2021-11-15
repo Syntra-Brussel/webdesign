@@ -15,7 +15,7 @@ collection: [html, elementen]
     </ul>
 </div>
 
-### Een heel eenvoudige pagina
+## Een heel eenvoudige pagina
 
 <img src="{{ '/html/images/image-4-1024x491.png' | relative_url}}" />
 

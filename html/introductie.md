@@ -22,7 +22,7 @@ collection: html
     </ul>
 </div>
 
-### HTML is een meta taal
+## HTML is een meta taal
 
 Zoals hierboven aangegeven geeft HTML structuur aan de inhoud. Via elementen beschrijft het de inhoud. Het geeft aan dat een stukje tekst bijvoorbeeld een titel is of een paragraaf of een link, … . 
 

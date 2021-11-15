@@ -25,12 +25,12 @@ h1, h2, h3, h4 {
     margin-top: 3rem;
 }
 
-h3, h4 {
+h2, h3 {
     border-left: 3px solid #FF3521;
     padding-left: 10px;
 }
  
-h1, h2 {
+h1 {
     color: #FF3521;
 }
 
@@ -84,10 +84,10 @@ quote {
     padding-left: 0;
 }
 
+.highlight h2,
+.links h2,
 .highlight h3,
-.links h3,
-.highlight h4,
-.links h4 {
+.links h3 {
     margin-top: 0;
 }
  
@@ -98,14 +98,14 @@ quote {
     margin-bottom: 0;
 }
 
-.links h3,
-.links h4 {
+.links h2,
+.links h3 {
     border-left: none;
     padding-left: 0;
 } 
 
-.links h3:before,
-.links h4:before {
+.links h2:before,
+.links h3:before {
     font-family: 'FontAwesome';
     content: "\f25a";
     margin-right: 10px;

@@ -10,7 +10,7 @@ Een webpagina bevat heelwat links naar externe bestanden. Dat zijn voorbeeld CSS
 
 De referentie naar zo een bestand is een pad en een pad kan <strong>relatief</strong> en <strong>absoluut</strong> worden op gegeven.
 
-### Absoluut pad
+## Absoluut pad
 
 <pre data-enlighter-language="html">
 &lt;img src=&quot;https://syntra-brussel.github.io/webdesign/images/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
@@ -30,7 +30,7 @@ Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML best
 
 Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML bestand staat. De eerste <code>/</code> zorgt ervoor dat in de start folder wordt begonnen met zoeken. Vervolgens wordt het beeld gezocht in de in de <code>images</code> folder.
 
-### Relatief pad
+## Relatief pad
 
 <pre data-enlighter-language="html">
 &lt;img src=&quot;logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;

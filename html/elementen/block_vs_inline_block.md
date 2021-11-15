@@ -4,7 +4,7 @@ title: Block vs. inline-block elementen
 url: /html/elementen/block_vs_inline_block
 collection: [html, elementen]
 ---
-### Block element
+## Block element
 
 <img src="{{ '/html/elementen/images/block.png' | relative_url}}" />
 
@@ -36,7 +36,7 @@ Zonder specifieke opmaak neem een block element de volledige breedte van het sch
 <li><code>&lt;video&gt;</code></li>
 </ul>
 
-### Inline-block element
+## Inline-block element
 
 <img src="{{ '/html/elementen/images/inline_block.png' | relative_url}}" />
 

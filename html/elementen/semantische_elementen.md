@@ -4,7 +4,7 @@ title: Semantische elementen
 url: /html/elementen/semantische_elementen
 collection: [html, elementen]
 ---
-### Structurele elementen
+## Structurele elementen
 
 Het <code><section></code> element definieert een sectie in een webpagina. De inhoud van en sectie hoort thematisch samen.
 
@@ -20,7 +20,7 @@ Het <code><aside></code> element heeft inhoud die los staat van de hoofd element
 Het <code><footer></code> element bevat de inhoud onderaan een pagina. 
 Bijvoorbeeld:  auteur van het document, copyright informatie, privacy informatie, contact informatie
 
-### Basis structuur 
+## Basis structuur 
 
 Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met deze elementen:
 
@@ -41,7 +41,7 @@ Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met
 </pre>
 
 
-### Semantische elementen combineren
+## Semantische elementen combineren
 <pre data-enlighter-language="html">
 &lt;article&gt; 
   &lt;h1&gt;Weersvoorspelling voor Antwerpen&lt;/h1&gt; 
@@ -60,9 +60,9 @@ Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met
 &lt;/article&gt;
 </pre>
 
-### Andere semantische elementen
+## Andere semantische elementen
 
-#### <code>&lt;figure&gt;</code> en <code>&lt;figcaption&gt;</code> elementen
+### <code>&lt;figure&gt;</code> en <code>&lt;figcaption&gt;</code> elementen
 <pre data-enlighter-language="html">
 &lt;figure&gt; 
   &lt;img src=&quot;storm_ciara_zorgt_voor_veel_schade.jpg&quot; alt=&quot;Storm Ciara zorgt voor veel schade&quot;&gt; 
@@ -72,7 +72,7 @@ Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met
  
 Gebruik <code>&lt;figure&gt;</code> als inhoud element (bijvoorbeeld in een <code>&lt;p&gt;</code> element) en niet als layout element.
 
-#### <code><nav></code> element
+### <code><nav></code> element
 <pre data-enlighter-language="html">
 &lt;nav&gt; 
   &lt;a href=&quot;/html/&quot;&gt;HTML&lt;/a&gt; | 
@@ -81,7 +81,7 @@ Gebruik <code>&lt;figure&gt;</code> als inhoud element (bijvoorbeeld in een <cod
 &lt;/nav&gt;
 </pre>
 
-#### <code>srcset</code> attribuut bij een <code>&lt;img&gt;</code> element
+### <code>srcset</code> attribuut bij een <code>&lt;img&gt;</code> element
 Een attribuut dat beelden met een verschillend formaat voorziet voor verschillende scherm breedtes.
 
 De browser bepaalt zelf welk beeld het gaat inladen.
@@ -92,7 +92,7 @@ De browser bepaalt zelf welk beeld het gaat inladen.
 
 Wanneer <code>srcset</code> niet wordt ondersteund door de browser wordt het beeld uit het <code>src</code> attribuut geladen.
 
-#### <code>&lt;fieldset&gt;</code> element
+### <code>&lt;fieldset&gt;</code> element
 Nog een voorbeeld van een element zonder veel basis opmaak maar met een duidelijk doel is het <code>&lt;fieldset&gt;</code> element. Zoals de naam het zegt staat het rond een aantal velden (doorgaans in een formulier).
 
 Binnen een <code>&lt;fieldset&gt;</code> element komt bovenaan vaak een <code>&lt;legend&gt;</code> element dat een omschrijving bevat van de velden of van het formulier.

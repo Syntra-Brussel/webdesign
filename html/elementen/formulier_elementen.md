@@ -24,7 +24,7 @@ Het <code style="color: blue">&lt;form&gt;</code> element heeft enkele belangrij
 Alle invoer velden moeten binnen <code style="color: blue">&lt;form&gt;</code> en <code style="color: blue">&lt;/form&gt;</code> staan.
 
 
-### Elementen die sinds HTML5 bestaan
+## Elementen die sinds HTML5 bestaan
 Er zijn tal van nieuwe elementen geïntroduceerd die veel meer frontend validatie mogelijk maken.
 
 <pre data-enlighter-language="html">
@@ -51,14 +51,14 @@ Naast het type email, zijn ook volgende types geïntroduceerd:
 <li>week</li>
 </ul>
 
-### Elementen die al voor HTML5 bestonden
-#### Een tekstveld
+## Elementen die al voor HTML5 bestonden
+### Een tekstveld
 <pre data-enlighter-language="html">
 &lt;input name=&quot;voornam&quot; type=&quot;text&quot;&gt;
 </pre>
 Het <code>name</code> attribuut is verplicht bij een <code>&lt;input&gt;</code> element
 
-#### De selectielijst
+### De selectielijst
 <pre data-enlighter-language="html">
 &lt;select name=&quot;auto&quot;&gt; 
   &lt;option value=&quot;volvo&quot;&gt;Volvo&lt;/option&gt; 
@@ -74,7 +74,7 @@ Het <code>name</code> attribuut is verplicht bij een <code>&lt;input&gt;</code> 
 <li>Een <code>name</code> attribuut is verplicht bij een <code>&lt;select&gt;</code> element.</li>
 </ul>
 
-#### Selectie rondje (radio)
+### Selectie rondje (radio)
 Er is maar één keuze mogelijk.
 
 <pre data-enlighter-language="html">
@@ -95,7 +95,7 @@ Er is maar één keuze mogelijk.
 <pre data-enlighter-language="html">
 &lt;input type=&quot;radio&quot; checked /&gt;
 </pre>
-#### Selectie vakje (checkbox)
+### Selectie vakje (checkbox)
 Er zijn meerdere opties mogelijk.
 
 <pre data-enlighter-language="html">
@@ -118,7 +118,7 @@ Er zijn meerdere opties mogelijk.
 &lt;input type=&quot;checkbox&quot; checked /&gt;
 </pre>
 
-#### Een groot tekstveld
+### Een groot tekstveld
 <pre data-enlighter-language="html">
 &lt;textarea name=&quot;bericht&quot; rows=&quot;10&quot; cols=&quot;30&quot;&gt;&lt;/textarea&gt;
 </pre>
@@ -127,18 +127,18 @@ Er zijn meerdere opties mogelijk.
 <li>Via het attribuut <code>rows</code> geef je de hoogte op van het tekstveld</li>
 <li>Een <code>name</code> attribuut is verplicht bij een textarea element</li>
 </ul>
-#### Een knop
+### Een knop
 <pre data-enlighter-language="html">
 &lt;button type=&quot;button&quot;&gt;Klik mij!&lt;/button&gt;
 </pre>
 
-#### Een verzend knop
+### Een verzend knop
 <pre data-enlighter-language="html">
 &lt;input type=&quot;submit&quot; value=&quot;Verstuur&quot; /&gt;
 </pre>
 Een verzend knop verzend de inhoud van het formulier naar de de URL die in het <code>action</code> attribuut staat van het <code>&lt;form&gt;</code> element.
 
-#### Bestand opladen
+### Bestand opladen
 <pre data-enlighter-language="html">
 &lt;input type=&quot;file&quot; name=&quot;bestand&quot; /&gt;
 </pre>

@@ -12,7 +12,7 @@ De inhoud die op eenzelfde lijn wordt weergeven wordt opgenomen binnen een <code
 
 Elke kolom binnen een rij wordt weergeven met een <code style="color: green">&lt;td&gt;</code> element.
 
-### Tabel hoofding
+## Tabel hoofding
 Als de eerste rij binnen het <code>&lt;table&gt;</code> element de hoofding is vervangen we de <code>&lt;td&gt;</code> door <code>&lt;th&gt;</code>.
 
 <pre data-enlighter-language="html">
@@ -40,7 +40,7 @@ Als de eerste rij binnen het <code>&lt;table&gt;</code> element de hoofding is v
 &lt;/table&gt;
 </pre>
 
-### Kolommen samenvoegen
+## Kolommen samenvoegen
 Je kan ook meerdere kolommen samenvoegen via het attribuut colspan:
 
 
@@ -60,7 +60,7 @@ Je kan ook meerdere kolommen samenvoegen via het attribuut colspan:
 
 <img src="{{ '/html/elementen/images/colspan.png' | relative_url}}" />
 
-### Rijen samenvoegen
+## Rijen samenvoegen
 Je kan ook meerdere rijen samenvoegen via het attribuut rowspan:
 
 <pre data-enlighter-language="html">
