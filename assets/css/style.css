@@ -200,6 +200,11 @@ ul.nav ul ul ul {
 div.enlighter>div {
     color: #000!important;
 }
+
+.enlighter-x12 {
+    text-decoration: none!important;
+}
+
 /* On small screens, set height to 'auto' for sidenav and grid */
 @media screen and (max-width: 767px) {
     .sidenav {
