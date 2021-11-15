@@ -143,3 +143,9 @@ items:
       - url: /css/cascading
         published: 'yes'
         title: De C van CSS staat voor Cascading                    
+      - url: /css/commentaar
+        published: 'yes'
+        title: Commentaar                 
+      - url: /css/block-inline-block
+        published: 'yes'
+        title: Block, inline-block                                 
