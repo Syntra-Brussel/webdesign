@@ -9,7 +9,7 @@ collection: [css, css-schrijfwijze]
 
 
 
-<p class="has-very-light-gray-background-color has-background"><code><font color="blue">&lt;p&gt;</font>Dit is een <font color="purple">&lt;strong&gt;</font>vette<font color="purple">&lt;/strong&gt;</font> paragraaf<font color="blue">&lt;/p&gt;</font></code></p>
+<pre data-enlighter-language="html"><code><font color="blue">&lt;p&gt;</font>Dit is een <font color="purple">&lt;strong&gt;</font>vette<font color="purple">&lt;/strong&gt;</font> paragraaf<font color="blue">&lt;/p&gt;</font></code></pre>
 
 
 
