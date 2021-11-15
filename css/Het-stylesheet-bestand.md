@@ -9,7 +9,9 @@ De inhoud van een pagina wordt gestructureerd in een HTML bestand. De opmaak wor
 Er wordt in het HTML bestand via een specifieke meta element naar verwezen.
 
 <pre data-enlighter-language="html">
-&lt;link rel="stylesheet" type="text/css" href="style.css" /&gt;
+&lt;head&gt;
+  &lt;link rel="stylesheet" type="text/css" href="style.css" /&gt;
+&lt;/head&gt;
 </pre>
 In het voorbeeld hierboven staat het bestand style.css in dezelfde folder als het html bestand.
 
@@ -18,5 +20,7 @@ Het is aangeraden dat het CSS bestand in een subfolder wordt geplaatst. Dit is v
 Sla de CSS bestanden bijvoorbeeld in de “css” folder.
 
 <pre data-enlighter-language="html">
-&lt;link rel="stylesheet" type="text/css" href="css/style.css" /&gt;
+&lt;head&gt;
+  &lt;link rel="stylesheet" type="text/css" href="css/style.css" /&gt;
+&lt;/head&gt;
 </pre>
