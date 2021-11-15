@@ -4,9 +4,6 @@ title: 'Extra oefening 2: Business as Usual'
 url: /html/extra_oefeningen/extra_oefening_2
 collection: [html, extra_oefeningen]
 ---
-
-## {{ page.title }}
-
 <div class="highlight">
     <h3>Instructies</h3>
     <ul>

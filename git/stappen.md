@@ -4,9 +4,6 @@ title: Bestanden synchroniseren
 url: /git/stappen
 collection: git
 ---
-
-## {{ page.title }}
-
 Een bestand toevoegen / wijzigen en zichtbaar maken voor de anderen teamleden gebeurt in 3 stappen:
 
 <ol>

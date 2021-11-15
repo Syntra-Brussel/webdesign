@@ -4,9 +4,6 @@ title: 'Extra oefening 4: Obelisk'
 url: /html/extra_oefeningen/extra_oefening_4
 collection: [html, extra_oefeningen]
 ---
-
-## {{ page.title }}
-
 <div class="highlight">
     <h3>instructies</h3>
     <ul>

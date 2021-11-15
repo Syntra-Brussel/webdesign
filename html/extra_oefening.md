@@ -4,5 +4,3 @@ title: Extra oefening
 url: /html/extra oefening
 collection: [html, extra_oefeningen]
 ---
-
-## {{ page.title }}

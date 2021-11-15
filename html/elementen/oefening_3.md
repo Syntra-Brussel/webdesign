@@ -4,9 +4,6 @@ title: 'Oefening 3: Sollicitatieformulier'
 url: /html/elementen/oefening_3
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 <div class="highlight">
     <h3>instructies</h3>
     <ul>

@@ -4,9 +4,6 @@ title: Repository clonen
 url: /git/repository_clonen
 collection: git
 ---
-
-## {{ page.title }}
-
 <ol>
     <li>
     Kopieer de <em>clone URL</em> van de repository op GitHub.

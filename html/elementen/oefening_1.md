@@ -4,9 +4,6 @@ title: 'Oefening 1: Basis elementen'
 url: /html/elementen/oefening_1
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 <div class="highlight">
     <h3>Instructies</h3>
     <ul>

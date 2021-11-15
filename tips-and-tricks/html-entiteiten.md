@@ -9,9 +9,6 @@ links:
   - url: https://nl.piliapp.com/emoji/list/smileys-people/
     label: Ook emoji's worden met UTF-8 ondersteund
 ---
- 
-## {{ page.title }}
-
 Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inhoud dus zowel opbouwen via de invoer van het toetsenbord als via de specifieke code.
 
 ### Enkele veel voorkomende symbolen

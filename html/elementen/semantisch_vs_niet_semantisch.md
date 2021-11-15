@@ -4,9 +4,6 @@ title: Semantische vs. niet-semantische elementen
 url: /html/elementen/semantische_vs_niet_semantische
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 ### Niet semantische elementen
 Historisch gezien zijn de elementen in een HTML-document altijd al belangrijk geweest voor de opmaak en de interactie. Gaandeweg zijn die elementen ook belangrijker geworden om de doorzoekbaarheid door zoekmotoren als Google te verbeteren. 
 

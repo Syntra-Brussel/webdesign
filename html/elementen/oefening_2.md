@@ -4,9 +4,6 @@ title: 'Oefening 2: Tijdschema'
 url: /html/elementen/oefening_2
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 <div class="highlight">
     <h3>Instructies</h3>
     <ul>

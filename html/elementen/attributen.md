@@ -4,9 +4,6 @@ title: Elementen hebben attributen
 url: /html/elementen/attributen
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 ### Elk element heeft zijn eigen specifieke attributen
 
 Elementen hebben doorgaans attributen om extra eigenschappen aan het element toe te voegen:

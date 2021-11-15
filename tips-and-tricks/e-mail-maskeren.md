@@ -6,9 +6,6 @@ collection: tricks
 links:
   - url: http://www.email-obfuscator.com
 ---
- 
-## {{ page.title }}
-
 Een link naar een e-mail adres leggen kan via HTML eenvoudig via het <code>&lt;a&gt;</code> element.
 
 <pre data-enlighter-language="html">

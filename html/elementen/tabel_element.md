@@ -4,9 +4,6 @@ title: Tabel element
 url: /html/elementen/tabel_element
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 <img src="{{ '/html/elementen/images/tabel_html.png' | relative_url}}" />
 
 Om inhoud in een tabel weer te geven gebruiken we het <code style="color: red">&lt;table&gt;</code> element.

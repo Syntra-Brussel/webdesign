@@ -4,9 +4,6 @@ title: 'Extra oefening 3: Factuur'
 url: /html/extra_oefeningen/extra_oefening_3
 collection: [html, extra_oefeningen]
 ---
-
-## {{ page.title }}
-
 <div class="highlight">
     <h3>Instructies</h3>
     <ul>

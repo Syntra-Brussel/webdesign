@@ -4,9 +4,6 @@ title: Meta elementen
 url: /html/elementen/meta_elementen
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 <div class="highlight">
     <h3>Meta informatie</h3>
     Meta informatie geeft informatie over informatie, in dit geval het HTML-document.

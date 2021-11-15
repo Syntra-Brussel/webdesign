@@ -4,9 +4,6 @@ title: Block vs. inline-block elementen
 url: /html/elementen/block_vs_inline_block
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 ### Block element
 
 <img src="{{ '/html/elementen/images/block.png' | relative_url}}" />

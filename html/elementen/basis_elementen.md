@@ -4,9 +4,6 @@ title: Basis elementen voor inhoud
 url: /html/elementen/basis_elementen
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 ### Een paragraaf
 <pre data-enlighter-language="html">
 &lt;p&gt;Uw paragraaf hier&lt;/p&gt;

@@ -4,8 +4,6 @@ title: Semantische elementen
 url: /html/elementen/semantische_elementen
 collection: [html, elementen]
 ---
-## {{ page.title }}
-
 ### Structurele elementen
 
 Het <code><section></code> element definieert een sectie in een webpagina. De inhoud van en sectie hoort thematisch samen.

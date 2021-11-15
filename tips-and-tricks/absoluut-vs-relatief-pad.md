@@ -6,8 +6,6 @@ collection: tricks
 links:
   - url: https://www.hostinginnederland.nl/help/vragen/wat-is-verschil-tussen-absoluut-relatief-pad-171
 --- 
-## {{ page.title }}
-
 Een webpagina bevat heelwat links naar externe bestanden. Dat zijn voorbeeld CSS bestanden (voor opmaak), JS script bestanden (voor programmatie) en beelden.
 
 De referentie naar zo een bestand is een pad en een pad kan <strong>relatief</strong> en <strong>absoluut</strong> worden op gegeven.

@@ -4,9 +4,6 @@ title: Elementen openen en sluiten
 url: /html/elementen/openen_sluiten
 collection: [html, elementen]
 ---
-
-## {{ page.title }}
-
 <img src="{{ '/html/elementen/images/html.png' | relative_url}}" />
 
 ### Elementen met inhoud

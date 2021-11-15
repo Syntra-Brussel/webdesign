@@ -3,9 +3,6 @@ title: Syntra Brussel - Webdesign
 layout: template
 filename: index
 --- 
-
-## {{ page.title }}
-
 Welkom bij de cursus "Webdesign" van Syntra Brussel.
 
 <div class="links">

@@ -4,9 +4,6 @@ title: Samenvatting
 url: /html/samenvatting
 collection: html
 ---
-
-## {{ page.title }}
-
 <quote>
 <strong>Elementen</strong> zorgen voor het <strong>structureren van inhoud</strong>.
 </quote>

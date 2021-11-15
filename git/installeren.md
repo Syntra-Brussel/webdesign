@@ -4,9 +4,6 @@ title: GIT installeren
 url: /git/installeren
 collection: [git, git_installeren]
 ---
-
-## {{ page.title }}
-
 ### GIT service
 
 Om samen te werken op 1 project folder moet een een centrale service worden opgestart die bereikbaar is voor alle ontwikkelaars. De cloud is publiek beschikbaar en dus ideaal. GitHub is zo'n GIT service.
