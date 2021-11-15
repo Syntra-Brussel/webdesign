@@ -154,7 +154,10 @@ items:
         title: Block, inline-block   
       - url: /css/breedte-hoogte
         published: 'yes'
-        title: 'Breedte, hoogte'                
+        title: 'Breedte, hoogte'   
+      - url: /css/omlijnen
+        published: 'yes'
+        title: 'Omlijnen'                          
       - url: /css/flexbox
         published: 'yes'
         title: Flexbox                                   
@@ -169,6 +172,4 @@ items:
           - url: /css/ruimte/content-box-vs-border-box
             published: 'yes'
             title: 'Content box vs Border box'        
-          - url: /css/ruimte/omlijnen
-            published: 'yes'
-            title: 'Omlijnen'                                                    
+                                               
