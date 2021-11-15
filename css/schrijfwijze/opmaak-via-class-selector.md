@@ -1,7 +1,7 @@
 ---
 layout: template
 title: Opmaak via class selector
-url: /css/css-schrijfwijze/opmaak-via-class-selector
+url: /css/schrijfwijze/opmaak-via-class-selector
 collection: [css, css-schrijfwijze]
 ---
 <div class="ld-tabs ld-tab-count-1">

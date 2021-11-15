@@ -1,7 +1,7 @@
 ---
 layout: template
 title: Opmaak via element naam selector
-url: /css/css-schrijfwijze/opmaak-via-naam-selector
+url: /css/schrijfwijze/opmaak-via-naam-selector
 collection: [css, schrijfwijze]
 ---
 

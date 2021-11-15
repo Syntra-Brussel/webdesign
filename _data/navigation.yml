@@ -146,7 +146,9 @@ items:
       - url: /css/cascading
         published: 'yes'
         title: De C van CSS staat voor Cascading                    
-                
+      - url: /css/floating
+        published: 'yes'
+        title: Floating                           
       - url: /css/block-inline-block
         published: 'yes'
         title: Block, inline-block                                 
