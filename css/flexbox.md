@@ -76,7 +76,7 @@ collection: [css]
 
 
 
-<p>Probeer ook de ook eens met&nbsp;<code>column-reverse</code></p>
+<p>Experimeteer ook eens met bijvoorbeeld &nbsp;<code>column-reverse</code></p>
 
 
 
@@ -128,7 +128,7 @@ collection: [css]
 <img src="images/flex_justify_content.png" />
 
 
-<p>Probeer ook de ook eens met&nbsp;<code>flex-end</code></p>
+<p>Experimenteer ook ook eens met bijvoorbeeld &nbsp;<code>flex-end</code></p>
 
 
 
