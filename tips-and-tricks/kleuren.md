@@ -11,9 +11,9 @@ links:
 ---
 Elke kleur binnen op een website heeft een hexadecimale waarde. Elke hexadecimale waarde is eigenlijk een vertaling van 3 getallen, de RGB waardes.
 
-Een <strong>R</strong>ood waarde tussen 0 en 255.
-Een <strong>G</strong>roen waarde tussen 0 en 255.
-Een <strong>B</strong>lauw waarde tussen 0 en 255.
+Een <strong style="color: red">R</strong>ood waarde tussen 0 en 255.
+Een <strong style="color: green">G</strong>roen waarde tussen 0 en 255.
+Een <strong style="color: blue">B</strong>lauw waarde tussen 0 en 255.
 
 Zwart heeft 0 (R), 0 (G), 0 (B) = #000000
 Wit heet 255 (R), 255 (G), 255 (B) = #FFFFFF
