@@ -150,9 +150,6 @@ items:
       - url: /css/cascading
         published: 'yes'
         title: De C van CSS staat voor Cascading                                          
-      - url: /css/block-inline-block
-        published: 'yes'
-        title: Block, inline-block   
       - url: /css/breedte-hoogte
         published: 'yes'
         title: 'Breedte, hoogte'  
@@ -173,9 +170,12 @@ items:
           - url: /css/ruimte/centreren
             published: 'yes'
             title: 'Element centreren'                        
+      - url: /css/block-inline-block
+        published: 'no'
+        title: Block, inline-block               
       - url: /css/floating
-        published: 'yes'
+        published: 'no'
         title: Floating             
       - url: /css/flexbox
-        published: 'yes'
+        published: 'no'
         title: Flexbox                                   
