@@ -33,6 +33,11 @@ RGB: 255, 153, 51
 
 <u>CSS</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
+div {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
 /* een witte tekst kleur, een oranje achtergrond kleur */
 .kleur-1 {
   background-color: #ff9933;
@@ -51,3 +56,6 @@ RGB: 255, 153, 51
   color: rgb(255, 255, 255);
 }
 </pre>
+
+<u>Resultaat</u>:
+<img src="images/oranje.png" />
