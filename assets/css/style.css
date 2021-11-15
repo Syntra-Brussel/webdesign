@@ -54,6 +54,10 @@ quote {
     display: block;
 }
  
+.has-very-light-gray-background-color {
+    background-color: #eee;
+    padding: 1.25em 2.375em;
+}
  
 .highlight {
     border: 2px solid #FF3521;
