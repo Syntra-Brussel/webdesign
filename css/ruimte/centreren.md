@@ -5,7 +5,7 @@ url: /css/ruimte/centreren
 collection: [css, ruimte]
 ---								
 
-Je kan <code>margin<code> ook gebruiken om een element te centreren binnen zijn moeder element.
+Je kan <code>margin</code> ook gebruiken om een element te centreren binnen zijn moeder element.
 
 <u>HTML</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
