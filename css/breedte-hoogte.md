@@ -1,8 +1,8 @@
 ---
 layout: template
 title: Breedte en hoogte
-url: /css/afmeting-marge/breedte-hoogte
-collection: [css, afmeting-marge]
+url: /css/breedte-hoogte
+collection: [css]
 ---
 
 								

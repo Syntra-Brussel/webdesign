@@ -1,8 +1,8 @@
 ---
 layout: template
 title: Omlijnen
-url: /css/afmeting-marge/omlijnen
-collection: [css, afmeting-marge]
+url: /css/ruimte/omlijnen
+collection: [css, ruimte]
 ---							
 <p>Elk element kan een omlijnd worden via de&nbsp;<code>border</code>&nbsp;eigenschap.</p>
 

@@ -1,8 +1,8 @@
 ---
 layout: template
 title: Marge en padding
-url: /css/afmeting-marge/marge-padding
-collection: [css, afmeting-marge]
+url: /css/ruimte/marge-padding
+collection: [css, ruimte]
 ---								
 <img src="images/margin_padding.png" />
 

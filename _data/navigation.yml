@@ -151,24 +151,24 @@ items:
         title: Floating                           
       - url: /css/block-inline-block
         published: 'yes'
-        title: Block, inline-block    
+        title: Block, inline-block   
+      - url: /css/breedte-hoogte
+        published: 'yes'
+        title: 'Breedte, hoogte'                
       - url: /css/flexbox
         published: 'yes'
         title: Flexbox                                   
-      - url: /css/afmeting-marge
+      - url: /css/ruimte
         published: 'yes'
         title: Afmeting, marge
-        collection: afmeting-marge
-        subjects:
-          - url: /css/afmeting-marge/breedte-hoogte
-            published: 'yes'
-            title: 'Breedte, hoogte'        
-          - url: /css/afmeting-marge/marge-padding
+        collection: ruimte
+        subjects: 
+          - url: /css/ruimte/marge-padding
             published: 'yes'
             title: 'Marge, padding'        
-          - url: /css/afmeting-marge/content-box-vs-border-box
+          - url: /css/ruimte/content-box-vs-border-box
             published: 'yes'
             title: 'Content box vs Border box'        
-          - url: /css/afmeting-marge/omlijnen
+          - url: /css/ruimte/omlijnen
             published: 'yes'
             title: 'Omlijnen'                                                    

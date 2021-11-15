@@ -1,6 +1,6 @@
 ---
 layout: template
-title: 'Afmeting, marge'
-url: /css/afmeting-marge
-collection: [css,afmeting-marge]
+title: 'Ruimte'
+url: /css/ruimte
+collection: [css,ruimte]
 ---	

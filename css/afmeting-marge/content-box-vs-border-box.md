@@ -1,8 +1,8 @@
 ---
 layout: template
 title: Content box vs. Border box
-url: /css/afmeting-marge/content-box-vs-border-box
-collection: [css, afmeting-marge]
+url: /css/ruimte/content-box-vs-border-box
+collection: [css, ruimte]
 ---
 								
 <p>Je kan instellen of de dikte van de omlijning en de padding in de breedte vallen (<code>border-box</code>) van het element vallen of er buiten (<code>content-box</code>).</p>
