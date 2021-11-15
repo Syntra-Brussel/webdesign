@@ -151,7 +151,10 @@ items:
         title: Floating                           
       - url: /css/block-inline-block
         published: 'yes'
-        title: Block, inline-block                                 
+        title: Block, inline-block    
+      - url: /css/flexbox
+        published: 'yes'
+        title: Flexbox                                   
       - url: /css/afmeting-marge
         published: 'yes'
         title: Afmeting, marge
