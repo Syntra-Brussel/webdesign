@@ -10,10 +10,13 @@ links:
 <p>Elk element kan een omlijnd worden via de&nbsp;<code>border</code>&nbsp;eigenschap.</p>
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
-.column {
+.vlak {
   display: inline-block;
-  width: 33.33%;
-  border: 1px solid #000;
+  width: 200px;
+  height: 200px;
+  border: 2px solid #000;
+  padding: 10px;
+  margin: 10px;
 }
 </pre>
 

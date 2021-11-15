@@ -169,7 +169,10 @@ items:
             title: 'Content box vs Border box'                                
           - url: /css/ruimte/omlijnen
             published: 'yes'
-            title: 'Omlijnen'            
+            title: 'Omlijnen'    
+          - url: /css/ruimte/centreren
+            published: 'yes'
+            title: 'Element centreren'                        
       - url: /css/floating
         published: 'yes'
         title: Floating             
