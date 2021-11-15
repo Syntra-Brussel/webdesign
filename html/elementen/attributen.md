@@ -24,7 +24,7 @@ Standaard wordt een link geopend in het zelfde venster. Het <code>target</code> 
 
 In dit voorbeeld wordt een beeld getoond. Het attribuut <code>src</code> bevat de URL naar het beeld. 
 
-## Sommige attributen kunnen bij elk element voorkomen
+## Sommige attributen kunnen bij elk element worden gebruikt
 ### Het <code>class</code> attribuut
 Je kan een <code>class</code> gebruiken voor het opmaken van eender welk HTML element.
 
