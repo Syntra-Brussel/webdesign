@@ -8,9 +8,9 @@ collection: [css, afmeting-marge]
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 .column {
-   display: inline-block;
-   width: 33.33%;
-   border: 1px solid #000;
+  display: inline-block;
+  width: 33.33%;
+  border: 1px solid #000;
 }
 </pre>
 

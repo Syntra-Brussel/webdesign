@@ -19,10 +19,10 @@ collection: [css, afmeting-marge]
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 .content-box {
-    border: 20px solid;
-    padding: 20px;
-    width: 200px;
-    box-sizing: content-box;
+  border: 20px solid;
+  padding: 20px;
+  width: 200px;
+  box-sizing: content-box;
 }
 </pre>
 
@@ -30,10 +30,10 @@ collection: [css, afmeting-marge]
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 .border-box {
-    border: 20px solid;
-    padding: 20px;
-    width: 200px;
-    box-sizing: border-box;
+  border: 20px solid;
+  padding: 20px;
+  width: 200px;
+  box-sizing: border-box;
 }</pre>
 
 

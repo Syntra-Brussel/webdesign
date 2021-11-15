@@ -16,8 +16,8 @@ collection: [css, afmeting-marge]
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 .column {
-    display: inline-block;
-    width: 200px;
+  display: inline-block;
+  width: 200px;
 }
 </pre>
 
@@ -25,7 +25,7 @@ collection: [css, afmeting-marge]
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 .column {
-    display: inline-block;
-    width: 33.33%;
+  display: inline-block;
+  width: 33.33%;
 }
 </pre>
