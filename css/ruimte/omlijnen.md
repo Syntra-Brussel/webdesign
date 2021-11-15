@@ -1,7 +1,7 @@
 ---
 layout: template
 title: Omlijnen
-url: /css/omlijnen
+url: /css/ruimte/omlijnen
 collection: [css]
 links:
   - url: /webdesign/tips-and-tricks/kleuren

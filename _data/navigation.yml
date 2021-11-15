@@ -160,7 +160,6 @@ items:
       - url: /css/ruimte
         published: 'yes'
         title: Ruimte tussen elementen
-        collection: ruimte
         subjects: 
           - url: /css/ruimte/marge-padding
             published: 'yes'
@@ -168,12 +167,12 @@ items:
           - url: /css/ruimte/content-box-vs-border-box
             published: 'yes'
             title: 'Content box vs Border box'                                
+          - url: /css/ruimte/omlijnen
+            published: 'yes'
+            title: 'Omlijnen'            
       - url: /css/floating
         published: 'yes'
         title: Floating             
       - url: /css/flexbox
         published: 'yes'
         title: Flexbox                                   
-      - url: /css/omlijnen
-        published: 'yes'
-        title: 'Omlijnen'
