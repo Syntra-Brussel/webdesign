@@ -10,7 +10,7 @@ Elementen hebben doorgaans attributen om extra eigenschappen aan het element toe
 
 Een attribuut bestaat uit een <span style="color: green">naam</span>, een <span style="color: red">=</span> en vervolgens een <span style="color: blue">waarde</span> tussen dubbele quotes.
 
-## <code>href</code> en <code>target</code> attributen bij een link element (<code>&lt;a&gt;</code>).
+### <code>href</code> en <code>target</code> attributen bij een link element (<code>&lt;a&gt;</code>).
 <img src="{{ '/html/elementen/images/attributen_1.png' | relative_url}}" />
 
 In dit voorbeeld wordt een link getoond (een “<strong>a</strong>nchor”). De waarde van het <code>href</code> attribuut is de URL die wordt geopend als je er klikt.
@@ -19,12 +19,13 @@ In dit voorbeeld wordt een link getoond (een “<strong>a</strong>nchor”). De 
 
 Standaard wordt een link geopend in het zelfde venster. Het <code>target</code> attribuut geeft aan dat de link wordt geopend in een nieuw venster.
 
-## <code>src</code> attribuut bij een beeld element (<code>&lt;img&gt;</code>).
+### <code>src</code> attribuut bij een beeld element (<code>&lt;img&gt;</code>).
 <img src="{{ '/html/elementen/images/attributen_3.png' | relative_url}}" />
 
 In dit voorbeeld wordt een beeld getoond. Het attribuut <code>src</code> bevat de URL naar het beeld. 
 
-## Het <code>class</code> attribuut
+## Sommige attributen kunnen bij elk element voorkomen
+### Het <code>class</code> attribuut
 Je kan een <code>class</code> gebruiken voor het opmaken van eender welk HTML element.
 
 <img src="{{ '/html/elementen/images/attributen_4.png?v=1' | relative_url}}" />
@@ -33,7 +34,7 @@ Een <code>class</code> is vooral nuttig wanneer je <strong>meerdere elementen</s
 
 We zullen dit nog uitvoerig bekijken wanneer we over "CSS" leren.
 
-## Het <code>id</code> attribuut
+### Het <code>id</code> attribuut
 
 Je kan een <code>id</code> gebruiken om een <strong>specifiek element</strong> te benaderen. 
 
