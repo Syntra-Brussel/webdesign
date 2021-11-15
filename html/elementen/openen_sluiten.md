@@ -6,7 +6,7 @@ collection: [html, elementen]
 ---
 <img src="{{ '/html/elementen/images/html.png' | relative_url}}" />
 
-### Elementen met inhoud
+## Elementen met inhoud
 
 Elementen staan rond de inhoud waarop ze betrekking hebben. Het <span style="color: green">&lt;html&gt;</span> element heeft betrekking op de volledige inhoud en staat dus rond alle inhoud.
 
@@ -16,7 +16,7 @@ Het <span style="color: red">&lt;body&gt;</span> element bevat de de zichtbare i
 
 <img class="shadow" src="{{ '/html/elementen/images/html_zichtbaar.png' | relative_url}}" />
 
-### Elementen zonder inhoud
+## Elementen zonder inhoud
 
 Sommige elementen hebben geen inhoud. Ze kunnen dus niet "klassiek" geopend en gesloten worden maar worden "meteen" gesloten.
 
