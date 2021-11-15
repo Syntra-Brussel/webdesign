@@ -1,6 +1,6 @@
 ---
 layout: template
-title: 'Ruimte'
+title: Ruimte tussen elementen
 url: /css/ruimte
 collection: [css,ruimte]
 ---	

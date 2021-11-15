@@ -159,7 +159,7 @@ items:
         title: 'Breedte, hoogte'  
       - url: /css/ruimte
         published: 'yes'
-        title: Ruimte
+        title: Ruimte tussen elementen
         collection: ruimte
         subjects: 
           - url: /css/ruimte/marge-padding
