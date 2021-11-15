@@ -54,9 +54,10 @@ quote {
     display: block;
 }
  
-.has-very-light-gray-background-color {
+.gray-code {
     background-color: #eee;
     padding: 1.25em 2.375em;
+    font: 15px Monaco,Consolas,"Andale Mono","DejaVu Sans Mono",monospace;
 }
  
 .highlight {
