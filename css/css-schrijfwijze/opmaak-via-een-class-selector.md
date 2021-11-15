@@ -30,7 +30,7 @@ collection: [css, css-schrijfwijze]
 <font color="blue">.form-element</font> {<br>
 &nbsp;&nbsp;<font color="green">font-family</font>: <font color="red">"Arial"</font>;<br>
 &nbsp;&nbsp;<font color="green">font-size</font>: <font color="red">14px</font>;<br>  <font color="green">color</font>: <font color="red">#C0C0C0</font>;<br>}
-</code>
+</div>
 
 
 
