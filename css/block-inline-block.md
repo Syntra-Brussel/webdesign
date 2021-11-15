@@ -11,7 +11,7 @@ collection: [css]
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 /* 
 - selector is een div met class "column"
-- een div is normaal een block element 
+- een div is normaal een block element maar wordt nu een inlin-block element
 */
 .column {
     display: inline-block;
@@ -21,7 +21,7 @@ collection: [css]
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 /* 
-het label element is normaal een inline-block element, nu gedraagt het zich al een block element 
+het label element is normaal een inline-block element maar wordt nu een block element 
 */
 label {
     display: block;
