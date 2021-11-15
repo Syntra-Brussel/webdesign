@@ -5,7 +5,7 @@ url: /css/css-schrijfwijze/meer-complexe-selectors
 collection: [css, css-schrijfwijze]
 ---
 					
-<blockquote><p>The Sky is the Limit</p></blockquote>
+<quote><p>The Sky is the Limit</p></quote>
 
 
 
