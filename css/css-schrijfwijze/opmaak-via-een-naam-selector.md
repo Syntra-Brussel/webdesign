@@ -36,7 +36,7 @@ collection: [css, css-schrijfwijze]
 
 
 
-<p>De eigenschappen zijn ook van toepassing op alle elementen binnen alle <font color="blue">&lt;p&gt;</font> element. In het geval hierboven dus ook op het <code><font color="purple">&lt;strong&gt;</font></code> element.</p>
+<p>De eigenschappen zijn ook van toepassing op alle elementen binnen alle <code><font color="blue">&lt;p&gt;</font></code> element. In het geval hierboven dus ook op het <code><font color="purple">&lt;strong&gt;</font></code> element.</p>
 
 
 
