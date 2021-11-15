@@ -126,6 +126,7 @@ items:
       - url: /css/css-schrijfwijze
         published: 'yes'
         title: CSS schrijfwijze
+        collection: css-schrijfwijze
         subjects:
           - url: /css/css-schrijfwijze/opmaak-via-een-element-naam-selector
             published: 'yes'
