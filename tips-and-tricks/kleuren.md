@@ -24,10 +24,6 @@ Een oranje tint heeft bijvoorbeeld deze waarde:
 HEX: #ff9933
 RGB: 255, 153, 51
 
-Een oranje tint heeft bijvoorbeeld deze waarde:
-HEX: #ff9933
-RGB: 255, 153, 51
-
 <u>HTML</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;div class="kleur-1"&gt;kleur 1&lt;/div&gt;
