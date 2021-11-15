@@ -33,7 +33,7 @@ collection: [css]
 
 
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="html">body {
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">body {
   color: red;
 }
 p {
