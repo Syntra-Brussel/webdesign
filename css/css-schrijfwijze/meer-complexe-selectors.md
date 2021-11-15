@@ -4,33 +4,62 @@ title: Meer complexe CSS selectors
 url: /css/css-schrijfwijze/meer-complexe-selectors
 collection: [css, css-schrijfwijze]
 ---
-								
-<p><span style="text-decoration: underline">HTM code:</span></p>
+					
+<blockquote><p>The Sky is the Limit</p></blockquote>
 
 
 
-<p class="has-very-light-gray-background-color has-background"><code><font color="blue">&lt;p&gt;</font>Dit is een <font color="purple">&lt;strong&gt;</font>vette<font color="purple">&lt;/strong&gt;</font> paragraaf<font color="blue">&lt;/p&gt;</font></code></p>
+<pre data-enlighter-language="css">p strong {
+  ...
+}</pre>
 
 
 
-<p><span style="text-decoration: underline">CSS code:</span></p>
+<p>Opmaak code is van toepassing op elk <code>&lt;strong&gt;</code> element binnen een <code>&lt;p&gt;</code> element.</p>
 
 
 
-<p class="has-very-light-gray-background-color has-background"><code><font color="blue">p</font> {<br>  <font color="green">font-family</font>: <font color="red">"Arial"</font>;<br>  <font color="green">font-size</font>: <font color="red">14px</font>;<br>  <font color="green">color</font>: <font color="red">#C0C0C0</font>;<br>}</code></p>
+<pre data-enlighter-language="css">.container article {
+ ...
+}</pre>
 
 
 
-<p>De <em>selector</em> is in dit geval de naam van een element (<code><font color="blue">&lt;p&gt;</font></code>).</p>
+<p>Opmaak code is van toepassing op elk <code>&lt;article&gt;</code> element binnen een  element met class <code>container</code>.</p>
 
 
 
-<p>De eigenschappen worden toegepast op <strong>alle</strong> <strong>inhoud</strong> binnen <strong>elk</strong> <code><font color="blue">&lt;p&gt;</font></code> element binnen het document. </p>
+<pre data-enlighter-language="css">/* toegepast op alle div elementen in .container */
+.container div {
+  ...
+}
+
+/* toegepast al alle div elementen in .container op het eerste niveau */
+.container &gt; div {
+  ...
+}</pre>
 
 
 
-<p>De eigenschappen zijn ook van toepassing op alle elementen binnen alle <font color="blue">&lt;p&gt;</font> element. In het geval hierboven dus ook op het <code><font color="purple">&lt;strong&gt;</font></code> element.</p>
+<p>Opmaak code is van toepassing op elk <code>&lt;div&gt;</code> element op het eerste niveau binnen een  element met class <code>container</code>.</p>
 
 
 
-<p>Opmaak die van toepassing is op het volledige document definieer je dus op het <code>&lt;body&gt; </code>element of zelfs het <code>&lt;html&gt;</code> element.</p>
+<pre data-enlighter-language="css">p strong.blue {
+  ...
+}</pre>
+
+
+
+<p>Opmaak code is van toepassing op elk <code>&lt;strong&gt;</code> met class <code>blue</code> binnen een <code>&lt;p&gt;</code> element.</p>
+
+
+
+<pre data-enlighter-language="css">
+p.blue strong {
+  ...
+}</pre>
+
+
+
+<p>Opmaak code is van toepassing op elk <code>&lt;strong&gt;</code> binnen een <code>&lt;p&gt;</code> element met class <code>blue</code>.</p>
