@@ -163,7 +163,7 @@ items:
         title: Flexbox                                   
       - url: /css/ruimte
         published: 'yes'
-        title: Afmeting, marge
+        title: Ruimte
         collection: ruimte
         subjects: 
           - url: /css/ruimte/marge-padding
