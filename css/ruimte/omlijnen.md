@@ -2,7 +2,7 @@
 layout: template
 title: Omlijnen
 url: /css/ruimte/omlijnen
-collection: [css]
+collection: [css, ruimte]
 links:
   - url: /webdesign/tips-and-tricks/kleuren
     label: Alles over kleuren
@@ -20,4 +20,4 @@ links:
 }
 </pre>
 
-<p>In bovenstaand voorbeeld krijgt het element een lijn van 1 pixel (px) dik, een volle lijn in de zwarte kleur (#000).</p>
+<p>In bovenstaand voorbeeld krijgt het element een lijn van 2 pixel (px) dik, een volle lijn in de zwarte kleur (#000).</p>
