@@ -140,3 +140,6 @@ items:
           - url: /css/css-schrijfwijze/meer-complexe-selectors
             published: 'yes'
             title: 'Meer complexe CSS selectors'                                    
+      - url: /css/cascading
+        published: 'yes'
+        title: De C van CSS staat voor Cascading                    
