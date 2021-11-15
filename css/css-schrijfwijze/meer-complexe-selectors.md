@@ -9,7 +9,7 @@ collection: [css, css-schrijfwijze]
 
 
 
-<pre data-enlighter-language="css">p strong {
+<pre data-enlighter-language="stylesheet">p strong {
   ...
 }</pre>
 
