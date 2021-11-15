@@ -1,5 +1,10 @@
-						
-<p>In de cursus “VSA HTML” bekeken we uitgebreid het verschil tussen block elementen en inline-block elementen.</p>
+---
+layout: template
+title: 'Block, inline-block'
+url: /css/block-in-line-block
+collection: [css]
+---						
+<p>In de HTML cursus bekeken we uitgebreid het verschil tussen block elementen en inline-block elementen.</p>
 
 <p>Via CSS kan je van een block element een inline-block element maken en omgekeerd.</p>
 
