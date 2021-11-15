@@ -149,3 +149,20 @@ items:
       - url: /css/block-inline-block
         published: 'yes'
         title: Block, inline-block                                 
+      - url: /css/afmeting-marge
+        published: 'yes'
+        title: Afmeting, marge
+        collection: afmeting-marge
+        subjects:
+          - url: /css/afmeting-marge/breedte-hoogte
+            published: 'yes'
+            title: 'Breedte, hoogte'        
+          - url: /css/afmeting-marge/marge-padding
+            published: 'yes'
+            title: 'Marge, padding'        
+          - url: /css/afmeting-marge/content-box-vs-border-box
+            published: 'yes'
+            title: 'Content box vs Border box'        
+          - url: /css/afmeting-marge/omlijnen
+            published: 'yes'
+            title: 'Omlijnen'                                                    
