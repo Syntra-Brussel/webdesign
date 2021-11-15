@@ -12,19 +12,19 @@ De referentie naar zo een bestand is een pad en een pad kan <strong>relatief</st
 
 ## Absoluut pad
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;img src=&quot;https://syntra-brussel.github.io/webdesign/images/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 
 Het beeld wordt in dit voorbeeld van https://syntra-brussel.github.io gehaald. Op die webhosting wordt het beeld in de <code>webdesign/images</code> folder gezocht.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;img src=&quot;/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 
 Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML bestand staat. De eerste <code>/</code> zorgt ervoor dat in de start folder wordt gezocht.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;img src=&quot;/images/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 
@@ -32,13 +32,13 @@ Het beeld wordt in dit voorbeeld van de domeinaam gehaald waar ook het HTML best
 
 ## Relatief pad
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;img src=&quot;logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 
 Het beeld wordt gezocht in de folder waarin ook het HTML bestand zich bevindt.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;img src=&quot;images/logo.png&quot; alt=&quot;Alternatieve tekst&quot; width=&quot;100&quot; height=&quot;200&quot; /&gt;
 </pre>
 

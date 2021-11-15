@@ -16,7 +16,7 @@ a[target="_blank"]:after {
     content: " \f08e";
 }
 
-p, quote, ul, .enlighter-default {
+p, blockquote, ul, .enlighter-default {
     margin: 0 0 1.5rem;
 }
 
@@ -40,12 +40,12 @@ img {
     margin-bottom: 1.5rem;   
 }
 
-quote img,
+blockquote img,
 li img {
     margin-top: 1.5rem;
 }
 
-quote {
+blockquote {
     max-width: 80%;
     padding: 1em;
     margin-left: 2rem;

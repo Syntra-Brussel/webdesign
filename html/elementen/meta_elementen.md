@@ -12,7 +12,7 @@ collection: [html, elementen]
 </div>
 
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;head&gt;
   &lt;meta charset=&quot;utf-8&quot;&gt;
   &lt;title&gt;Voorbeeld van meta-tags&lt;/title&gt;

@@ -8,7 +8,7 @@ links:
 ---
 Een link naar een e-mail adres leggen kan via HTML eenvoudig via het <code>&lt;a&gt;</code> element.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;a href=&quot;mailto:bill.gates@microsoft.com&quot;&gt;e-mail mij&lt;/a&gt;
 </pre>
 
@@ -16,7 +16,7 @@ Niet enkel bezoekers van de webpagina kunnen op deze link klikken. Ook SPAM bots
 
 Je kan het de SPAM bots moeilijker maken door bijvoorbeeld een stukje Javascript uit te voeren wanneer je op de link klikt: 
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;a href=&quot;javascript:location='mailto:\u0062\u0069\u006c\u006c\u002e\u0067\u0061\u0074\u0065\u0073\u0040\u006d\u0069\u0063\u0072\u006f\u0073\u006f\u0066\u0074\u002e\u0063\u006f\u006d';void 0">mail mij&lt;/a&gt;
 </pre>
 

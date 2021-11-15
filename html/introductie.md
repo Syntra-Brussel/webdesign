@@ -26,7 +26,7 @@ collection: html
 
 Zoals hierboven aangegeven geeft HTML structuur aan de inhoud. Via elementen beschrijft het de inhoud. Het geeft aan dat een stukje tekst bijvoorbeeld een titel is of een paragraaf of een link, … . 
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;h1&gt;Dit ise en titel&lt;/h1&gt;
 &lt;p&gt;Dit is een paragraaf&lt;/p&gt;
 &lt;a&gt;Dit is een link&lt;/a&gt;

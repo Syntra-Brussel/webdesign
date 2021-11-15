@@ -128,15 +128,15 @@ items:
         title: CSS schrijfwijze
         collection: css-schrijfwijze
         subjects:
-          - url: /css/css-schrijfwijze/opmaak-via-een-naam-selector
+          - url: /css/css-schrijfwijze/opmaak-via-naam-selector
             published: 'yes'
-            title: 'Opmaak via een element naam selector'
-          - url: /css/css-schrijfwijze/opmaak-via-een-class-selector
+            title: 'Opmaak via element naam selector'
+          - url: /css/css-schrijfwijze/opmaak-via-class-selector
             published: 'yes'
-            title: 'Opmaak via een class selector'
-          - url: /css/css-schrijfwijze/opmaak-via-een-id-selector
+            title: 'Opmaak via class selector'
+          - url: /css/css-schrijfwijze/opmaak-via-id-selector
             published: 'yes'
-            title: 'Opmaak via een id selector'
+            title: 'Opmaak via id selector'
           - url: /css/css-schrijfwijze/meer-complexe-selectors
             published: 'yes'
             title: 'Meer complexe CSS selectors'                                    

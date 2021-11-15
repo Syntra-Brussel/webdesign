@@ -26,7 +26,7 @@ Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met
 
 <img src="{{ '/html/elementen/images/basis_structuur.jpg' | relative_url}}" />
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;html&gt;
   &lt;head&gt;&lt;/head&gt;
   &lt;body&gt;
@@ -42,7 +42,7 @@ Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met
 
 
 ## Semantische elementen combineren
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;article&gt; 
   &lt;h1&gt;Weersvoorspelling voor Antwerpen&lt;/h1&gt; 
   &lt;article&gt; 
@@ -63,7 +63,7 @@ Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met
 ## Andere semantische elementen
 
 ### <code>&lt;figure&gt;</code> en <code>&lt;figcaption&gt;</code> elementen
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;figure&gt; 
   &lt;img src=&quot;storm_ciara_zorgt_voor_veel_schade.jpg&quot; alt=&quot;Storm Ciara zorgt voor veel schade&quot;&gt; 
   &lt;figcaption&gt;Storm Ciara zorgt voor veel schade in Antwerpen&lt;/figcaption&gt; 
@@ -73,7 +73,7 @@ Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met
 Gebruik <code>&lt;figure&gt;</code> als inhoud element (bijvoorbeeld in een <code>&lt;p&gt;</code> element) en niet als layout element.
 
 ### <code><nav></code> element
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;nav&gt; 
   &lt;a href=&quot;/html/&quot;&gt;HTML&lt;/a&gt; | 
   &lt;a href=&quot;/css/&quot;&gt;CSS&lt;/a&gt; | 
@@ -86,7 +86,7 @@ Een attribuut dat beelden met een verschillend formaat voorziet voor verschillen
 
 De browser bepaalt zelf welk beeld het gaat inladen.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;img srcset=&quot;beeld_w300.jpg w300, beeld_w1000.jpg w1000, beeld_w2000.jpg w2000&quot; src=&quot;beeld.jpg&quot;&gt;
 </pre>
 
@@ -97,7 +97,7 @@ Nog een voorbeeld van een element zonder veel basis opmaak maar met een duidelij
 
 Binnen een <code>&lt;fieldset&gt;</code> element komt bovenaan vaak een <code>&lt;legend&gt;</code> element dat een omschrijving bevat van de velden of van het formulier.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;form&gt; 
   &lt;fieldset&gt; 
     &lt;legend&gt;Inschrijven op de nieuwsbrief&lt;/legend&gt; 

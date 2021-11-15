@@ -15,7 +15,7 @@ Elke kolom binnen een rij wordt weergeven met een <code style="color: green">&lt
 ## Tabel hoofding
 Als de eerste rij binnen het <code>&lt;table&gt;</code> element de hoofding is vervangen we de <code>&lt;td&gt;</code> door <code>&lt;th&gt;</code>.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;table border=&quot;1&quot; width=&quot;100%&quot;&gt;
   &lt;tr&gt;
     &lt;th&gt;kolom 1&lt;/th&gt; 
@@ -44,7 +44,7 @@ Als de eerste rij binnen het <code>&lt;table&gt;</code> element de hoofding is v
 Je kan ook meerdere kolommen samenvoegen via het attribuut colspan:
 
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;table widh=&quot;100%&quot; border=&quot;1&quot;&gt; 
   &lt;tr&gt; 
     &lt;th&gt;Naam&lt;/th&gt; 
@@ -63,7 +63,7 @@ Je kan ook meerdere kolommen samenvoegen via het attribuut colspan:
 ## Rijen samenvoegen
 Je kan ook meerdere rijen samenvoegen via het attribuut rowspan:
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;table width=&quot;100%&quot;&gt;
   &lt;tr&gt; 
     &lt;th&gt;Naam:&lt;/th&gt; 

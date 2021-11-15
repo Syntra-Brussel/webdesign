@@ -27,7 +27,7 @@ Alle invoer velden moeten binnen <code style="color: blue">&lt;form&gt;</code> e
 ## Elementen die sinds HTML5 bestaan
 Er zijn tal van nieuwe elementen geïntroduceerd die veel meer frontend validatie mogelijk maken.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;input type=&quot;email&quot; required placeholder=&quot;Voer een e-mailadres in&quot; /&gt;
 </pre>
 
@@ -53,13 +53,13 @@ Naast het type email, zijn ook volgende types geïntroduceerd:
 
 ## Elementen die al voor HTML5 bestonden
 ### Een tekstveld
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;input name=&quot;voornam&quot; type=&quot;text&quot;&gt;
 </pre>
 Het <code>name</code> attribuut is verplicht bij een <code>&lt;input&gt;</code> element
 
 ### De selectielijst
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;select name=&quot;auto&quot;&gt; 
   &lt;option value=&quot;volvo&quot;&gt;Volvo&lt;/option&gt; 
   &lt;option selected value=&quot;saab&quot;&gt;Saab&lt;/option&gt; 
@@ -77,7 +77,7 @@ Het <code>name</code> attribuut is verplicht bij een <code>&lt;input&gt;</code> 
 ### Selectie rondje (radio)
 Er is maar één keuze mogelijk.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;input type=&quot;radio&quot; id=&quot;optie_1&quot; name=&quot;optie&quot; value=&quot;Optie 1&quot;&gt; 
 &lt;label for=&quot;optie_1&quot;&gt;Dit is optie 1&lt;/label&gt;&lt;br /&gt; 
 &lt;input type=&quot;radio&quot; id=&quot;optie_2&quot; name=&quot;optie&quot; value=&quot;Optie 2&quot;&gt; 
@@ -92,13 +92,13 @@ Er is maar één keuze mogelijk.
 <li>De optie die al geselecteerd wordt bij het laden krijgt het attribuut <code>checked</code> mee</li>
 </ul>
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;input type=&quot;radio&quot; checked /&gt;
 </pre>
 ### Selectie vakje (checkbox)
 Er zijn meerdere opties mogelijk.
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;input type=&quot;checkbox&quot; id=&quot;optie_1&quot; name=&quot;optie_1&quot; value=&quot;Optie 1&quot;&gt; 
 &lt;label for=&quot;optie_1&quot;&gt;Dit is optie 1&lt;/label&gt;&lt;br /&gt; 
 &lt;input type=&quot;checkbox&quot; id=&quot;optie_2&quot; name=&quot;optie_2&quot; value=&quot;Optie 2&quot;&gt; 
@@ -114,12 +114,12 @@ Er zijn meerdere opties mogelijk.
 <li>De optie die al geselecteerd wordt bij het laden krijgt het attribuut <code>checked</code> mee</li>
 </ul>
 
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;input type=&quot;checkbox&quot; checked /&gt;
 </pre>
 
 ### Een groot tekstveld
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;textarea name=&quot;bericht&quot; rows=&quot;10&quot; cols=&quot;30&quot;&gt;&lt;/textarea&gt;
 </pre>
 <ul>
@@ -128,17 +128,17 @@ Er zijn meerdere opties mogelijk.
 <li>Een <code>name</code> attribuut is verplicht bij een textarea element</li>
 </ul>
 ### Een knop
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;button type=&quot;button&quot;&gt;Klik mij!&lt;/button&gt;
 </pre>
 
 ### Een verzend knop
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;input type=&quot;submit&quot; value=&quot;Verstuur&quot; /&gt;
 </pre>
 Een verzend knop verzend de inhoud van het formulier naar de de URL die in het <code>action</code> attribuut staat van het <code>&lt;form&gt;</code> element.
 
 ### Bestand opladen
-<pre data-enlighter-language="html">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;input type=&quot;file&quot; name=&quot;bestand&quot; /&gt;
 </pre>
