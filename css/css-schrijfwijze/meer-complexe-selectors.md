@@ -45,7 +45,7 @@ collection: [css, css-schrijfwijze]
 
 
 
-<pre data-enlighter-theme="beyond"data-enlighter-language="css">p strong.blue {
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">p strong.blue {
   ...
 }</pre>
 
