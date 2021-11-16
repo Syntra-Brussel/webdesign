@@ -5,7 +5,7 @@ url: /css/ruimte/omlijnen
 collection: [css, ruimte]
 links:
   - url: /webdesign/tips-and-tricks/kleuren
-    label: Alles over kleuren
+    title: Alles over kleuren
 ---							
 <p>Elk element kan een omlijnd worden via de&nbsp;<code>border</code>&nbsp;eigenschap.</p>
 

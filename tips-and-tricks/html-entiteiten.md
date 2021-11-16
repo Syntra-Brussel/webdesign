@@ -5,9 +5,9 @@ url: /tips-and-tricks/html-entiteiten
 collection: tricks
 links:
   - url: https://www.w3schools.com/html/html_entities.asp
-    label: Nog veel meer over HTML entiteiten
+    title: Nog veel meer over HTML entiteiten
   - url: https://nl.piliapp.com/emoji/list/smileys-people/
-    label: Ook emoji's worden met UTF-8 ondersteund
+    title: Ook emoji's worden met UTF-8 ondersteund
 ---
 Elk karakter op een webpagina heeft een specifieke code. Je kan de tekstuele inhoud dus zowel opbouwen via de invoer van het toetsenbord als via de specifieke code.
 

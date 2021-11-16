@@ -5,9 +5,9 @@ url: /tips-and-tricks/kleuren
 collection: tricks
 links:
   - url: https://www.w3schools.com/colors/colors_picker.asp
-    label: Color picker
+    title: Color picker
   - url: https://www.color-hex.com
-    label: Populaire kleuren en kleuren die mooi samen passen
+    title: Populaire kleuren en kleuren die mooi samen passen
 ---
 Elke kleur binnen op een website heeft een hexadecimale waarde. Elke hexadecimale waarde is eigenlijk een vertaling van 3 getallen, de RGB waardes.
 
