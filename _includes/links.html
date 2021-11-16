@@ -4,7 +4,7 @@
         {% if page.links.size == 1 %} 
             {% assign link = page.links.first %}
             <p> 
-                {{ link|slice(1, 1) }}
+                {{ link|slice: 0 }}
                 {% if link.label %}
                     {{ link.label }}: 
                 {% endif %}
