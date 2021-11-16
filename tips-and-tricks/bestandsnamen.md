@@ -22,9 +22,9 @@ We nemen vanaf deze structuur aan:
 
 <div class="gray-code">
 \&lt;project_naam&gt;<br />
-  |_ \images<br />
-    |_ ...<br />
-  |_ \css<br />
-    |_ style.css<br />
-  |_index.html
+&nbsp;&nbsp;|_ \images<br />
+&nbsp;&nbsp;&nbsp;&nbsp;|_ ...<br />
+&nbsp;&nbsp;|_ \css<br />
+&nbsp;&nbsp;&nbsp;&nbsp;|_ style.css<br />
+&nbsp;&nbsp;|_ index.html
 </div>
