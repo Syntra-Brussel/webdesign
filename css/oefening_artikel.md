@@ -5,7 +5,7 @@ url: /css/oefening_artikel
 collection: [css]
 links:
   - url: /webdesign/tips-and-tricks/bestandsnamen
-    title: Conventies bij bestandsnamen en mappen structuren
+    title: 'Project structuur: bestanden en mappen'
   - url: /webdesign/tips-and-tricks/lorem-ipsum
     title: Lorem Ipsum
   - url: /webdesign/tips-and-tricks/placeholder
@@ -21,7 +21,7 @@ links:
 
 <div class="highlight">
     <h3>TIP</h3>
-    Schrijf <strong>EERST</strong> de <strong>HTML</strong>, <strong>DAN</strong> pas de <strong>CSS</strong> code.
+    Schrijf <strong>EERST</strong> de <strong>HTML</strong> code, <strong>DAN</strong> pas de <strong>CSS</strong> code.
 </div>
 
 <img src="images/oefening_artikel.png" />

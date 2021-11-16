@@ -188,7 +188,7 @@ items:
       - url: /tips-and-tricks/bestandsnamen
         published: 'yes'
         collection: tricks
-        title: 'Conventies bij bestandsnamen en mappen structuren'   
+        title: 'Project structuur: bestanden en mappen'   
       - url: /tips-and-tricks/font-awesome
         published: 'yes'
         collection: tricks

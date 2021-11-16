@@ -1,6 +1,6 @@
 ---
 layout: template
-title: 'Conventies bij bestandsnamen en mappen structuren'
+title: 'Project structuur: bestanden en mappen'
 url: /tips-and-tricks/bestandsnamen
 collection: tricks
 links:
