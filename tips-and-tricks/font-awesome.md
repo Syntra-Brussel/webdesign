@@ -18,12 +18,11 @@ De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar o
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
 ...
 <head>
-<script src="https://kit.fontawesome.com/2d03a6046d.js"></script>
+  <script src="https://kit.fontawesome.com/2d03a6046d.js"></script>
 </head>
-...
-
-Als alles is gelukt zie je hier in een "check" in een cirkel.
-
-<i class="fas fa-check-circle"></i>
+<body>
+  <p>Als alles is gelukt zie je hier in een "check" in een cirkel.</p>
+  <i class="fas fa-check-circle"></i>
+</body>
 </pre>
 
