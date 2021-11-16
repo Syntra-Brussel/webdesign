@@ -152,7 +152,7 @@ items:
         title: 'OEFENING: Eerste experiment'
       - url: /css/oefening_artikel
         published: 'yes'
-        title: 'OEFENING: Artikel'                                                       
+        title: 'OEFENING: Artikel'                                                   
       - url: /css/flexbox
         published: 'no'
         title: Flexbox                                   
