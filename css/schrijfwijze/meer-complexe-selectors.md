@@ -9,9 +9,11 @@ collection: [css, schrijfwijze]
 
 
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="css">p strong {
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+p strong {
   ...
-}</pre> 
+}
+</pre> 
 
 
 
@@ -19,9 +21,11 @@ collection: [css, schrijfwijze]
 
 
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="css">.container article {
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+.container article {
  ... 
-}</pre>
+}
+</pre>
 
 
 
@@ -29,15 +33,17 @@ collection: [css, schrijfwijze]
 
 
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="css">/* toegepast op alle div elementen in .container */
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+/* toegepast op alle div elementen in een element met class .container */
 .container div {
   ...
 }
 
-/* toegepast al alle div elementen in .container op het eerste niveau */
+/* toegepast op alle div elementen in elementen met class .container op het eerste niveau */
 .container &gt; div {
   ...
-}</pre>
+}
+</pre>
 
 
 
@@ -45,9 +51,11 @@ collection: [css, schrijfwijze]
 
 
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="css">p strong.blue {
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+p strong.blue {
   ...
-}</pre>
+}
+</pre>
 
 
 
@@ -58,7 +66,8 @@ collection: [css, schrijfwijze]
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 p.blue strong {
   ...
-}</pre>
+}
+</pre>
 
 
 
