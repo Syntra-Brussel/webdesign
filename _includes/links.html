@@ -4,25 +4,29 @@
         {% if page.links.size == 1 %} 
             {% assign link = page.links.first %}
             <p> 
-                {% assign first_char = link.url|slice: 0 %}            
-                *{{ first_char }}*
+                {% assign target = "" %}
+                {% if first_char != "\" %}
+                    {% target = "blank" %}
+                {% endif %}
                 {% if link.title %}
                     {{ link.title }}: 
                 {% endif %}
  
-                <a target="_blank" href="{{ link.url }}">{{ link.url }}</a>
+                <a target="{{ target }}" href="{{ link.url }}">{{ link.url }}</a>
             </p> 
         {% else %}
             <ul>
             {% for link in page.links %}
                 <li>
                     {% assign first_char = link.url|slice: 0 %}            
-                    *{{ first_char }}*
-                    
+                    {% assign target = "" %}
+                    {% if first_char != "\" %}
+                        {% target = "blank" %}
+                    {% endif %}
                     {% if link.label != "" %}
                         {{ link.label }}: 
                     {% endif %}
-                    <a target="_blank" href="{{ link.url }}">{{ link.url }}</a>
+                    <a target="{{ target }}" href="{{ link.url }}">{{ link.url }}</a>
                 </li>
             {% endfor %}
             </ul>
