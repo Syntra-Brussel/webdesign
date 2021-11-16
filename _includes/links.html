@@ -4,6 +4,7 @@
         {% if page.links.size == 1 %} 
             {% assign link = page.links.first %}
             <p> 
+                {% assign first_char = link.url|slice: 0 %}
                 {% assign target = "" %}
                 {% if first_char != "\" %}
                     {% assign target = "_blank" %}
@@ -22,8 +23,8 @@
                     {% if first_char != "\" %}
                         {% assign target = "_blank" %}
                     {% endif %}
-                    {% if link.label != "" %}
-                        {{ link.label }}: 
+                    {% if link.title != "" %}
+                        {{ link.title }}: 
                     {% endif %}
                     <a target="{{ target }}" href="{{ link.url }}">{{ link.url }}</a>
                 </li>
