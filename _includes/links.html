@@ -6,8 +6,8 @@
             <p> 
                 {% assign first_char = link.url|slice: 0 %}            
                 *{{ first_char }}*
-                {% if link.label %}
-                    {{ link.label }}: 
+                {% if link.title %}
+                    {{ link.title }}: 
                 {% endif %}
  
                 <a target="_blank" href="{{ link.url }}">{{ link.url }}</a>
@@ -16,6 +16,9 @@
             <ul>
             {% for link in page.links %}
                 <li>
+                    {% assign first_char = link.url|slice: 0 %}            
+                    *{{ first_char }}*
+                    
                     {% if link.label != "" %}
                         {{ link.label }}: 
                     {% endif %}
