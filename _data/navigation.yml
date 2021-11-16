@@ -142,7 +142,7 @@ items:
             published: 'yes'
             title: 'Element centreren'  
       - url: /css/floating
-        published: 'yes'
+        published: 'no'
         title: Floating            
       - url: /css/block-inline-block
         published: 'yes'

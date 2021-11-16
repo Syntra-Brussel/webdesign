@@ -16,7 +16,7 @@ In principe maakt de naam van een bestand of een map niet zoveel uit. Echter zij
 * ...
 
 ## <code>index.html</code> eenvoudig op te roepen in een browser
-
+ 
 Door een bestand <code>index.html</code> te noemen moet je het niet specifiek in je adres opnemen. De folder volstaat dan.
 
 ## Project structuur 
