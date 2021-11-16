@@ -13,7 +13,7 @@ links:
 
 Door <em>Font Awesome</em> in je <code>&lt;head&gt;</code> te laden kan je ze eenvoudig gaan gebruiken in je HTML.
 
-De bibliotheek is <em>as we speak</em> al aan Versie 6. Er zijn betalende iconen maar ook een hele betalende set.
+De bibliotheek is <em>as we speak</em> al aan Versie 6. Er zijn betalende iconen maar ook een hele gratis set.
 
 <u>HTML</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
