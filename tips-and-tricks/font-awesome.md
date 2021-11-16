@@ -22,8 +22,7 @@ De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar o
     &lt;script src="https://kit.fontawesome.com/2d03a6046d.js"&gt;&lt;/script&gt;
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;p&gt;&lt;i class="fas fa-check-circle"&gt;&lt;/i&gt; Als alles is gelukt zie je hier in een "check" in een cirkel.&lt;/p&gt;
-    
+    &lt;p&gt;&lt;i class="fas fa-check-circle"&gt;&lt;/i&gt; Als alles is gelukt zie je hier in een "check" in een cirkel.&lt;/p&gt;    
   &lt;/body&gt;
 &lt;/html&gt;
 </pre>
