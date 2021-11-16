@@ -29,4 +29,4 @@ De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar o
 </pre>
 
 <u>Resultaat</u>:
-<img src="images/font_awesome_check.png" />
+<img class="shadow" src="images/font_awesome_check.png" />
