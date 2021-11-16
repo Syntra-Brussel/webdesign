@@ -24,7 +24,7 @@ Bijvoorbeeld:  auteur van het document, copyright informatie, privacy informatie
 
 Een basis structuur van een eenvoudige webpagina zou opgebouwd kunnen worden met deze elementen:
 
-<img src="{{ '/html/elementen/images/basis_structuur.jpg' | relative_url}}" />
+<img src="{{ '/html/elementen/images/artikel.jpg' | relative_url}}" />
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;html&gt;
