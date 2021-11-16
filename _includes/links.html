@@ -4,8 +4,8 @@
         {% if page.links.size == 1 %} 
             {% assign link = page.links.first %}
             <p> 
-                {% assign first_char = link|slice: 0 %}            
-                {{ first_char }}
+                {% assign first_char = link.url|slice: 0 %}            
+                *{{ first_char }}*
                 {% if link.label %}
                     {{ link.label }}: 
                 {% endif %}
