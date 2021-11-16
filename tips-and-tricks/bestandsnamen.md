@@ -22,7 +22,7 @@ Door een bestand <code>index.html</code> te noemen moet je het niet specifiek in
 We nemen vanaf deze structuur aan:
 
 <div class="gray-code">
-\<em>project naam</em><br />
+\<em>project_naam</em><br />
 &nbsp;&nbsp;|_ \images<br />
 &nbsp;&nbsp;&nbsp;&nbsp;|_ ...<br />
 &nbsp;&nbsp;|_ \css<br />
@@ -30,4 +30,4 @@ We nemen vanaf deze structuur aan:
 &nbsp;&nbsp;|_ index.html
 </div>
 
-Je bereikt <code>index.html</code> dan eenvoudig door te surfen naar de folder \<em>project naam</em>
+Je bereikt <code>index.html</code> dan eenvoudig door te surfen naar de folder <em>project_naam</em>
