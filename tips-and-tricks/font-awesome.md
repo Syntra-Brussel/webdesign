@@ -6,6 +6,8 @@ collection: tricks
 links:
   - url: https://www.fontawesome.com
     title: Font Awesome
+  - url: https://fontawesome.com/v5.15/icons
+    title: Meteen naar de symbolen
 ---
 Font Awesome is een bibliotheek die toelaat om symbolen te gebruiken in een website. 
 
