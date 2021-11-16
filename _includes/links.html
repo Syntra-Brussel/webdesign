@@ -6,7 +6,7 @@
             <p> 
                 {% assign target = "" %}
                 {% if first_char != "\" %}
-                    {% target = "blank" %}
+                    {% assign target = "_blank" %}
                 {% endif %}
                 {% if link.title %}
                     {{ link.title }}: 
@@ -21,7 +21,7 @@
                     {% assign first_char = link.url|slice: 0 %}            
                     {% assign target = "" %}
                     {% if first_char != "\" %}
-                        {% target = "blank" %}
+                        {% assign target = "_blank" %}
                     {% endif %}
                     {% if link.label != "" %}
                         {{ link.label }}: 
