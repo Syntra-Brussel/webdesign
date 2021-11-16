@@ -22,4 +22,9 @@ links:
     </ul>
 </div>
 
+<div class="highlight">
+    <h3>TIP</h3>
+    Schrijf <strong>EERST</strong> de <strong>HTML</strong> code zoals hieronder weer gegeven, <strong>DAN</strong> pas </strong>CSS</strong>
+</div>
+ 
 <img class="shadow center" src="images/oefening_eerste_experiment.png" />
