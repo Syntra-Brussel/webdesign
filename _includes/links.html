@@ -6,7 +6,7 @@
             <p> 
                 {% assign first_char = link.url|slice: 0 %}
                 {% assign target = "" %}
-                {% if first_char != "\" %}
+                {% if first_char != "/" %}
                     {% assign target = "_blank" %}
                 {% endif %}
                 {% if link.title %}
@@ -20,7 +20,7 @@
                 <li>
                     {% assign first_char = link.url|slice: 0 %}            
                     {% assign target = "" %}
-                    {% if first_char != "\" %}
+                    {% if first_char != "/" %}
                         {% assign target = "_blank" %}
                     {% endif %}
                     {% if link.title != "" %}

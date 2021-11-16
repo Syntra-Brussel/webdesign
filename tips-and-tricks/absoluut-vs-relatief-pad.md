@@ -5,6 +5,7 @@ url: /tips-and-tricks/absoluut-vs-relatief-pad
 collection: tricks
 links:
   - url: https://www.hostinginnederland.nl/help/vragen/wat-is-verschil-tussen-absoluut-relatief-pad-171
+    title: Absoluut vs. relatief
   - url: /webdesign/tips-and-tricks/bestandsnamen
     title: 'Conventies bij bestandsnamen en mappen structuren' 
 --- 
