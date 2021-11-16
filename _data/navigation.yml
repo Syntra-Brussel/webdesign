@@ -185,3 +185,7 @@ items:
         published: 'yes'
         collection: tricks
         title: 'Kleuren'          
+      - url: /tips-and-tricks/bestandsnamen
+        published: 'yes'
+        collection: tricks
+        title: 'Conventies bij bestandsnamen en mappen structuren'                  
