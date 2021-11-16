@@ -51,6 +51,7 @@ div {
 }
 
 /* half transparant */
+/* de 4de rgba() parameter heeft een waarde tussen 0 en 1 */
 .kleur-3 {
   background-color: rgba(255, 153, 51, .5);
   color: rgb(255, 255, 255);
