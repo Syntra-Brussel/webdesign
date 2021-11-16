@@ -31,6 +31,6 @@ De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar o
 <img class="shadow" src="images/font_awesome_check.png?v=1" />
 
 ## FONT awesome
-De bibliotheek draagt <em>font</em> in haar naam omdat ze eigenlijk een extra lettertype laadt in je webpagina dat via een een set van classes in de HTML wordt geladen. In het voorbeeld hierboven gaat het om de classes <code>fas fa-check-circle</code>.
+De bibliotheek draagt <em>font</em> in haar naam omdat ze eigenlijk een extra lettertype laadt in je webpagina dat via een  set van classes in de HTML wordt geladen. In het voorbeeld hierboven gaat het om de classes <code>fas fa-check-circle</code>.
 
 <img class="shadow" src="images/font_awesome_font.png" />
