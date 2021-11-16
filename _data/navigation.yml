@@ -93,35 +93,6 @@ items:
           - url: /html/extra_oefeningen/extra_oefening_4
             published: 'yes'
             title: 'EXTRA OEFENING 4: Obelisk'
-  - url: /tips-and-tricks  
-    published: 'yes'
-    collection: tricks  
-    title: 'Tips & Tricks'
-    topics:
-      - url: /tips-and-tricks/html-entiteiten
-        published: 'yes'
-        collection: tricks
-        title: 'HTML entiteiten'
-      - url: /tips-and-tricks/e-mail-maskeren
-        published: 'yes'
-        collection: tricks
-        title: 'E-mail adres maskeren'
-      - url: /tips-and-tricks/lorem-ipsum
-        published: 'yes'
-        collection: tricks
-        title: 'Lorem Ipsum'
-      - url: /tips-and-tricks/placeholder
-        published: 'yes'
-        collection: tricks
-        title: 'Placeholder'
-      - url: /tips-and-tricks/absoluut-vs-relatief-pad
-        published: 'yes'
-        collection: tricks
-        title: 'Absoluut vs. relatief pad'
-      - url: /tips-and-tricks/kleuren
-        published: 'yes'
-        collection: tricks
-        title: 'Kleuren'  
   - url: /css
     published: 'yes'
     collection: css
@@ -169,13 +140,48 @@ items:
             title: 'Omlijnen'    
           - url: /css/ruimte/centreren
             published: 'yes'
-            title: 'Element centreren'                        
-      - url: /css/block-inline-block
-        published: 'no'
-        title: Block, inline-block               
+            title: 'Element centreren'  
       - url: /css/floating
-        published: 'no'
-        title: Floating             
+        published: 'yes'
+        title: Floating            
+      - url: /css/block-inline-block
+        published: 'yes'
+        title: Block, inline-block             
+      - url: /css/oefening_eerste_experiment
+        published: 'yes'
+        title: 'OEFENING: Eerste experiment'
+      - url: /css/oefening_basis_structuur
+        published: 'yes'
+        title: 'OEFENING: Basis structuur'                                                       
       - url: /css/flexbox
         published: 'no'
         title: Flexbox                                   
+  - url: /tips-and-tricks  
+    published: 'yes'
+    collection: tricks  
+    title: 'Tips & Tricks'
+    topics:
+      - url: /tips-and-tricks/html-entiteiten
+        published: 'yes'
+        collection: tricks
+        title: 'HTML entiteiten'
+      - url: /tips-and-tricks/e-mail-maskeren
+        published: 'yes'
+        collection: tricks
+        title: 'E-mail adres maskeren'
+      - url: /tips-and-tricks/lorem-ipsum
+        published: 'yes'
+        collection: tricks
+        title: 'Lorem Ipsum'
+      - url: /tips-and-tricks/placeholder
+        published: 'yes'
+        collection: tricks
+        title: 'Placeholder'
+      - url: /tips-and-tricks/absoluut-vs-relatief-pad
+        published: 'yes'
+        collection: tricks
+        title: 'Absoluut vs. relatief pad'
+      - url: /tips-and-tricks/kleuren
+        published: 'yes'
+        collection: tricks
+        title: 'Kleuren'          
