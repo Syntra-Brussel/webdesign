@@ -15,15 +15,18 @@ Door een Font Awesome javascript en CSS in je <code>&lt;head&gt;</code> te laden
 
 De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar ook heel wat zijn (nog) gratis.
 
+<u>HTML</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
 <html>
   <head>
     <script src="https://kit.fontawesome.com/2d03a6046d.js"></script>
   </head>
   <body>
-    <p>Als alles is gelukt zie je hier in een "check" in een cirkel.</p>
-    <i class="fas fa-check-circle"></i>
+    <p><i class="fas fa-check-circle"></i> Als alles is gelukt zie je hier in een "check" in een cirkel.</p>
+    
   </body>
 </html>
 </pre>
 
+<u>Resultaat</u>:
+<img src="images/font_awesome_check.png" />
