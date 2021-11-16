@@ -18,4 +18,4 @@ links:
     </ul>
 </div>
 
-<img src="images/oefening_eerste_experiment.png" />
+<img class="shadow center" src="images/oefening_eerste_experiment.png" />
