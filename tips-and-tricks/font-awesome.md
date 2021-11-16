@@ -17,15 +17,15 @@ De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar o
 
 <u>HTML</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
-<html>
-  <head>
-    <script src="https://kit.fontawesome.com/2d03a6046d.js"></script>
-  </head>
-  <body>
-    <p><i class="fas fa-check-circle"></i> Als alles is gelukt zie je hier in een "check" in een cirkel.</p>
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;script src="https://kit.fontawesome.com/2d03a6046d.js"&gt;&lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;&lt;i class="fas fa-check-circle"&gt;&lt;/i&gt; Als alles is gelukt zie je hier in een "check" in een cirkel.&lt;/p&gt;
     
-  </body>
-</html>
+  &lt;/body&gt;
+&lt;/html&gt;
 </pre>
 
 <u>Resultaat</u>:
