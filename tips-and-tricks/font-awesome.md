@@ -9,13 +9,11 @@ links:
   - url: https://fontawesome.com/v5.15/icons
     title: Meteen naar de symbolen
 ---
-Font Awesome is een bibliotheek die toelaat om symbolen te gebruiken in een website. 
+<em>Font Awesome</em> is een bibliotheek die toelaat om een heel aantal symbolen te gebruiken in een website. 
 
-Ze draait <em>font</em> in haar naam omdat ze eigenlijk een extra lettertype laadt in je webpagina.
+Door <em>Font Awesome</em> in je <code>&lt;head&gt;</code> te laden kan je ze eenvoudig gaan invoegen in je HTML.
 
-Door een Font Awesome javascript en CSS in je <code>&lt;head&gt;</code> te laden kan je ze eenvoudig gaan invoegen in je HTML.
-
-De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar ook heel wat zijn (nog) gratis.
+De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar ook een hele betalende set.
 
 <u>HTML</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
@@ -31,3 +29,8 @@ De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar o
 
 <u>Resultaat</u>:
 <img class="shadow" src="images/font_awesome_check.png?v=1" />
+
+## font
+De naam draagt <em>font</em> in haar naam omdat ze eigenlijk een extra lettertype laadt in je webpagina.
+
+<img class="shadow" src="images/font_awesome_font.png" />
