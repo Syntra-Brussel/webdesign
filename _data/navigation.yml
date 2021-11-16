@@ -150,9 +150,9 @@ items:
       - url: /css/oefening_eerste_experiment
         published: 'yes'
         title: 'OEFENING: Eerste experiment'
-      - url: /css/oefening_basis_structuur
+      - url: /css/oefening_artikel
         published: 'yes'
-        title: 'OEFENING: Basis structuur'                                                       
+        title: 'OEFENING: Artikel'                                                       
       - url: /css/flexbox
         published: 'no'
         title: Flexbox                                   
