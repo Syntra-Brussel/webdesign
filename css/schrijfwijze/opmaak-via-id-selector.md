@@ -6,7 +6,7 @@ collection: [css, schrijfwijze]
 ---
 
 								
-<p><span style="text-decoration: underline">HTML code:</span></p>
+<p><u>HTML</u>:</p>
 
 
 
@@ -15,7 +15,7 @@ collection: [css, schrijfwijze]
 
 
 
-<p><span style="text-decoration: underline">CSS code:</span></p>
+<p><u>CSS</u>:</p>
 
 
 

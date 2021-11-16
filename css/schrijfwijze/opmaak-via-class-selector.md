@@ -2,13 +2,10 @@
 layout: template
 title: Opmaak via class selector
 url: /css/schrijfwijze/opmaak-via-class-selector
-collection: [css, css-schrijfwijze]
+collection: [css,schrijfwijze]
 ---
-<div class="ld-tabs ld-tab-count-1">
-	
-
-								
-<p><span style="text-decoration: underline">HTML code:</span></p>
+							
+<p><u>HTML</u>:</p>
 
 
 
@@ -22,7 +19,7 @@ collection: [css, css-schrijfwijze]
 
 
 
-<p><span style="text-decoration: underline">CSS code:</span></p>
+<p><u>CSS</u>:</p>
 
 
 
@@ -43,6 +40,5 @@ collection: [css, css-schrijfwijze]
 
 
 <p>De eigenschappen zijn ook van toepassing op alle elementen binnen alle elementen met de <code>class</code> <code><font color="blue">form-element</font></code> element. In het geval hierboven dus ook op het <code><font color="purple">&lt;label&gt;</font></code> en <code><font color="purple">&lt;input&gt;</font></code> element.</p>
-			</div>
 
 			

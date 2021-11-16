@@ -9,7 +9,7 @@ collection: [css]
 
 
 
-<p><span style="text-decoration: underline">HTML</span>:</p>
+<p><u>HTML</u>:</p>
 
 
 
@@ -29,7 +29,7 @@ collection: [css]
 
 
 
-<p><span style="text-decoration: underline">CSS:</span></p>
+<p><u>CSS</u>:</p>
 
 
 
@@ -45,7 +45,7 @@ strong {
 
 
 
-<p><span style="text-decoration: underline">Resultaat</span>:</p>
+<p><u>Resultaat</u>:</p>
 
 
 
