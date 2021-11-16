@@ -16,15 +16,17 @@ Het Javascript bestand komt in de <em>js</em> folder.
 
 ## eenvoudig op te roepen in een browser
 
-Door een bestand index.html te noemen moet je het niet specifiek in je adres opnemen. De folder volstaat dan.
+Door een bestand <code>index.html</code> te noemen moet je het niet specifiek in je adres opnemen. De folder volstaat dan.
 
 We nemen vanaf deze structuur aan:
 
 <div class="gray-code">
-\&lt;project_naam&gt;<br />
+\<em>project naam</em><br />
 &nbsp;&nbsp;|_ \images<br />
 &nbsp;&nbsp;&nbsp;&nbsp;|_ ...<br />
 &nbsp;&nbsp;|_ \css<br />
 &nbsp;&nbsp;&nbsp;&nbsp;|_ style.css<br />
 &nbsp;&nbsp;|_ index.html
 </div>
+
+Je bereikt <code>index.html</code> dan eenvoudig door te surfen naar de folder \<em>project naam</em>
