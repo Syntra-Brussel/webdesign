@@ -19,7 +19,9 @@ In principe maakt de naam van een bestand of een map niet zoveel uit. Echter zij
 
 Door een bestand <code>index.html</code> te noemen moet je het niet specifiek in je adres opnemen. De folder volstaat dan.
 
-We nemen vanaf deze structuur aan:
+## Project structuur 
+
+We nemen vanaf nu deze structuur aan:
 
 <div class="gray-code">
 \<em>project_naam</em><br />
