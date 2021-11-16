@@ -6,6 +6,10 @@ collection: [css]
 links:
   - url: /webdesign/tips-and-tricks/bestandsnamen
     title: Conventies bij bestandsnamen en mappen structuren
+  - url: /webdesign/tips-and-tricks/lorem-ipsum
+    title: Lorem Ipsum
+  - url: /webdesign/tips-and-tricks/kleuren
+    title: Kleuren    
 ---
 <div class="highlight">
     <h3>Instructies</h3>
