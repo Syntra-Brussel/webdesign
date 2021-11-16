@@ -11,9 +11,9 @@ links:
 ---
 <em>Font Awesome</em> is een bibliotheek die toelaat om een heel aantal symbolen te gebruiken in een website. 
 
-Door <em>Font Awesome</em> in je <code>&lt;head&gt;</code> te laden kan je ze eenvoudig gaan invoegen in je HTML.
+Door <em>Font Awesome</em> in je <code>&lt;head&gt;</code> te laden kan je ze eenvoudig gaan gebruiken in je HTML.
 
-De bibliotheek is "as we speak" al aan Versie 6. Er zijn betalende iconen maar ook een hele betalende set.
+De bibliotheek is <em>as we speak</em> al aan Versie 6. Er zijn betalende iconen maar ook een hele betalende set.
 
 <u>HTML</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
