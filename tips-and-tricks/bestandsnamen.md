@@ -20,9 +20,11 @@ Door een bestand index.html te noemen moet je het niet specifiek in je adres opn
 
 We nemen vanaf deze structuur aan:
 
-\&lt;project_naam&gt;
-  |_ \images
-    |_ ...
-  |_ \css
-    |_ style.css
-  |_index.html 
+<div class="gray-code">
+\&lt;project_naam&gt;<br />
+  |_ \images<br />
+    |_ ...<br />
+  |_ \css<br />
+    |_ style.css<br />
+  |_index.html
+</div>
