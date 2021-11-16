@@ -16,7 +16,13 @@ links:
 
 
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="css">&lt;link rel="stylesheet" type="text/css" href="style.css"&gt;</pre>
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+&lt;head&gt;
+...
+&lt;link rel="stylesheet" type="text/css" href="style.css"&gt;
+...
+&lt;/head&gt;
+</pre>
 
 
 
@@ -28,8 +34,13 @@ links:
 
 
 
-<p>Sla de CSS bestanden bijvoorbeeld in de “css” folder.</p>
+<p>Sla de CSS bestanden bijvoorbeeld op in de “css” folder.</p>
 
 
-
-<pre data-enlighter-theme="beyond" data-enlighter-language="html">&lt;link rel="stylesheet" type="text/css" href="css/style.css"&gt;</pre>
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+&lt;head&gt;
+...
+&lt;link rel="stylesheet" type="text/css" href="css/style.css"&gt;
+...
+&lt;/head&gt;
+</pre>
