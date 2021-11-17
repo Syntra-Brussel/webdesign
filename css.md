@@ -6,6 +6,8 @@ collection: css
 links:
   - url: /webdesign/tips-and-tricks/absoluut-vs-relatief-pad
     title: Absoluut vs. relatief pad
+  - url: /webdesign/tips-and-tricks/bestandsnamen
+    title: 'Project structuur: bestanden en mappen'
 ---
 						
 <p>De inhoud van een pagina wordt gestructureerd in een HTML bestand. De opmaak wordt gedefinieerd in een apart Stylesheet bestand, met de extensie CSS.</p>
@@ -16,7 +18,7 @@ links:
 
 
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;head&gt;
 ...
 &lt;link rel="stylesheet" type="text/css" href="style.css"&gt;
@@ -37,7 +39,7 @@ links:
 <p>Sla de CSS bestanden bijvoorbeeld op in de “css” folder.</p>
 
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;head&gt;
 ...
 &lt;link rel="stylesheet" type="text/css" href="css/style.css"&gt;

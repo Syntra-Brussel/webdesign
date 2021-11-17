@@ -5,7 +5,7 @@ url: /css/oefening_artikel
 collection: [css]
 links:
   - url: /webdesign/tips-and-tricks/bestandsnamen
-    title: Project structuur
+    title: 'Project structuur: bestanden en mappen'
   - url: /webdesign/tips-and-tricks/lorem-ipsum
     title: Lorem Ipsum
   - url: /webdesign/tips-and-tricks/kleuren
