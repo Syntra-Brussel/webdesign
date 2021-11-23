@@ -162,9 +162,9 @@ items:
       - url: /css/oefening_basis_structuur
         published: 'yes'
         title: 'OEFENING: Basis structuur'  
-      - url: /css/oefening_fietsenwinkel
+      - url: /css/oefening_fietsenmaker
         published: 'yes'
-        title: 'OEFENING: Fietsenwinkel'  
+        title: 'OEFENING: Fietsenmaker'  
       - url: /css/oefening_reizen
         published: 'no'
         title: 'OEFENING: Reizen'                                                                                   

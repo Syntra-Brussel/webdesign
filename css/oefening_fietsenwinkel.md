@@ -1,7 +1,7 @@
 ---
 layout: template
-title: 'OEFENING: fietsenwinkel'
-url: /css/oefening_fietsenwinkel
+title: 'OEFENING: fietsenmaker'
+url: /css/oefening_fietsenmaker
 collection: [css]
 links:
   - url: /webdesign/tips-and-tricks/bestandsnamen
@@ -23,4 +23,4 @@ links:
     </ol>        
 </div>
 
-<img src="/oefeningen/fietsenwinkel.png" />
+<img src="/oefeningen/fietsenmaker.png" />
