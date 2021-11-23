@@ -181,7 +181,7 @@ items:
         published: 'yes'
         collection: inspectietool
         title: 'CSS inspecteren'                
-      - url: /inspectietool/oefening_studiogust
+      - url: /inspectietool/oefening-studiogust
         published: 'yes'
         collection: inspectietool
         title: 'OEFENING: studiogust'          
