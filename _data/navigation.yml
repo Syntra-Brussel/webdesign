@@ -168,6 +168,23 @@ items:
       - url: /css/oefening_reizen
         published: 'no'
         title: 'OEFENING: Reizen'                                                                                   
+  - url: /inspectietool  
+    published: 'yes'
+    collection: inspectietool  
+    title: 'Inspectietool gebruiken'
+    topics:
+      - url: /inspectietool/html-inspecteren
+        published: 'yes'
+        collection: inspectietool
+        title: 'HTML inspecteren'  
+      - url: /inspectietool/css-inspecteren
+        published: 'yes'
+        collection: inspectietool
+        title: 'CSS inspecteren'                
+      - url: /inspectietool/oefening_studiogust
+        published: 'yes'
+        collection: inspectietool
+        title: 'OEFENING: studiogust'          
   - url: /tips-and-tricks  
     published: 'yes'
     collection: tricks  
