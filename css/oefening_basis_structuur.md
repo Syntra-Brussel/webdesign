@@ -10,8 +10,8 @@ links:
 <div class="highlight">
     <h3>Instructies</h3>
     <ul>
-        <li>maak de bestanden aan volgens de conventies</li>
-        <li>Hieronder zie je een wireframe. Een schets dus. Gebruik gerust je eigen creativiteit maar behoudt de structuur en marges/paddings.</li>
+        <li>maak de project bestanden aan volgens de conventies</li>
+        <li>Hieronder zie je een screenshot: bouw het ontwerp zo correct mogelijk in HTML en CSS.</li>
     </ul>
 </div>
 

@@ -14,7 +14,7 @@ links:
 <div class="highlight">
     <h3>Instructies</h3>
     <ul>
-        <li>maak de bestanden aan volgens de conventies</li>
+        <li>maak de project bestanden aan volgens de conventies (zie link onderaan)</li>
         <li>Hieronder zie je een wireframe. Een schets dus. Gebruik gerust je eigen creativiteit maar behoudt de structuur en marges/paddings.</li>
     </ul>
 </div>
