@@ -23,4 +23,4 @@ links:
     </ol>        
 </div>
 
-<img src="/oefeningen/basis_structuur.png" />
+<img src="/webdesign/oefeningen/basis_structuur.png" />

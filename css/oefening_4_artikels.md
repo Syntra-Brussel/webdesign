@@ -24,4 +24,4 @@ links:
     Schrijf <strong>EERST</strong> de <strong>HTML</strong> code, <strong>DAN</strong> pas de <strong>CSS</strong> code.
 </div>
 
-<img src="/oefeningen/4_artikels.png" />
+<img src="/webdesign/oefeningen/4_artikels.png" />

@@ -28,4 +28,4 @@ links:
     </ol>        
 </div>
 
-<img src="/oefeningen/fietsenmaker.png" />
+<img src="/webdesign/oefeningen/fietsenmaker.png" />
