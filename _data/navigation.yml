@@ -156,6 +156,12 @@ items:
       - url: /css/flexbox
         published: 'yes'
         title: Flexbox                                   
+      - url: /css/oefening_4_artikels
+        published: 'yes'
+        title: 'OEFENING: 4 artikels'                                                   
+      - url: /css/oefening_basis_structuur
+        published: 'yes'
+        title: 'OEFENING: Basis structuur'                                                                   
   - url: /tips-and-tricks  
     published: 'yes'
     collection: tricks  
