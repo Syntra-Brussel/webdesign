@@ -154,7 +154,7 @@ items:
         published: 'yes'
         title: 'OEFENING: Artikel'                                                   
       - url: /css/flexbox
-        published: 'no'
+        published: 'yes'
         title: Flexbox                                   
   - url: /tips-and-tricks  
     published: 'yes'
