@@ -12,6 +12,7 @@ links:
     <ul>
         <li>maak de project bestanden aan volgens de conventies (zie link onderaan)</li>
         <li>Hieronder zie je een screenshot: bouw het ontwerp zo correct mogelijk in HTML en CSS.</li>
+        <li>Wacht met de slideshow tot het allerlaatste maar voorzie er al wel plaats voor in de layout</li>        
     </ul>
 </div>
 
