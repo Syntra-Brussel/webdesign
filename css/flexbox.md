@@ -21,7 +21,7 @@ collection: [css]
 
 
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;div class="flex-container"&gt;
   &lt;div&gt;1&lt;/div&gt;
   &lt;div&gt;2&lt;/div&gt;
