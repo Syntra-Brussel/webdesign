@@ -22,7 +22,7 @@ collection: inspectietool
 <img src="images/oefening_inspectietool_7.png" />
 </li>
 <li>Welke lettertype wordt hier gebruikt?
-<img src="images/oefening_inspectietool_8.png" />
+<img src="images/oefening_inspectietool_8.png?v=1" />
 </li>
 <li>Hoe dik is de lijn?
 <img src="images/oefening_inspectietool_9.png" />
