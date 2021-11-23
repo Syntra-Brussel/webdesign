@@ -5,7 +5,7 @@ url: /inspectietool/oefening-studiogust
 collection: inspectietool
 ---
 <div class="highlight">
-<h2>Doorzoek de website <a target="_blank" href="https://www.studiogust.be">https://www.studiogust.be</a> via de inspectietool en geef de oplossing op de 10 vragen.</h2>
+<h3>Doorzoek de website <a target="_blank" href="https://www.studiogust.be">https://www.studiogust.be</a> via de inspectietool en geef de oplossing op de 10 vragen.</h3>
 </div>
 <ol>
 <li>Welke achtergrond kleur heeft element met class “header1”?
