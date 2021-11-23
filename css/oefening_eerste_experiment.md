@@ -24,4 +24,4 @@ links:
     Schrijf <strong>EERST</strong> de <strong>HTML</strong> code, <strong>DAN</strong> pas de <strong>CSS</strong> code.
 </div>
  
-<img class="shadow center" src="images/oefening_eerste_experiment.png" />
+<img class="shadow center" src="/oefeningen/eerste_experiment.png" />

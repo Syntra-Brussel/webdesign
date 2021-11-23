@@ -10,7 +10,7 @@ links:
 <div class="highlight">
     <h3>Instructies</h3>
     <ul>
-        <li>maak de project bestanden aan volgens de conventies</li>
+        <li>maak de project bestanden aan volgens de conventies (zie link onderaan)</li>
         <li>Hieronder zie je een screenshot: bouw het ontwerp zo correct mogelijk in HTML en CSS.</li>
     </ul>
 </div>
@@ -23,4 +23,4 @@ links:
     </ol>        
 </div>
 
-<img src="images/oefening_basis_structuur.png" />
+<img src="/oefeningen/basis_structuur.png" />

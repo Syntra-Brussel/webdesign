@@ -23,4 +23,4 @@ links:
     </ol>        
 </div>
 
-<img src="images/oefening_reizen.jpg" />
+<img src="/oefeningen/reizen.jpg" />
