@@ -15,7 +15,7 @@ links:
         <li>Je kan <a href="{{ '/oefeningen/assets_fietsenmaker.zip' | relative_url}}">hier</a> de beelden downloaden die je kan gebruiken.</li>
         <li>Wacht met de slideshow tot het allerlaatste maar voorzie er al wel plaats voor in de layout</li>
         <li>Wanneer je, op het einde, aan de slideshow begint zie je bij de assets een bestand <code>slideshow.js</code>, <code>slideshow.css</code>. Zorg ervoor dat het JS en CSS bestand geladen worden in je <code>index.html</code>.<br>
-        Via <code>slideshow.html</code> zie je de slideshow in werking. Daar kan je de HTML zie die je kan gebruiken in je fietsenmaker oefening.</li>
+        Via <code>slideshow.html</code> zie je de slideshow in werking. Daar kan je de HTML zien die je kan gebruiken in je fietsenmaker oefening.</li>
     </ul>
 </div>
 
