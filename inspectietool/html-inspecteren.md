@@ -1,6 +1,6 @@
 ---
 layout: template
-title: CSS inspecteren
+title: HTML inspecteren
 url: /inspectietool/html-inspecteren
 collection: inspectietool
 ---
