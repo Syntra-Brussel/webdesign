@@ -4,21 +4,21 @@ title: HTML inspecteren
 url: /inspectietool/html-inspecteren
 collection: inspectietool
 ---
-## Rechtermuisknop in een webpagina.
+## Rechtermuisknop in een webpagina
 
 De inspectietool kan je gebruiken door in de webpagina op de recht muisknop te klikken.
 
-<img src="images/html_inspecteren_1.png" />
+<img src="images/html_inspecteren_1.jpg" />
 
-## Extra paneeel
+## Extra paneel
 
-Rechts zie je een extra paneel:
+Rechts zie je een extra paneel met de HTML van de webpagina.
 
 <img src="images/html_inspecteren_2.png" />
 
 ## Selecteren en oplichting
 
-Door in het paneel een element te selecteren zie je dat ook oplichten in de pagina:
+Door in het paneel een HTML element te selecteren zie je dat ook oplichten in de pagina.
 
 <img src="images/html_inspecteren_3.png" />
 
