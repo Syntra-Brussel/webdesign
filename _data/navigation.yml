@@ -161,7 +161,13 @@ items:
         title: 'OEFENING: 4 artikels'                                                   
       - url: /css/oefening_basis_structuur
         published: 'yes'
-        title: 'OEFENING: Basis structuur'                                                                   
+        title: 'OEFENING: Basis structuur'  
+      - url: /css/oefening_fietsenwinkel
+        published: 'yes'
+        title: 'OEFENING: Fietsenwinkel'  
+      - url: /css/oefening_reizen
+        published: 'no'
+        title: 'OEFENING: Reizen'                                                                                   
   - url: /tips-and-tricks  
     published: 'yes'
     collection: tricks  
