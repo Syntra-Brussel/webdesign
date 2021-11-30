@@ -166,7 +166,7 @@ items:
         published: 'yes'
         title: 'OEFENING: Fietsenmaker'  
       - url: /css/oefening_reizen
-        published: 'no'
+        published: 'yes'
         title: 'OEFENING: Reizen'                                                                                   
   - url: /inspectietool  
     published: 'yes'
