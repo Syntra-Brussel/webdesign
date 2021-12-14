@@ -1,7 +1,7 @@
 ---
 layout: template
 title: 'Backgrounds'
-url: /tips-and-tricks/background
+url: /tips-and-tricks/backgrounds
 collection: tricks
 links:
   - url: https://www.w3schools.com/css/css_background.asp 

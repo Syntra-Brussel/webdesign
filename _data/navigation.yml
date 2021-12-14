@@ -221,4 +221,8 @@ items:
       - url: /tips-and-tricks/font-awesome
         published: 'yes'
         collection: tricks
-        title: 'Font Awesome'                          
+        title: 'Font Awesome'      
+      - url: /tips-and-tricks/backgrounds
+        published: 'yes'
+        collection: tricks
+        title: 'Backgrounds'                               
