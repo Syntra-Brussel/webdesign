@@ -12,6 +12,8 @@ links:
     title: Gradients  
   - url: https://www.w3schools.com/cssref/pr_background-image.asp
     title: Background images
+  - url: https://www.w3schools.com/howto/howto_css_parallax.asp
+    title: Parallax
 ---
 Elke HTML element heeft de mogelijkheid om met backgrounds te werken. Je kan volgende zaken instellen als backgound:
 * een kleur (zie: <a href="/webdesign/tips-and-tricks/kleuren">kleuren</a>)
@@ -75,4 +77,3 @@ We hebben geleerd hoe je een beeld gebruikt via het <code><img></code> element. 
 Experimenteer nu wat met de eigenschappen  <code>background-size</code>, <code>background-repeat</code> en <code>background-position</code>.
 
 De sky is the limit.
-
