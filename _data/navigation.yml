@@ -167,7 +167,10 @@ items:
         title: 'OEFENING: Fietsenmaker'  
       - url: /css/oefening_reizen
         published: 'yes'
-        title: 'OEFENING: Reizen'                                                                                   
+        title: 'OEFENING: Reizen'  
+      - url: /css/oefening_fotografie
+        published: 'yes'
+        title: 'OEFENING: Fotografie'                                                                                           
   - url: /inspectietool  
     published: 'yes'
     collection: inspectietool  
