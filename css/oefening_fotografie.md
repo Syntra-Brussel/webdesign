@@ -15,7 +15,7 @@ links:
         <li>maak de project bestanden aan volgens de conventies (zie link onderaan)</li>
         <li>Hieronder zie je een video: bouw het ontwerp zo correct mogelijk in HTML en CSS.</li>
         <li>Je kan <a href="{{ '/oefeningen/assets_fotografie.zip' | relative_url}}">hier</a> de beelden downloaden die je kan gebruiken.</li>
-    </ul>
+    </ul> 
 </div>
 
 <div class="highlight">
