@@ -22,7 +22,7 @@ links:
     <ol>
         <li>Schrijf <strong>EERST</strong> de <strong>HTML</strong> code, <strong>DAN</strong> pas de <strong>CSS</strong> code.</li>
         <li>Schrijf eerst de CSS voor de layout, dan pas die voor de opmaak.</li>
-        <li>Gebruik <code>height: 100vh</code> om een element de hoogte te geven van een de browser, zo wordt het "schermvullend"
+        <li>Gebruik <code>height: 100vh</code> om een element de hoogte te geven van een de browser, zo wordt het "schermvullend"</li>
     </ol>        
 </div>
 
