@@ -1,8 +1,8 @@
 ---
 layout: template
-title: Commentaar
+title: Mobile first
 url: /css/desktop-first-vs-mobile-first/desktop-first
-collection: [css,schrijfwijze]
+collection: [css,desktop-first-vs-mobile-first]
 ---			
 Bij “mobiel eerst” is de basis CSS voorzien voor het kleinste scherm (smartphone) en worden @media queries voorzien voor de grotere schermen.
 
@@ -26,6 +26,7 @@ Bij “mobiel eerst” is de basis CSS voorzien voor het kleinste scherm (smartp
   &lt;/body&gt;
 &lt;/html&gt;
 &lt;/pre&gt;
+</pre>
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 /* CSS van toepassing bij scherm breedte >= 500px */

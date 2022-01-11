@@ -1,6 +1,6 @@
 ---
 layout: template
-title: Commentaar
+title: Desktop first
 url: /css/desktop-first-vs-mobile-first/desktop-first
 collection: [css,desktop-first-vs-mobile-first]
 ---			
@@ -27,6 +27,7 @@ Bij “desktop eerst” is de basis CSS voorzien voor het grootste scherm (deskt
   &lt;/body&gt;
 &lt;/html&gt;
 &lt;/pre&gt;
+</pre>
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 /* CSS altijd van toepassing */
