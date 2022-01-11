@@ -170,7 +170,20 @@ items:
         title: 'OEFENING: Reizen'  
       - url: /css/oefening_fotografie
         published: 'yes'
-        title: 'OEFENING: Fotografie'                                                                                           
+        title: 'OEFENING: Fotografie'    
+  - url: /rwd
+    published: 'yes'
+    collection: rwd
+    title: 'RWD'
+    topics:
+      - url: /rwd/breakpoints
+        published: 'yes'
+        title: 'RWD: breakpoints'
+        collection: rwd   
+      - url: /rwd/desktop-first-vs-mobile-first
+        published: 'yes'
+        title: 'RWD: Desktop first vs. Mobile first'
+        collection: rwd                                                                                                      
   - url: /inspectietool  
     published: 'yes'
     collection: inspectietool  
@@ -228,4 +241,5 @@ items:
       - url: /tips-and-tricks/backgrounds
         published: 'yes'
         collection: tricks
-        title: 'Backgrounds'                           
+        title: 'Backgrounds'        
+                           
