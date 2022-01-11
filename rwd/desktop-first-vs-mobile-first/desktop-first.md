@@ -26,9 +26,8 @@ Bij “desktop eerst” is de basis CSS voorzien voor het grootste scherm (deskt
     &lt;/section&gt;
   &lt;/body&gt;
 &lt;/html&gt;
-&lt;/pre&gt;
 </pre>
-
+ 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 /* CSS altijd van toepassing */
 section {

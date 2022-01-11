@@ -25,7 +25,6 @@ Bij “mobiel eerst” is de basis CSS voorzien voor het kleinste scherm (smartp
     &lt;/section&gt;
   &lt;/body&gt;
 &lt;/html&gt;
-&lt;/pre&gt;
 </pre>
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
