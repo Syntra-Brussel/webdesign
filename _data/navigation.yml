@@ -183,7 +183,14 @@ items:
       - url: /rwd/desktop-first-vs-mobile-first
         published: 'yes'
         title: 'RWD: Desktop first vs. Mobile first'
-        collection: rwd                                                                                                      
+        collection: rwd        
+        subjects: 
+          - url: /rwd/desktop-first-vs-mobile-first/desktop-first
+            published: 'yes'
+            title: 'Dektop first'     
+          - url: /rwd/desktop-first-vs-mobile-first/mobile-first
+            published: 'yes'
+            title: 'Mobile first'                                                                                                               
   - url: /inspectietool  
     published: 'yes'
     collection: inspectietool  
