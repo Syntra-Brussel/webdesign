@@ -16,13 +16,13 @@ collection: [rwd,desktop-first-vs-mobile-first]
 * Zowel de <code>header</code> (met logo) als de <code>main</code> (met artikels) zijn boxed (max. 1200 pixels).
 * De ruimte rond het <code>#logo</code> is 30px voor de 2 grootste schermen en 10px voor het kleinste scherm
 * De ruimte rond een <code>article</code> is 30px voor de 2 grootste schermen en 10px voor het kleinste scherm
-* De <code>#banner</code> en de <code>footer</code> hebben altijd een breedte van 100M.
+* De <code>#banner</code> en de <code>footer</code> hebben altijd een breedte van 100%.
 
 Voor het "grootste" scherm (>= 1000px):
 <img src="/webdesign/oefeningen/desktop_first_vs_mobile_first_large.png" /> 
 
-Voor het "medium" scherm (>= 700ox):
+Voor het "medium" scherm (>= 700px):
 <img src="/webdesign/oefeningen/desktop_first_vs_mobile_first_medium.png" /> 
 
-Voor het "kleinste" scherm (<= 700ox):
+Voor het "kleinste" scherm (<= 700px):
 <img src="/webdesign/oefeningen/desktop_first_vs_mobile_first_small.png" /> 
