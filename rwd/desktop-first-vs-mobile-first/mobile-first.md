@@ -1,9 +1,9 @@
 ---
 layout: template
 title: Mobile first
-url: /css/desktop-first-vs-mobile-first/desktop-first
-collection: [css,desktop-first-vs-mobile-first]
----			
+url: /rwd/desktop-first-vs-mobile-first/desktop-first
+collection: [rwd,desktop-first-vs-mobile-first]
+---
 Bij “mobiel eerst” is de basis CSS voorzien voor het kleinste scherm (smartphone) en worden @media queries voorzien voor de grotere schermen.
 
 <img src="/webdesign/rwd/images/rwd-mobile-first-2.jpg" />	

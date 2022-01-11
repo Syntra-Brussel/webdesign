@@ -1,8 +1,8 @@
 ---
 layout: template
 title: Desktop first
-url: /css/desktop-first-vs-mobile-first/desktop-first
-collection: [css,desktop-first-vs-mobile-first]
+url: /rwd/desktop-first-vs-mobile-first/desktop-first
+collection: [rwd,desktop-first-vs-mobile-first]
 ---			
 Bij “desktop eerst” is de basis CSS voorzien voor het grootste scherm (desktop) en worden @media queries voorzien voor het kleinere schermen.
 
