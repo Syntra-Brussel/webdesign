@@ -190,7 +190,10 @@ items:
             title: 'Dektop first'     
           - url: /rwd/desktop-first-vs-mobile-first/mobile-first
             published: 'yes'
-            title: 'Mobile first'                                                                                                               
+            title: 'Mobile first'    
+          - url: /rwd/desktop-first-vs-mobile-first/oefening-desktop-first-vs-mobile-first
+            published: 'yes'
+            title: 'OEFENING: Desktop first vs. Mobile first'                                                                                                                           
   - url: /inspectietool  
     published: 'yes'
     collection: inspectietool  
