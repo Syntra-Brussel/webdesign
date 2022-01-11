@@ -7,7 +7,7 @@ collection: [rwd,desktop-first-vs-mobile-first]
 <div class="highlight">
     <h3>Instructies</h3>
     <ul>
-        <li>Download de HTML code via <a href="/webdesign/oefenigen/assets_desktop_first_vs_mobile_first.zip">deze link</a></li>
+        <li>Download de HTML code via <a href="/webdesign/oefeningen/assets_desktop_first_vs_mobile_first.zip">deze link</a></li>
         <li>Schrijf de code voor de twee CSS bestanden <code>desktop_first.css</code> en <code>mobile_first.css</code></li>
         <li>Hieronder zie je de verschillende versies die je via @media queries moet voorzien</li>
     </ul>
