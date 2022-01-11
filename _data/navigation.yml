@@ -187,12 +187,12 @@ items:
         subjects: 
           - url: /rwd/desktop-first-vs-mobile-first/desktop-first
             published: 'yes'
-            title: 'Dektop first'     
+            title: 'Desktop first'     
           - url: /rwd/desktop-first-vs-mobile-first/mobile-first
             published: 'yes'
             title: 'Mobile first'    
           - url: /rwd/desktop-first-vs-mobile-first/oefening-desktop-first-vs-mobile-first
-            published: 'yes'
+            published: 'yes' 
             title: 'OEFENING: Desktop first vs. Mobile first'                                                                                                                           
   - url: /inspectietool  
     published: 'yes'
