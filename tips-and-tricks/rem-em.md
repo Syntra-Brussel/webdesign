@@ -32,19 +32,19 @@ Bij het bepalen van de hoogte, breedte, lettertype, marges en padding maken we g
 }
 </pre>
 
-Absolute waardes hebben al probleem dat zich niet aanpassen aan de breedte van het scherm.
+Absolute waardes hebben als probleem dat ze zich niet aanpassen aan de breedte van het scherm.
 
 Overal absolute waardes definiëren maakt de website ook moeilijker aanpasbaar. 
 
 ## Relatieve waardes
 
-Er zijn ook <strong>relatieve</strong> waardes. Tot nu gebruikte we bv. <strong>%</strong> daar al voor. Het maakt dat een maat relatief wordt bepaald ten opzicht van bijvoorbeeld de breedte van een element waarbinnen het wordt toepast.
+Er zijn ook <strong>relatieve</strong> waardes. Tot nu gebruikte we bv. <strong>%</strong> daar al voor. Het maakt dat een maat relatief wordt bepaald ten opzichte van bijvoorbeeld de maat van een element er rond.
 
 Zeer algemeen gesteld baseert een relatieve waarde zich op de waarde van zijn parent element of het root element (<code>&lt;html&gt;</code>).
 
 ### rem
 
-Wanneer je <code>rem</code> gebruikt zal de waarde worden bepaald door de lettergroote (<code>&lt;font-size&gt;</code>) op het root element <code>&lt;html&gt;</code>.
+Wanneer je <code>rem</code> gebruikt zal de waarde worden bepaald door de lettergroote (<code>font-size</code>) op het root element <code>&lt;html&gt;</code>.
 
 <u>HTML</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
@@ -72,8 +72,8 @@ html {
 
 ### em 
 
-Wanneer je <code>em</code> gebruikt zal de waarde worden bepaald door de lettergroote (<code>&lt;font-size&gt;</code>) op zijn parent element.
-
+Wanneer je <code>em</code> gebruikt zal de waarde worden bepaald door de lettergroote (<code>font-size</code>) op zijn parent element.
+ 
 <u>CSS</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 html {
@@ -97,7 +97,7 @@ section {
     <h3>TIP</h3>
     <p>
     Gebruik de inspectie tool om de effectieve waardes te inspecteren.
-
+    <br/>
     <img src="images/rem_em_inspectietool.png" />
     </p>
 </div>
