@@ -5,7 +5,7 @@ url: /tips-and-tricks/rem-em
 collection: tricks
 links:
   - url: https://www.w3schools.com/cssref/css_units.asp
-    title: Alles over meeteenheden (px, %, vh, em, rem, ...)
+    title: Alles over waardes (px, %, vh, em, rem, ...)
 ---
 ## Absolute waardes
 Bij het bepalen van de hoogte, breedte, lettertype, marges en padding maken we gebruik van een waarde. Tot nu gebruikten vooral "px" om het aantal pixels te bepalen. De meeteenheid die op een scherm wordt gebruikt. Een <strong>px</strong> (pixel) is <strong>absoluut</strong>, net zoals mm, cm, ... . 

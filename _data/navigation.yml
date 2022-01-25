@@ -258,6 +258,10 @@ items:
         published: 'yes'
         collection: tricks
         title: 'Backgrounds'      
+      - url: /tips-and-tricks/google-fonts
+        published: 'yes'
+        collection: tricks
+        title: 'Google Fonts'
       - url: /tips-and-tricks/rem-em
         published: 'yes'
         collection: tricks
