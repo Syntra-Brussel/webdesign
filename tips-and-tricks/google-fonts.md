@@ -23,7 +23,7 @@ Google heeft een heel assortiment open-source lettertypes ter beschikking gestel
     &lt;link href="css/style.css" rel="stylesheet" /&gt;
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;p&gt;Een paragraaf in het Ubuntu lettertype&lt;/p&gt;    
+    &lt;p&gt;Een paragraaf in het <strong>Ubuntu</strong> lettertype&lt;/p&gt;    
   &lt;/body&gt;
 &lt;/html&gt;
 </pre>
@@ -32,5 +32,9 @@ Google heeft een heel assortiment open-source lettertypes ter beschikking gestel
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 p {
   font-family: Ubuntu;
+}
+strong {
+  font-family: Ubuntu;
+  font-weight: 700;
 }
 </pre>
