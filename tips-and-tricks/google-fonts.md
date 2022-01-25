@@ -23,7 +23,7 @@ Google heeft een heel assortiment open-source lettertypes ter beschikking gestel
     &lt;link href="css/style.css" rel="stylesheet" /&gt;
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;p&gt;&lt;&gt; Een paragraaf in het Ubuntu lettertype&lt;/p&gt;    
+    &lt;p&gt;Een paragraaf in het Ubuntu lettertype&lt;/p&gt;    
   &lt;/body&gt;
 &lt;/html&gt;
 </pre>
