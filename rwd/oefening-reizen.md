@@ -21,7 +21,7 @@ Voor het "medium" scherm (>= 800px):
 <img src="/webdesign/oefeningen/reizen_medium.jpg" /> 
 
 Voor het "kleinste" scherm (>= 600px):
-<img src="/webdesign/oefeningen/rezien_small.jpg" /> 
+<img src="/webdesign/oefeningen/reizen_small.jpg" /> 
 
 Voor het "aller kleinste" scherm (<= 600px):
-<img src="/webdesign/oefeningen/rezien_smallest.jpg" /> 
+<img src="/webdesign/oefeningen/reizen_smallest.jpg" />
