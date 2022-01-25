@@ -34,7 +34,6 @@ p {
   font-family: Ubuntu;
 }
 strong {
-  font-family: Ubuntu;
   font-weight: 700;
 }
 </pre>
