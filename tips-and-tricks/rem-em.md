@@ -98,6 +98,7 @@ section {
     <p>
     Gebruik de inspectie tool om de effectieve waardes te inspecteren.
     <br/>
+    <br/>
     <img src="images/rem_em_inspectietool.png" />
     </p>
 </div>
