@@ -257,5 +257,8 @@ items:
       - url: /tips-and-tricks/backgrounds
         published: 'yes'
         collection: tricks
-        title: 'Backgrounds'        
-                           
+        title: 'Backgrounds'      
+      - url: /tips-and-tricks/rem-em
+        published: 'yes'
+        collection: tricks
+        title: 'Relatieve maten (rem en em)'

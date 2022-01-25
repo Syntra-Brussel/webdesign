@@ -1,6 +1,6 @@
 ---
 layout: template
-title: 'Backgrounds'
+title: 'Relatieve maten (rem en em)'
 url: /tips-and-tricks/rem-em
 collection: tricks
 links:
