@@ -197,6 +197,9 @@ items:
       - url: /rwd/oefening-fietsenmaker
         published: 'yes' 
         title: 'OEFENING: Fietsenmaker'               
+      - url: /rwd/oefening-reizen
+        published: 'yes' 
+        title: 'OEFENING: Reizen'                       
   - url: /inspectietool  
     published: 'yes'
     collection: inspectietool  
