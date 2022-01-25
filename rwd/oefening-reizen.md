@@ -15,13 +15,13 @@ collection: [rwd]
 
 
 Voor het "grootste" scherm (>= 1170px):
-<img src="/webdesign/oefeningen/reizen_large.png" /> 
+<img src="/webdesign/oefeningen/reizen_large.jpg" /> 
 
 Voor het "medium" scherm (>= 800px):
-<img src="/webdesign/oefeningen/reizen_medium.png" /> 
+<img src="/webdesign/oefeningen/reizen_medium.jpg" /> 
 
 Voor het "kleinste" scherm (>= 600px):
-<img src="/webdesign/oefeningen/rezien_small.png" /> 
+<img src="/webdesign/oefeningen/rezien_small.jpg" /> 
 
 Voor het "aller kleinste" scherm (<= 600px):
-<img src="/webdesign/oefeningen/rezien_smallest.png" /> 
+<img src="/webdesign/oefeningen/rezien_smallest.jpg" /> 
