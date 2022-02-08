@@ -32,6 +32,8 @@ Vanaf dat dat is gebeurd kan je uw HTML gaan verrijken met specifieke classes en
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;html&gt;
   &lt;head&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+ 
     &lt;!-- Latest compiled and minified CSS --&gt;
     &lt;link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"&gt;
 
