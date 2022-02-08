@@ -11,8 +11,12 @@ links:
   - url: https://mdbootstrap.com
     title: Material Design for Bootstrap   
 ---
-## Frontend framework
-Een framework is een basis van waarop ontwikkeling kan beginnen. Kwestie van niet vanaf niets te moeten starten. Je hebt backend frameworks die een startpunt kunnen zijn voor backend ontwikkeling. Er zijn frontend framworks die de frontend designer of developer een snelle start geven.
+<div class="highlight">
+    <h3>Frontend framework</h3>
+    <p> 
+    Een framework is een basis van waarop ontwikkeling kan beginnen. Kwestie van niet vanaf niets te moeten starten. Je hebt backend frameworks die een startpunt kunnen zijn voor backend ontwikkeling. Er zijn frontend framworks die de frontend designer of developer een snelle start geven.
+    </p>
+</div>
 
 ## Bootstrap
 
