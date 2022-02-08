@@ -29,7 +29,7 @@ links:
 
 ## Bootstrap
 
-Het Bootstrap framework is zo een frontend Framework. Het is als het ware een bibliotheek HTML, CSS en Javascript codes die je kan gaan gebruiken om sneller een responsieve website of webapplicatie te gaan bouwen.
+Het Bootstrap framework is een frontend Framework. Het is als het ware een bibliotheek HTML, CSS en Javascript codes die je kan gaan gebruiken om sneller een responsieve website of webapplicatie te gaan bouwen.
 
 
 ## De basis
