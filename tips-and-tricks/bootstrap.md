@@ -23,8 +23,8 @@ links:
     Het Bootstrap framework vindt zijn oorsprong bij Twitter en is ondertussen aan versie 5 toe.
     </p>
     <p>
-    Een ander vaak gebruikt frontend framework is bv. <a target="_blank" href="https://get.foundation<">https://get.foundation</a>
-    </p>
+    Een ander vaak gebruikt frontend framework is bv. <a target="_blank" href="https://get.foundation">https://get.foundation</a>
+    </p> 
 </div>
 
 ## Bootstrap
