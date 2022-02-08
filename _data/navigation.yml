@@ -266,3 +266,7 @@ items:
         published: 'yes'
         collection: tricks
         title: 'Relatieve maten (rem en em)'
+      - url: /tips-and-tricks/bootstrap
+        published: 'yes'
+        collection: tricks
+        title: 'Frontend framework: Bootstrap'        
