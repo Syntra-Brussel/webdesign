@@ -10,19 +10,26 @@ links:
     title: Bootstrap
   - url: https://mdbootstrap.com
     title: Material Design for Bootstrap   
+  - url: https://medium.com/@davegenge/bootstrap-vs-foundation-which-front-end-framework-to-use-e85319258b88
+    title: 'Bootstrap vs. Foundation'
 ---
 <div class="highlight">
-    <h3>Frontend framework</h3>
+    <h3>Framework</h3>
     <p> 
-    Een framework is een basis van waarop ontwikkeling kan beginnen. Kwestie van niet vanaf niets te moeten starten. Je hebt backend frameworks die een startpunt kunnen zijn voor backend ontwikkeling. Er zijn frontend framworks die de frontend designer of developer een snelle start geven.
+    Een framework is een basis van waarop ontwikkeling kan beginnen. Kwestie van niet vanaf niets te moeten starten.</p>
+    <p>Je hebt <strong>backend frameworks</strong> die een startpunt kunnen zijn voor backend ontwikkeling. Er zijn <strong>frontend framworks</strong> die de frontend designer of developer een snelle start geven.
     </p>
+    <p>
+    Het Bootstrap framework vindt zijn oorsprong bij Twitter en is ondertussen aan versie 5 toe.
+    </p>
+    <p>
+    Een ander vaak gebruikt frontend framework is bv. <a target="_blank" href="https://get.foundation<">https://get.foundation</a>
 </div>
 
 ## Bootstrap
 
 Het Bootstrap framework is zo een frontend Framework. Het is als het ware een bibliotheek HTML, CSS en Javascript codes die je kan gaan gebruiken om sneller een responsieve website of webapplicatie te gaan bouwen.
 
-Het Bootstrap framework vindr zijn oorsprong bij Twitter en is ondertussen aan versie 5 toe.
 
 ## De basis
 
