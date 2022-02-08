@@ -38,7 +38,7 @@ Alles start bij het inladen van het Bootstrap framework.
 
 Dan kan bijvoorbeeld de de bibliotheek via een CDN (content delivery network) te gaan gebruiken laden in uw <code>head</code>.
 
-Vanaf dat dat is gebeurd kan je uw HTML gaan verrijken met specifieke classes en attributen om meteen opmaak en gedragingen te gaan toepassingen die je zonder het framework zelf zou moeten schrijven.
+Vanaf dat dat is gebeurd kan je je HTML gaan verrijken met specifieke classes en attributen om meteen opmaak en gedragingen te gaan toepassingen die je zonder het framework zelf zou moeten schrijven.
 
 <u>HTML</u>:
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
@@ -69,3 +69,37 @@ Vanaf dat dat is gebeurd kan je uw HTML gaan verrijken met specifieke classes en
   &lt;/body&gt;
 &lt;html&gt;
 </pre>
+
+Een voorbeeld met formulier:
+
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+ 
+    &lt;!-- Latest compiled and minified CSS --&gt;
+    &lt;link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"&gt;
+
+    &lt;!-- Latest compiled JavaScript --&gt;
+    &lt;script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"&gt;&lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;form&gt;
+      &lt;div class="mb-3"&gt;
+        &lt;label for="email" class="form-label">Uw E-mail adres</label&gt;
+        &lt;input type="email" class="form-control" id="email" aria-describedby="email_info"&gt;
+        &lt;div id="email_info" class="form-text"&gt;
+        We delen uw e-mail adres met niemand.
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="mb-3 form-check"&gt;
+        &lt;input type="checkbox" class="form-check-input" id="akkoord"&gt;
+        &lt;label class="form-check-label" for="akkoord">Ja, ik wil op de hoogte blijven van nieuwigheden</label&gt;
+      &lt;/div&gt;
+      &lt;button type="submit" class="btn btn-primary">Inschrijven</button&gt;
+    &lt;/form&gt;
+  &lt;/body&gt;
+&lt;html&gt;
+</pre>
+
+
