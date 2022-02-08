@@ -24,6 +24,7 @@ links:
     </p>
     <p>
     Een ander vaak gebruikt frontend framework is bv. <a target="_blank" href="https://get.foundation<">https://get.foundation</a>
+    </p>
 </div>
 
 ## Bootstrap
