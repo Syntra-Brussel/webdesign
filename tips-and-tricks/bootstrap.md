@@ -86,7 +86,7 @@ Een voorbeeld met formulier:
   &lt;body&gt;
     &lt;form&gt;
       &lt;div class="mb-3"&gt;
-        &lt;label for="email" class="form-label">Uw E-mail adres&lt;/label&gt;
+        &lt;label for="email" class="form-label"&gt;Uw E-mail adres&lt;/label&gt;
         &lt;input type="email" class="form-control" id="email" aria-describedby="email_info"&gt;
         &lt;div id="email_info" class="form-text"&gt;
         We delen uw e-mail adres met niemand.
@@ -96,7 +96,7 @@ Een voorbeeld met formulier:
         &lt;input type="checkbox" class="form-check-input" id="akkoord"&gt;
         &lt;label class="form-check-label" for="akkoord"&gt;Ja, ik wil op de hoogte blijven van nieuwigheden&lt;/label&gt;
       &lt;/div&gt;
-      &lt;button type="submit" class="btn btn-primary">Inschrijven&lt;/button&gt;
+      &lt;button type="submit" class="btn btn-primary"&gt;Inschrijven&lt;/button&gt;
     &lt;/form&gt;
   &lt;/body&gt;
 &lt;html&gt;
