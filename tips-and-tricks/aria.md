@@ -23,7 +23,31 @@ Echter moet de HTML niet enkel door zoekmachines goed begrepen worden. Ook mense
 &lt;img alt="De bergen zijn fijn." src="beelden-zijn-fijn.jpg" /&gt;
 </pre>
 
-## Gebruik <code>rem<code> zodat de Zoom functie van de browser correct werkt
+## Gebruik <code>rem</code> zodat de Zoom functie van de browser correct werkt
+
+Je kan ook verschillende classen definiëren die via Javascript kunnen toegevoegd worden aan het <code>html</code> element.
+
+Via die verschillende classes kan je dan de referentie <code>font-size</code> laten variëren en zullen de <code>rem</code> waarden zich aanpasssen.
+
+<pre data-enlighter-theme="beyond" data-enlighter-language="html">
+&lt;html class="normal"&gt;
+...
+&lt;/html&gt;
+</pre>
+
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+.basic {
+    font-size: 16px;
+}
+
+.normal {
+    font-size: 18px;
+}
+
+.big {
+    font-size: 20px;
+}
+</pre>
 
 ## Gebruik correcte elementen en correcte attributen
 
