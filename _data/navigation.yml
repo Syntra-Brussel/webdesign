@@ -269,4 +269,8 @@ items:
       - url: /tips-and-tricks/bootstrap
         published: 'yes'
         collection: tricks
-        title: 'Frontend framework: Bootstrap'        
+        title: 'Frontend framework: Bootstrap'     
+      - url: /tips-and-tricks/aria
+        published: 'yes'
+        collection: tricks
+        title: 'Toegankelijkheid en ARIA attributen'                
