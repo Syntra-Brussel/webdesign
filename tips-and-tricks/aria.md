@@ -10,6 +10,8 @@ links:
     title: ARIA
   - url: https://www.w3.org/TR/wai-aria
     title: 'ARIA: W3C standaard'
+  - url: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles
+    title: 'Aria roles'
 ---
 In de cursus HTML hebben we het belang van correcte HTML elementen benadrukt: de webpagina moet namelijk goed "begrepen" worden door bijvoorbeeld zoekmachines.
 
