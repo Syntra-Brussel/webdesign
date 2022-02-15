@@ -74,11 +74,9 @@ Als je toch niet het correcte element kan gebruiken: gebruik het <code>role</cod
 &lt;a role="button"&gt;Verstuur&lt;/a&gt;
 </pre>
 
-### gebruik van <code>alt</code> attributen bij een beeld
-
 ### ARIA attributen
 
-<strong>Accessible <strong>R</strong>ich <strong>I</storng>nternet <strong>A</strong>pplications
+<quote><strong>Accessible <strong>R</strong>ich <strong>I</storng>nternet <strong>A</strong>pplications</quote>
 
 Het zijn attributen die tot doel hebben om nog meer betekenis te geven aan HTML elementen. Door deze ook via Javascript "dynamisch" te laten veranderen krijgt de gebruiker ten allen tijde een real-time idee van de "staat" van de webpagina.
 
