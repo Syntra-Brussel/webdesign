@@ -78,7 +78,7 @@ Als je toch niet het correcte element kan gebruiken: gebruik het <code>role</cod
 
 ### ARIA attributen
 
-<quote><strong>Accessible <strong>R</strong>ich <strong>I</storng>nternet <strong>A</strong>pplications</quote>
+<quote><strong>A</strong>ccessible <strong>R</strong>ich <strong>I</strong>nternet <strong>A</strong>pplications</quote>
 
 Het zijn attributen die tot doel hebben om nog meer betekenis te geven aan HTML elementen. Door deze ook via Javascript "dynamisch" te laten veranderen krijgt de gebruiker ten allen tijde een real-time idee van de "staat" van de webpagina.
 
