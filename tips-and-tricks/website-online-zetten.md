@@ -46,5 +46,5 @@ Elke webpagina heeft een uniek adres: de URL
 
 * <span style="color: red">het protocol:</span> http(s)
 * <span style="color: green">de domeinnaam</span> die achterliggend verwijst naar een IP adres (elke publieke server heeft een publiek IP adres)
-* <span style="color: dark-blue">de folder</span> op de server
+* <span style="color: darkblue">de folder</span> op de server
 * <span style="color: orange">het bestand</span> op de server
