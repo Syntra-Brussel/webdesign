@@ -26,6 +26,9 @@ Het is niet mogelijk om rechtstreeks bij de register organisaties een domeinnaan
 
 Bedrijven als Telenet of Proximus treden ook op als registrar. Alle andere grote en minder grote hosting bedrijven zijn ofwel zelf registrar of werken nauw samen met een registrar.
 
+### Registree
+De persoon die de domeinnaam heeft geregistreerd. Een domeinnaam is altijd eigenaar van een persoon die al dan niet optreedt voor een organisatie of bedrijf.
+
 ## Een beetje technisch
 
 ## Nameserver record
