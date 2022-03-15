@@ -34,13 +34,13 @@ De <strong>"dynamische"</strong> inhoud wordt opgevraagd via de PHP extensie. De
 
 Het HTTP protocol staat voor <strong>Hyper<strong>t</strong>ext <strong>T</strong>ransfer <strong>P</strong>rotocol.
 
-
-
 Het is een protocol dat heel snel data van een server naar een client stuurt. In 1989 startte dit enkel voor tekst. Gaandeweg kon elke bestand via dat protocol van server naar client verstuurd worden. 
+
+Wanneer informatie gecommuniceerd via https wordt verstuurd tussen client en server versleuteld aan de hand van een certificaat. Dit heeft de absolute voorkeur tegenwoordig, zéker als informatie verstuurd vanaf de website via bv. een formulier.
 
 ### De URL
 
-Elk stuk informatie heeft een uniek adres: de URL.
+Elke webpagina heeft een uniek adres: de URL.
 
 <img src="/webdesign/tips-and-tricks/images/url.png">
 
@@ -49,4 +49,3 @@ Elk stuk informatie heeft een uniek adres: de URL.
 * de folder op de server
 * het bestand op de server
 
-Wanneer informatie gecommuniceerd via https wordt verstuurd tussen client en server versleuteld aan de hand van een certificaat. Dit heeft de absolute voorkeur tegenwoordig, zéker als informatie verstuurd vanaf de website via bv. een formulier.
