@@ -7,7 +7,8 @@ url: /eindproef-html
     <h3>Instructies</h3>
     <ul>
         <li>Voorzie de HTML code voor het design hieronder.</li>
-        <li>Het beeldmateriaal krijg je bij het onderdeel "CSS". Gebruik voorlopig een <a href="/webdesign/tips-and-tricks/placeholder">placeholder</a>.</li>
+        <li>Het beeldmateriaal krijg je bij het onderdeel "CSS". Gebruik voorlopig een <a target="_blank" href="/webdesign/tips-and-tricks/placeholder">placeholder</a>.</li>
+        <li>De oefening is volledig te bouwen met wat we geleerd hebben tijdens deze module</li>
     </ul>
 </div>
 
@@ -25,8 +26,8 @@ url: /eindproef-html
     <h3>Tips</h3>
     <ul>
         <li>Een element onzichtbaar plaatsen kan via CSS: <code>display: none;</code></li>
-        <li>Gebruik waar mogelijk de correct iconen via FontAwesome</li>
-        <li>De oefening is te bouwen met wat we geleerd hebben tijdens deze module</li>
+        <li>Gebruik waar mogelijk de correct iconen via <a target="_blank" href="/webdesign/tips-and-tricks/font-awesome">FontAwesome</a></li>
+
     </ul>
 </div>
 
