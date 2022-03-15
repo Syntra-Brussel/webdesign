@@ -274,3 +274,6 @@ items:
         published: 'yes'
         collection: tricks
         title: 'Toegankelijkheid en ARIA attributen'                
+  - url: /eindproef-html
+    published: 'no'
+    title: 'eindproef HTML'        
