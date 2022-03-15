@@ -14,6 +14,8 @@ Afhankelijk van het type vraag zijn er verschillende client programma's die kunn
 
 ## Tonen van een webpagina
 
+### De server: een webserver
+
 <img src="/webdesign/tips-and-tricks/images/client_server.png">
 Een HTML pagina (met bijhorende CSS / JS / beelden is in principe een eenvoudig data dat volledig wordt geïnterpreteerd door een browser. We spreken hierbij over "statische" inhoud. Een server dient in dit geval enkel om de informatie (HTML / CSS / JS / beelden) publiek aan te bieden. De informatie wordt gedownload naar de computer en daar verwerkt. 
 
