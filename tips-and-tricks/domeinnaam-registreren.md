@@ -31,10 +31,10 @@ De persoon die de domeinnaam heeft geregistreerd. Een domeinnaam is altijd eigen
 
 ## Een beetje technisch
 
-## Nameserver record
+### Nameserver record
 De verschillende taken die via een domeinnaam worden mogelijk gemaakt worden verzameld in een DNS record.
 
-## Name server 
+### Name server 
 Het beheer van het Nameserver record gebeurt via een Name server. De registrar legt de link naar de nameserver. De nameserver hoeft niet beheerd te worden door de registrar maar hij biedt die dienst meestal ook wel aan.
 
 Een voorbeeld van een domeinnaam die geregistreerd is bij registrar BNamed, maar het beheer van nameserver record gebeurt via Combell:
