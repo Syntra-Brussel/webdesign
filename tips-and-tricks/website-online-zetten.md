@@ -10,15 +10,18 @@ In de client-server architectuur is de client de partij die een vraag stelt, de 
 
 Het werk dat een server heeft met het beantwoorden van de vraag is afhankelijk van het type vraag.
 
-Afhankelijk van het type vraag zijn er verschillende client programma's die kunnen worden gebruikt. Ze werken via een bepaald protocol om te communiceren met de server en om het antwoord dus correct te interpreteren.
+Afhankelijk van het type vraag zijn er verschillende client programma's die kunnen worden gebruikt. 
+Afhankelijk van de type vraag worden ook verschillende types server aangesproken.
 
-## Tonen van een webpagina
+## De vragen
+
+### Tonen van een webpagina
 
 <blockquote>
 Hypertekst; hypertext - document waarin verwijzingen (gemarkeerde woorden of hyperlinks ) zijn opgenomen naar bepaalde informatie (tekstfragmenten). Door met de muis op het gemarkeerd woord of de hyperlink te klikken, komt men terecht bij de informatie. Het world wide web is gebaseerd op het systeem van hypertekst.
 </blockquote>
 
-### De server: een webserver
+#### De server: een webserver
 
 De meest courant gebruikte webserver zijn Apache, Nginx, IIS 
 <img src="/webdesign/tips-and-tricks/images/client_server.png">
@@ -28,9 +31,9 @@ Tot nu toe hebben we trouwens de HTML gebouwd op onze computer en zo meteen in o
 
 De <strong>"dynamische"</strong> inhoud wordt opgevraagd via de PHP extensie. De output van een PHP script is HTML maar die wordt gebouwd wanneer die wordt opgevraagd.
 
-### De client: een webbrowser
+#### De client: een webbrowser
 
-### Het protocol: http of https
+#### Het protocol: http of https
 
 Het HTTP protocol staat voor <strong>Hyper<strong>t</strong>ext <strong>T</strong>ransfer <strong>P</strong>rotocol.
 
@@ -38,7 +41,7 @@ Het is een protocol dat heel snel data van een server naar een client stuurt. In
 
 Wanneer informatie gecommuniceerd via https wordt verstuurd tussen client en server versleuteld aan de hand van een certificaat. Dit heeft de absolute voorkeur tegenwoordig, zéker als informatie verstuurd vanaf de website via bv. een formulier.
 
-### De URL
+#### De URL
 
 Elke webpagina heeft een uniek adres: de URL
 
