@@ -16,10 +16,13 @@ Afhankelijk van het type vraag zijn er verschillende client programma's die kunn
 
 ### De server: een webserver
 
+De meest courant gebruikte webserver zijn Apache, Nginx, IIS 
 <img src="/webdesign/tips-and-tricks/images/client_server.png">
-Een HTML pagina (met bijhorende CSS / JS / beelden is in principe een eenvoudig data dat volledig wordt geïnterpreteerd door een browser. We spreken hierbij over "statische" inhoud. Een server dient in dit geval enkel om de informatie (HTML / CSS / JS / beelden) publiek aan te bieden. De informatie wordt gedownload naar de computer en daar verwerkt. 
+Een HTML pagina (met bijhorende CSS / JS / beelden is in principe een eenvoudig data dat volledig wordt geïnterpreteerd door een browser. We spreken hierbij over <strong>"statische"</strong> inhoud. Een server dient in dit geval enkel om de informatie (HTML / CSS / JS / beelden) publiek aan te bieden. De informatie wordt gedownload naar de computer en daar verwerkt. 
 
 Tot nu toe hebben we trouwens de HTML gebouwd op onze computer en zo meteen in onze browser getoond. 
+
+De <strong>"dynamische"</strong> inhoud wordt opgevraagd via de PHP extensie. De output van een PHP script is HTML maar die wordt gebouwd wanneer die wordt opgevraagd.
 
 ### De client: een webbrowser
 
