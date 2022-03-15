@@ -7,6 +7,7 @@ url: /eindproef-html
     <h3>Instructies</h3>
     <ul>
         <li>Voorzie de HTML code voor het design hieronder.</li>
+        <li>Het beeldmateriaal krijg je bij het onderdeel "CSS". Gebruik voorlopig een <a href="/webdesign/tips-and-tricks/placeholder">placeholder</a>.</li>
     </ul>
 </div>
 
