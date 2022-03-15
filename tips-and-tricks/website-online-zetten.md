@@ -40,12 +40,11 @@ Wanneer informatie gecommuniceerd via https wordt verstuurd tussen client en ser
 
 ### De URL
 
-Elke webpagina heeft een uniek adres: de URL.
+Elke webpagina heeft een uniek adres: de URL
 
 <img src="/webdesign/tips-and-tricks/images/url.png">
 
-* het protocol: http(s)
-* de domeinnaam die achterliggend verwijst naar een IP adres (elke publieke server heeft een publiek IP adres)
-* de folder op de server
-* het bestand op de server
-
+* <span style="color: red">het protocol:</span> http(s)
+* <span style="color: green">de domeinnaam</span> die achterliggend verwijst naar een IP adres (elke publieke server heeft een publiek IP adres)
+* <span style="color: dark-blue">de folder</span> op de server
+* <span style="color: orange">het bestand</span> op de server
