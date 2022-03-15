@@ -14,6 +14,10 @@ Afhankelijk van het type vraag zijn er verschillende client programma's die kunn
 
 ## Tonen van een webpagina
 
+<blockquote>
+Hypertekst; hypertext - document waarin verwijzingen (gemarkeerde woorden of hyperlinks ) zijn opgenomen naar bepaalde informatie (tekstfragmenten). Door met de muis op het gemarkeerd woord of de hyperlink te klikken, komt men terecht bij de informatie. Het world wide web is gebaseerd op het systeem van hypertekst.
+</blockquote>
+
 ### De server: een webserver
 
 De meest courant gebruikte webserver zijn Apache, Nginx, IIS 
@@ -30,9 +34,7 @@ De <strong>"dynamische"</strong> inhoud wordt opgevraagd via de PHP extensie. De
 
 Het HTTP protocol staat voor <strong>Hyper<strong>t</strong>ext <strong>T</strong>ransfer <strong>P</strong>rotocol.
 
-<blockquote>
-Hypertekst; hypertext - document waarin verwijzingen (gemarkeerde woorden of hyperlinks ) zijn opgenomen naar bepaalde informatie (tekstfragmenten). Door met de muis op het gemarkeerd woord of de hyperlink te klikken, komt men terecht bij de informatie. Het world wide web is gebaseerd op het systeem van hypertekst.
-</blockquote>
+
 
 Het is een protocol dat heel snel data van een server naar een client stuurt. In 1989 startte dit enkel voor tekst. Gaandeweg kon elke bestand via dat protocol van server naar client verstuurd worden. 
 
