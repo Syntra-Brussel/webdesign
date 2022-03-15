@@ -273,7 +273,11 @@ items:
       - url: /tips-and-tricks/aria
         published: 'yes'
         collection: tricks
-        title: 'Toegankelijkheid en ARIA attributen'                
+        title: 'Toegankelijkheid en ARIA attributen' 
+      - url: /tips-and-tricks/website-online-zetten
+        published: 'yes'
+        collection: tricks
+        title: 'Website online zetten'                        
 #  - url: /eindproef-html
 #    published: 'no'
 #    title: 'eindproef HTML'        
