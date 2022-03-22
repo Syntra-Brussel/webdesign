@@ -1,15 +1,15 @@
 ---
 layout: template
-title: 'Eindproef HTML'
-url: /eindproef-html
+title: 'Eindproef CSS'
+url: /eindproef-css
 ---
 <div class="highlight">
     <h3>Instructies</h3>
     <ul>
         <li>Voorzie de CSS code bij de geleverde HTML code.</li>
-        <li>Hier beeldmateriaal kan je <a href="">hier</a> downloaden.</li>
+        <li>Start met door de bestanden <a href="/webdesign/eindproef/start_css.zip">hier</a> te downloaden.</li>
         <li>De CSS is volledig te bouwen met de CSS die we hebben geleerd maar je mag gerust ook andere CSS code gebruiken.</li>
-        <li>Plaats de bestanden op GIT in de folder "eindproef". Werk voor de bestandstructuur volgens de <a target="_blank" href="/webdesign/tips-and-tricks/bestandsnamen">afspraken</a>.</li>
+        <li>Plaats de bestanden op GIT in de folder "eindproef". Werk voor de bestandstructuur volgens de <a target="_blank" href="/webdesign/tips-and-tricks/bestandsnamen">afspraken</a>.</li> 
     </ul> 
 </div>
 
