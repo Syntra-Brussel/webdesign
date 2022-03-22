@@ -10,7 +10,7 @@ url: /eindproef-html
         <li>Het beeldmateriaal krijg je bij het onderdeel "CSS". Gebruik voorlopig een <a target="_blank" href="/webdesign/tips-and-tricks/placeholder">placeholder</a>.</li>
         <li>De oefening is volledig te bouwen met wat we geleerd hebben tijdens deze module</li>
         <li>Plaats de bestanden op GIT in de folder "eindproef". Werk voor de bestandstructuur volgens de <a target="_blank" href="/webdesign/tips-and-tricks/bestandsnamen">afspraken</a>.</li>
-    </ul>
+    </ul> 
 </div>
 
 <div class="highlight">
