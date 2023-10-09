@@ -53,31 +53,31 @@ items:
             published: 'yes'
             title: 'Tabel element'
           - url: /html/elementen/oefening_2
-            published: 'yes'
+            published: 'no'
             title: 'OEFENING 2: Tijdschema'
           - url: /html/elementen/formulier_elementen
-            published: 'yes'
+            published: 'no'
             title: 'Formulier elementen'
           - url: /html/elementen/oefening_3
-            published: 'yes'
+            published: 'no'
             title: 'OEFENING 3: Sollicitatieformulier'            
           - url: /html/elementen/semantisch_vs_niet_semantisch
-            published: 'yes'
+            published: 'no'
             title: 'Niet-semantische vs. semantische elementen'
           - url: /html/elementen/semantische_elementen
-            published: 'yes'
+            published: 'no'
             title: 'Semantische elementen'  
           - url: /html/elementen/block_vs_inline_block
-            published: 'yes'
+            published: 'no'
             title: 'Block elementen vs. inline-block elementen'
           - url: /html/elementen/oefening_4
-            published: 'yes'
+            published: 'no'
             title: 'OEFENING 4: Hondenhoekje'                                 
       - url: /html/samenvatting
         published: 'no'
         title: Samenvatting
       - url: /html/extra_oefening
-        published: 'yes'
+        published: 'no'
         title: Extra oefening
         collection: extra_oefeningen
         subjects:
@@ -94,7 +94,7 @@ items:
             published: 'yes'
             title: 'EXTRA OEFENING 4: Obelisk'
   - url: /css
-    published: 'yes'
+    published: 'no'
     collection: css
     title: 'CSS'
     topics:
@@ -172,7 +172,7 @@ items:
         published: 'yes'
         title: 'OEFENING: Fotografie'    
   - url: /rwd
-    published: 'yes'
+    published: 'no'
     collection: rwd
     title: 'RWD'
     topics:
@@ -201,7 +201,7 @@ items:
         published: 'yes' 
         title: 'OEFENING: Reizen'                       
   - url: /inspectietool  
-    published: 'yes'
+    published: 'no'
     collection: inspectietool  
     title: 'Inspectietool gebruiken'
     topics:
