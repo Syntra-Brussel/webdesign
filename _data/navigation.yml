@@ -50,16 +50,16 @@ items:
             published: 'yes'
             title: 'OEFENING 1: Basis elementen'            
           - url: /html/elementen/tabel_element
-            published: 'no'
+            published: 'yes'
             title: 'Tabel element'
           - url: /html/elementen/oefening_2
-            published: 'no'
+            published: 'yes'
             title: 'OEFENING 2: Tijdschema'
           - url: /html/elementen/formulier_elementen
-            published: 'no'
+            published: 'yes'
             title: 'Formulier elementen'
           - url: /html/elementen/oefening_3
-            published: 'no'
+            published: 'yes'
             title: 'OEFENING 3: Sollicitatieformulier'            
           - url: /html/elementen/semantisch_vs_niet_semantisch
             published: 'no'
