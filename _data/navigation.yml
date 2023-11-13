@@ -65,13 +65,13 @@ items:
             published: 'no'
             title: 'Niet-semantische vs. semantische elementen'
           - url: /html/elementen/semantische_elementen
-            published: 'no'
+            published: 'yes'
             title: 'Semantische elementen'  
           - url: /html/elementen/block_vs_inline_block
-            published: 'no'
-            title: 'Block elementen vs. inline-block elementen'
+            published: 'yes'
+            title: 'Block elementen vs. inline elementen'
           - url: /html/elementen/oefening_4
-            published: 'no'
+            published: 'yes'
             title: 'OEFENING 4: Hondenhoekje'                                 
       - url: /html/samenvatting
         published: 'no'
