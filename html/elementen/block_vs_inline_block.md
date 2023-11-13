@@ -1,6 +1,6 @@
 ---
 layout: template
-title: Block vs. inline-block elementen
+title: Block vs. inline elementen
 url: /html/elementen/block_vs_inline_block
 collection: [html, elementen]
 ---
@@ -36,12 +36,12 @@ Zonder specifieke opmaak neem een block element de volledige breedte van het sch
 <li><code>&lt;video&gt;</code></li>
 </ul>
 
-## Inline-block element
+## Inline element
 
 <img src="{{ '/html/elementen/images/inline_block.png' | relative_url}}" />
 
 
-Zonder specifieke opmaak neemt een inline-block element maar zoveel ruimte in als de inhoud nodig heeft en komt het naast het vorige inline-block element te staan.
+Zonder specifieke opmaak neemt een inline element maar zoveel ruimte in als de inhoud nodig heeft en komt het naast het vorige inline element te staan.
 
 <ul>
 <li><code>&lt;a&gt;</code></li>
