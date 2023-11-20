@@ -74,10 +74,10 @@ items:
             published: 'yes'
             title: 'OEFENING 4: Hondenhoekje'                                 
       - url: /html/samenvatting
-        published: 'no'
+        published: 'yes'
         title: Samenvatting
       - url: /html/extra_oefening
-        published: 'no'
+        published: 'yes'
         title: Extra oefening
         collection: extra_oefeningen
         subjects:
