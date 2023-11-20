@@ -31,6 +31,6 @@ Het <code>id</code> en <code>class</code> attribuut van een element zijn belangr
 </blockquote>
 
 <blockquote>
-<strong>Inline-block elementen</strong> hebben maar de breedte van de inhoud zelf. Verschillende inline-block elementen worden dus naast mekaar geplaatst indien mogelijk.
+<strong>Inline elementen</strong> hebben maar de breedte van de inhoud zelf. Verschillende inline elementen worden dus naast mekaar geplaatst indien mogelijk.
 <img src="{{ '/html/elementen/images/inline_block.png' | relative_url}}" />
 </blockquote>
