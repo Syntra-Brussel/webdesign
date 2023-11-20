@@ -83,7 +83,7 @@ items:
         subjects:
           - url: /html/extra_oefeningen/extra_oefening_1
             published: 'yes'
-            title: 'EXTRA OEFENING 1: formulier'     
+            title: 'EXTRA OEFENING 1: Obelisk'     
           - url: /html/extra_oefeningen/extra_oefening_2
             published: 'yes'
             title: 'EXTRA OEFENING 2: Business as Usual'     
@@ -92,7 +92,7 @@ items:
             title: 'EXTRA OEFENING 3: Factuur'       
           - url: /html/extra_oefeningen/extra_oefening_4
             published: 'yes'
-            title: 'EXTRA OEFENING 4: Obelisk'
+            title: 'EXTRA OEFENING 4: formulier'
   - url: /css
     published: 'no'
     collection: css
