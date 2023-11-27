@@ -94,7 +94,7 @@ items:
             published: 'yes'
             title: 'EXTRA OEFENING 4: formulier'
   - url: /css
-    published: 'no'
+    published: 'yes'
     collection: css
     title: 'CSS'
     topics:
