@@ -154,22 +154,22 @@ items:
         published: 'yes'
         title: 'OEFENING: Artikel'                                                   
       - url: /css/flexbox
-        published: 'yes'
+        published: 'no'
         title: Flexbox                                   
       - url: /css/oefening_4_artikels
-        published: 'yes'
+        published: 'no'
         title: 'OEFENING: 4 artikels'                                                   
       - url: /css/oefening_basis_structuur
-        published: 'yes'
+        published: 'no'
         title: 'OEFENING: Basis structuur'  
       - url: /css/oefening_fietsenmaker
-        published: 'yes'
+        published: 'no'
         title: 'OEFENING: Fietsenmaker'  
       - url: /css/oefening_reizen
-        published: 'yes'
+        published: 'no'
         title: 'OEFENING: Reizen'  
       - url: /css/oefening_fotografie
-        published: 'yes'
+        published: 'no'
         title: 'OEFENING: Fotografie'    
   - url: /rwd
     published: 'no'
