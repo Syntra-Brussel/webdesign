@@ -140,10 +140,7 @@ items:
             title: 'Omlijnen'    
           - url: /css/ruimte/centreren
             published: 'yes'
-            title: 'Element centreren'  
-      - url: /css/floating
-        published: 'no'
-        title: Floating            
+            title: 'Element centreren'            
       - url: /css/block-inline-block
         published: 'yes'
         title: Block, inline-block             
@@ -152,18 +149,21 @@ items:
         title: 'OEFENING: Eerste experiment'
       - url: /css/oefening_artikel
         published: 'yes'
-        title: 'OEFENING: Artikel'                                                   
+        title: 'OEFENING: Artikel'    
+      - url: /css/floating
+        published: 'yrd'
+        title: Floating                                               
       - url: /css/flexbox
-        published: 'no'
+        published: 'yes'
         title: Flexbox                                   
       - url: /css/oefening_4_artikels
-        published: 'no'
+        published: 'yes'
         title: 'OEFENING: 4 artikels'                                                   
       - url: /css/oefening_basis_structuur
-        published: 'no'
+        published: 'yes'
         title: 'OEFENING: Basis structuur'  
       - url: /css/oefening_fietsenmaker
-        published: 'no'
+        published: 'yes'
         title: 'OEFENING: Fietsenmaker'  
       - url: /css/oefening_reizen
         published: 'no'
