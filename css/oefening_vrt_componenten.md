@@ -29,14 +29,18 @@ links:
     </ul>
 </div>
 
-
+<h3>artikel 1</h3>
 <img src="/webdesign/css/oefeningen/vrt_artikel_1.png" />
 
+<h3>artikel 2</h3>
 <img src="/webdesign/css/oefeningen/vrt_artikel_2.png" />
 
+<h3>artikel feedback</h3>
 <img src="/webdesign/css/oefeningen/vrt_artikel_feedback.png" />
 
+<h3>sporza call-to-action</h3>
 <img src="/webdesign/css/oefeningen/vrt_sporza_cta.png" />
 
+<h3>top bar</h3>
 <img src="/webdesign/css/oefeningen/vrt_top_bar.png" />
 
