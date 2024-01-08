@@ -13,16 +13,16 @@ links:
         <li>maak de bestanden aan volgens de conventies (zie link onderaan) in de folder "vrt_componenten"</li>
         <li>Voorzie één HTML pagina die de onderstaande componenten groepeerd. Voorzie ook alle CSS in één CSS bestand. Start de CSS selector telkens met een class specifiek per component.
             <pre>
-            /* sporza call-to-action */
-            .sporza-cta {
+/* sporza call-to-action */
+.sporza-cta {
 
-            }
+}
 
-            .sporza-cta ... {
+.sporza-cta ... {
 
-            }
-            ...
-            </pre>
+}
+...
+           </pre>
         </li>
         <li>TIP: gebruik de website vrtnws.be en de inspectietool om componenten zo waarheidsgetrouw te maken. Je kan alvast ook laten inspireren door de CSS.
         </li>
