@@ -1,0 +1,42 @@
+---
+layout: template
+title: 'OEFENING: componenten'
+url: /css/oefening_componenten
+collection: [css]
+links:
+  - url: /webdesign/tips-and-tricks/bestandsnamen
+    title: 'Project structuur: bestanden en mappen'  
+---
+<div class="highlight">
+    <h3>Instructies</h3>
+    <ul>
+        <li>maak de bestanden aan volgens de conventies (zie link onderaan) in de folder "vrt_componenten"</li>
+        <li>Voorzie één HTML pagina die de onderstaande componenten groepeerd. Voorzie ook alle CSS in één CSS bestand. Start de CSS selector telkens met een class specifiek per component.
+            <pre>
+            /* sporza call-to-action */
+            .sporza-cta {
+
+            }
+
+            .sporza-cta ... {
+
+            }
+            ...
+            </pre>
+        </li>
+        <li>TIP: gebruik de website vrtnws.be en de inspectietool om componenten zo waarheidsgetrouw te maken. Je kan alvast ook laten inspireren door de CSS.
+        </li>
+    </ul>
+</div>
+
+
+<img src="/webdesign/css/oefeningen/vrt_artikel_1.png" />
+
+<img src="/webdesign/css/oefeningen/vrt_artikel_2.png" />
+
+<img src="/webdesign/css/oefeningen/vrt_artikel_feedback.png" />
+
+<img src="/webdesign/css/oefeningen/vrt_sporza_cta.png" />
+
+<img src="/webdesign/css/oefeningen/vrt_top_bar.png" />
+
