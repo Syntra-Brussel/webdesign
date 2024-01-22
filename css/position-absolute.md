@@ -50,3 +50,20 @@ deserunt mollit anim id est laborum.
 <div class="shadow">
     <img src="images/absolute.png" />
 </div>
+
+<h2>z-index</h2>
+
+<p>Via het <code>z-index</code> attribuut kan je de volgorde bepalen om zo (absolute) elementen naar voor of achter te verplaatsen. Standaard heeft de z-index de waarde 0.</p>
+
+<p>CSS:</p>
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+#visual {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    z-index: -1;
+}</pre>
+
+<div class="shadow">
+    <img src="images/absolute-zindex.png" />
+</div>
