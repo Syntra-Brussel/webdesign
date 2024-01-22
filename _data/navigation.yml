@@ -151,8 +151,11 @@ items:
         published: 'yes'
         title: 'OEFENING: Artikel'    
       - url: /css/floating
-        published: 'yrd'
-        title: Floating                                               
+        published: 'yes'
+        title: Floating    
+      - url: /css/position-absolute
+        published: 'yes'
+        title: Floating                                                       
       - url: /css/flexbox
         published: 'yes'
         title: Flexbox                                   
