@@ -53,7 +53,7 @@ deserunt mollit anim id est laborum.
 
 <h2>z-index</h2>
 
-<p>Via het <code>z-index</code> attribuut kan je de volgorde bepalen om zo (absolute) elementen naar voor of achter te verplaatsen. Standaard heeft de z-index de waarde 0.</p>
+<p>Via het <code>z-index</code> attribuut kan je de volgorde bepalen om zo (absolute) elementen naar voor of achter te verplaatsen. <strong>Standaard</strong> heeft de z-index de <strong>waarde 0</strong>.</p>
 
 <p>CSS:</p>
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
