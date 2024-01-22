@@ -41,8 +41,8 @@ deserunt mollit anim id est laborum.
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 #visual {
     position: absolute;
-    left: 100px;
-    top: 100px;
+    left: 50px;
+    top: 50px;
 }</pre>
 
 <p>Resultaat:</p>
@@ -59,8 +59,8 @@ deserunt mollit anim id est laborum.
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 #visual {
     position: absolute;
-    left: 100px;
-    top: 100px;
+    left: 50px;
+    top: 50px;
     z-index: -1;
 }</pre>
 
