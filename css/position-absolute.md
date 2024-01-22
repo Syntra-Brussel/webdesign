@@ -8,10 +8,10 @@ collection: [css]
 
 <p>De <strong>links-boven positie</strong> is gerelateerd aan het element waar het rond staat met <code>position: relative</code>. Als dat er niet is wordt het body element als referentie gebruikt.</p>
 
-<p>Door <code>left: 100px</code> te gebruiken positioneer je het element 100px naar rechts ten opzicht van de linkse postie van het eerste relatief element.<br>
-Door <code>right: 100px</code> te gebruiken positioneer je het element 100px naar link ten opzicht van de rechtse postie van het eerste relatief element.</br>
-Door <code>top: 100px</code> te gebruiken positioneer je het element 100px naar beneden ten opzicht van de boven postie van het eerste relatief element.</br>
-Door <code>bottom: 100px</code> te gebruiken positioneer je het element 100px naar boven ten opzicht van de onder postie van het eerste relatief element.</p>
+<p>Door <code>left: 100px</code> te gebruiken positioneer je het element 100 pixels naar rechts ten opzicht van de linkse postie van het eerste relatief element.<br>
+Door <code>right: 100px</code> te gebruiken positioneer je het element 100 pixels naar link ten opzicht van de rechtse postie van het eerste relatief element.</br>
+Door <code>top: 100px</code> te gebruiken positioneer je het element 100 pixels naar beneden ten opzicht van de boven postie van het eerste relatief element.</br>
+Door <code>bottom: 100px</code> te gebruiken positioneer je het element 100 pixels naar boven ten opzicht van de onder postie van het eerste relatief element.</p>
 <p>Je kan <code>left</code> en <code>right</code> niet samen gebruiken. Ook <code>top</code> en <code>bottom</code> kan je niet samen gebruiken.</p>
 
 <p><strong>Voorbeeld waarbij <code>&lt;body&gt;<code> als relatief element wordt genomen</strong></p>
