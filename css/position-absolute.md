@@ -14,7 +14,8 @@ Door <code>top: 100px</code> te gebruiken positioneer je het element 100 pixels 
 Door <code>bottom: 100px</code> te gebruiken positioneer je het element 100 pixels naar boven ten opzicht van de onder postie van het eerste relatief element.</p>
 <p>Je kan <code>left</code> en <code>right</code> niet samen gebruiken. Ook <code>top</code> en <code>bottom</code> kan je niet samen gebruiken.</p>
 
-<p><strong>Voorbeeld waarbij <code>&lt;body&gt;<code> als relatief element wordt genomen</strong></p>
+<p><strong>Voorbeeld waarbij <code>&lt;body&gt;</code> als relatief element wordt genomen</strong></p>
+
 <p>HTML:</p>
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;img id="visual" src="dummy_600x400_ffffff_cccccc.png" /&gt;
@@ -54,7 +55,7 @@ deserunt mollit anim id est laborum.
     <img src="images/absolute.png" />
 </div>
 
-<p><strong>Voorbeeld waarbij <code>&lt;p&gt;<code> als relatief element wordt genomen</strong></p>
+<p><strong>Voorbeeld waarbij <code>&lt;p&gt;</code> als relatief element wordt genomen</strong></p>
 <p>HTML:</p>
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
 &lt;p&gt;
