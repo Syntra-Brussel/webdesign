@@ -1,7 +1,7 @@
 ---
 layout: template
-title: Floating
-url: /css/floating
+title: Position absoluut
+url: /css/position-absolute
 collection: [css]
 ---							
 <p>Door <code>position: absolute</code>te gebruiken in een CSS selector ga het element een absolute postie geven. Het element gaat zich dus niet meer positioneren voor of na het element in de HTML structuur zoals standaard bij block of inline elementen.</p>
