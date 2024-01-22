@@ -67,3 +67,17 @@ deserunt mollit anim id est laborum.
 <div class="shadow">
     <img src="images/absolute-zindex.png" />
 </div>
+
+<h2>absolute vs fixed</h2>
+<p>Bij het gebruik van <code>position: absolute</code> zal het element nog mee scrollen. De <strong>links-boven positie</strong> is dan gerelateerd het <strong>document</strong>.</p> 
+<p>Als je <code>position: fixed</code> gebruikt blijft de positie gefixeerd, ook als je scrollt. De <strong>links-boven positie</strong> is dan gerelateerd aan die van het <strong>zichtbare scherm</strong>.</p>
+
+<p>Absoluut en dan omlaag gescrollt:</p>
+<div class="shadow">
+    <img src="images/absolute-scroll.png" />
+</div>
+
+<p>Fixed en dan omlaag gescrollt:</p>
+<div class="shadow">
+    <img src="images/fixed-scroll.png" />
+</div>
