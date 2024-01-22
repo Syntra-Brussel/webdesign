@@ -155,7 +155,7 @@ items:
         title: Floating    
       - url: /css/position-absolute
         published: 'yes'
-        title: Floating                                                       
+        title: Position absolute                                                       
       - url: /css/flexbox
         published: 'yes'
         title: Flexbox                                   

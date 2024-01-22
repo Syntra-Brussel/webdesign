@@ -10,28 +10,30 @@ collection: [css]
 Door <code>right: 100px</code> te gebruiken positioneer je het element 100px van de rechter kant.</br>
 Door <code>top: 100px</code> te gebruiken positioneer je het element 100px van de bovenkant.</br>
 Door <code>bottom: 100px</code> te gebruiken positioneer je het element 100px van de onderkant.</p>
-<p>Je kan <code>left<code> en <code>right</code> niet samen gebruiken. Ook <code>top</code> en <code>bottom</code> kan je niet samen gebruiken.</p>
+<p>Je kan <code>left</code> en <code>right</code> niet samen gebruiken. Ook <code>top</code> en <code>bottom</code> kan je niet samen gebruiken.</p>
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="html">
 <img id="visual" src="dummy_600x400_ffffff_cccccc.png" />
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-            sed do eiusmod tempor incididunt ut labore et dolore magna 
-            aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
-            ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit 
-            esse cillum dolore eu fugiat nulla pariatur. <br />
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
-            deserunt mollit anim id est laborum.</p>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-            sed do eiusmod tempor incididunt ut labore et dolore magna 
-            aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
-            ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit 
-            esse cillum dolore eu fugiat nulla pariatur. <br />
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
-            deserunt mollit anim id est laborum.</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+sed do eiusmod tempor incididunt ut labore et dolore magna 
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
+ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit 
+esse cillum dolore eu fugiat nulla pariatur. <br />
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
+deserunt mollit anim id est laborum.
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+sed do eiusmod tempor incididunt ut labore et dolore magna 
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
+ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit 
+esse cillum dolore eu fugiat nulla pariatur. <br />
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
+deserunt mollit anim id est laborum.
+</p>
 </pre>
 
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
