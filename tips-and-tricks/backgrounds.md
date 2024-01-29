@@ -74,6 +74,22 @@ We hebben geleerd hoe je een beeld gebruikt via het <code><img></code> element. 
 }
 </pre>
 
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+.with-background {
+  background: url('https://www.w3schools.com/css/mountain.jpg');
+}
+</pre>
+
+Mooi centreren en schalen:
+<pre data-enlighter-theme="beyond" data-enlighter-language="css">
+.center-and-scale {
+  background: url('https://www.w3schools.com/css/mountain.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</pre>
+
 Experimenteer nu wat met de eigenschappen  <code>background-size</code>, <code>background-repeat</code> en <code>background-position</code>.
 
 De sky is the limit.
