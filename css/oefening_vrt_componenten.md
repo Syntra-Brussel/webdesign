@@ -44,3 +44,8 @@ links:
 <h3>top bar</h3>
 <img src="/webdesign/css/oefeningen/vrt_top_bar.png" />
 
+<h3>VRT call-to-action 1</h3>
+<img src="/webdesign/css/oefeningen/vrt_cta_1.png" />
+
+<h3>VRT call-to-action 2</h3>
+<img src="/webdesign/css/oefeningen/vrt_cta_2.png" />
