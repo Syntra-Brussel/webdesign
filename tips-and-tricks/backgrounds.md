@@ -74,12 +74,6 @@ We hebben geleerd hoe je een beeld gebruikt via het <code><img></code> element. 
 }
 </pre>
 
-<pre data-enlighter-theme="beyond" data-enlighter-language="css">
-.with-background {
-  background: url('https://www.w3schools.com/css/mountain.jpg');
-}
-</pre>
-
 Mooi centreren en schalen:
 <pre data-enlighter-theme="beyond" data-enlighter-language="css">
 .center-and-scale {
