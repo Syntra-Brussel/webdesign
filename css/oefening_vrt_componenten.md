@@ -14,10 +14,10 @@ links:
             Component based werken heeft als grote voordeel dat je CSS schrijft per component zonder al meteen aan het grotere geheel te moeten denken. Uiteindelijk is een website een configuratie van componenten maar de focus ligt op elk component individueel.
         </li>
         <li>
-            Door élk component een specifieke class te geven en de CSS voor dat component te starten met <pre>.component-naam ... { ... }</pre> ben je verplicht de CSS per component goed te hebben en is de invloed van CSS op een ander component beperkt.
+            Door élk component een specifieke class te geven en de CSS voor dat component te starten met <code>.component-naam ... { ... }</code> ben je verplicht de CSS per component goed te hebben en is de invloed van CSS op een ander component beperkt.
         </li>
         <li> 
-            Waar mogelijk is het uiteraard wel wenselijk dat zaken die in verschillende componenten weer keren niet voor elk component afzonderlijk te definiëren. Een goed voorbeeld is bijvoorbeeld de knop (of link die er als een knop uit ziet). We doen dat door elke component ook de class <pre>.component</pre> mee te geven. zo kan je dus via <pre>.component .button { ... }</pre> de CSS schrijven en zal die CSS gebruikt worden in alle componenten waar een element met class <pre>button</pre> voor komt.
+            Waar mogelijk is het uiteraard wel wenselijk dat zaken die in verschillende componenten weer keren niet voor elk component afzonderlijk te definiëren. Een goed voorbeeld is bijvoorbeeld de knop (of link die er als een knop uit ziet). We doen dat door elke component ook de class <code>.component</code> mee te geven. zo kan je dus via <code>.component .button { ... }</code> de CSS schrijven en zal die CSS gebruikt worden in alle componenten waar een element met class <code>button</code> voor komt.
         </li>
         <li>
             Wat we dus bij het ontwerpen van de componenten nog niet doen is deze in een bepaalde configuratie plaatsen. Maar dat is wel een fluitje van een cent als de CSS per component goed geschreven is.
