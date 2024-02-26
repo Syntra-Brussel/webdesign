@@ -1,7 +1,7 @@
 ---
 layout: template
 title: 'OEFENING: VRT NWS componenten'
-url: /rwd/breakpoints/oefening-vrt-componenten
+url: /rwd/oefening-vrt-componenten
 collection: [rwd]
 ---
 <div class="highlight">
@@ -17,12 +17,12 @@ collection: [rwd]
     <strong>Desktop</strong><br />
     <img src="https://syntra-brussel.github.io/webdesign/css/oefeningen/vrt_cta_2.png" />
     <strong>Mobile</strong><br />
-    <img src="https://syntra-brussel.github.io/webdesign/rwd/images/cta_mobile.png" />
+    <img src="https://syntra-brussel.github.io/webdesign/rwd/images/cta-mobile.png" />
 </p>
 <h3>Sporza</h3>
 <p>
     <strong>Desktop</strong><br />
-    <img src="https://syntra-brussel.github.io/webdesign/css/oefeningen/vrt_cta_2.png" />
+    <img src="https://syntra-brussel.github.io/webdesign/css/oefeningen/vrt_sporza_cta.png" />
     <strong>Mobile</strong><br />
-    <img src="https://syntra-brussel.github.io/webdesign/rwd/images/cta_mobile.png" />
+    <img src="https://syntra-brussel.github.io/webdesign/rwd/images/sporza-mobile.png" />
 </p>

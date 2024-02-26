@@ -187,7 +187,7 @@ items:
         title: 'Breakpoints via @media queries'
         collection: rwd   
         subjects: 
-        - url: /rwd/breakpoints/oefening-vrt-componenten
+        - url: /rwd/oefening-vrt-componenten
           published: 'yes' 
           title: 'OEFENING: VRT componenten'               
       - url: /rwd/desktop-first-vs-mobile-first
