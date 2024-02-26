@@ -186,6 +186,10 @@ items:
         published: 'yes'
         title: 'Breakpoints via @media queries'
         collection: rwd   
+        subjects: 
+        - url: /rwd/breakpoints/oefening-vrt-componenten
+          published: 'yes' 
+          title: 'OEFENING: VRT componenten'               
       - url: /rwd/desktop-first-vs-mobile-first
         published: 'yes'
         title: 'Desktop first vs. Mobile first'
