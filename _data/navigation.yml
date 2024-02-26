@@ -178,7 +178,7 @@ items:
         published: 'no'
         title: 'OEFENING: Fotografie'    
   - url: /rwd
-    published: 'no'
+    published: 'yes'
     collection: rwd
     title: 'RWD'
     topics:
