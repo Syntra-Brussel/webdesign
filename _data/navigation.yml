@@ -201,10 +201,10 @@ items:
             published: 'yes' 
             title: 'OEFENING: Desktop first vs. Mobile first'                                                                                                                           
       - url: /rwd/oefening-fietsenmaker
-        published: 'yes' 
+        published: 'no' 
         title: 'OEFENING: Fietsenmaker'               
       - url: /rwd/oefening-reizen
-        published: 'yes' 
+        published: 'no' 
         title: 'OEFENING: Reizen'                       
   - url: /inspectietool  
     published: 'no'
