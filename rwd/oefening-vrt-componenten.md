@@ -1,7 +1,7 @@
 ---
 layout: template
 title: 'OEFENING: VRT NWS componenten'
-url: /rwd/vrt-componenten
+url: /rwd/breakpoints/oefening-vrt-componenten
 collection: [rwd]
 ---
 <div class="highlight">
@@ -11,7 +11,7 @@ collection: [rwd]
         <li>Vertrek vanaf mijn code die kan terug vinden in mijn GIT repository.</li>
     </ul>
 </div>
-
+ 
 <h3>Call-to-action</h3>
 <p>
     <strong>Desktop</strong><br />
