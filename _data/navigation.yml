@@ -208,7 +208,7 @@ items:
         published: 'no' 
         title: 'OEFENING: Fietsenmaker'               
       - url: /rwd/oefening-reizen
-        published: 'no' 
+        published: 'yes' 
         title: 'OEFENING: Reizen'                       
   - url: /inspectietool  
     published: 'no'
